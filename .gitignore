@@ -3,8 +3,9 @@
 .RData
 .Ruserdata
 
-secrets.txt
+0_setup.Rmd
 *.nb.html
 
-dev
 complete_versions
+dev
+images
