@@ -1,0 +1,158 @@
+---
+title: "Pull Census Data"
+output: html_document
+---
+
+# Install Packages
+
+Before we do anything, we need to install some packages that will help us complete this tutorial. Packages contain useful tools that help us work with and visualize data. The `tidyverse` package contains tools that will help us filter and merge the different data sets. The `tidycensus` package, as you would image, helps us interact with the Census API to get census data.
+
+To install these packages, copy and paste the code below into your console below this window and press enter. Note, you may need to indicate "y" for yes to continue the installation.
+
+``` r
+install.packages(c("maps", "tidyverse","tidycensus","tinytex"))
+tinytex::install_tinytex()
+```
+
+When the above code is finished running, you will see "\> \|" in your console. Use the green "play" button on the right side of the box below to run the code. It should print out information, but not give you an error.
+
+```{r setup}
+library(tidyverse)
+library(tidycensus)
+library(usmap)
+```
+
+To get more information and training about tidycensus, [check out their website](https://walker-data.com/tidycensus/index.html).
+
+# Research Question
+
+In this exercise, we will investigate the association between lung cancer incidence and median income. You already have lung cancer incidence data in your `data` folder as `lung_cancer.csv`. This cancer data is from the National Cancer Institute's State Cancer Profiles. Let's check out that data set.
+
+```{r}
+lung_cancer = read_csv("data/lung_cancer.csv", show_col_types=F)
+head(lung_cancer$geog)
+```
+
+***What level of geographic data do we have? How do you know?***
+
+# Install Your API Key
+
+To interact with the Census, you need to provide your key to prove who you are. It is important to protect your API keys by not sharing them with others. We can save our API key to our computer using `census_api_key()`. Let's do that below.
+
+```{r api_key}
+census_api_key(key="YOUR KEY GOES HERE", install=TRUE)
+# This should print out your api key
+Sys.getenv("CENSUS_API_KEY")
+```
+
+# How to Request Data
+
+Now that we've saved our API key, we can start asking the census for data. `tidycensus` has convenient functions we can use to ask for data without getting into the specifics. They have a great basic usage guide [here](https://walker-data.com/tidycensus/articles/basic-usage.html). To ask for data, you need to know:
+
+-   The Census survey you want to ask about (American Community Survey? Decennial census?)
+
+-   The geographic level
+
+-   The variable(s) you want
+
+-   The year of the data
+
+For this example, we are looking at 2016-2020 data at the county level. We will use the ACS because it can give us a 5-year estimate of values from 2016-2020. That's 3 of the 4, but which variable do we want? We can look on [the census's API](https://api.census.gov/data/2020/acs/acs5/groups.html) to figure it out.
+
+***Which variable group should we use? Which variable should we use?***
+
+Now that we know all of the information for our request
+
+```{r request}
+census_median_income = get_acs(geography="___",
+                               variables="___",
+                               year=___)
+# See the structure of our data
+str(census_median_income)
+# See the first few rows of our data
+head(census_median_income)
+# See the summary statistics of our median incomes
+summary(census_median_income$estimate)
+```
+
+## How to Request A Lot of Data
+
+Let's say we want to get median income by census tract as well.
+
+```{r, error=T}
+get_acs("tract", variables="B06011_001", year=2020)
+```
+
+What happened? [Let's check the `tidycensus` documentation for a hint.](https://walker-data.com/tidycensus/articles/basic-usage.html#geography-in-tidycensus)
+
+`tidycensus` and the census department have restrictions for how we request data to make sure we aren't requesting too much at one time. Requesting too much at once can clog up their servers or our computer, so they force us to break up big requests into chunks.
+
+```{r one_state}
+head(get_acs("tract", variables="B06011_001", year=2020, state="RI"))
+```
+
+We can then make multiple requests and glue them together to get our full data set.
+
+```{r request_loop}
+states = c("RI", "CA", "IL")
+# Remove the # before the next line get every state, but it may take awhile!
+# states = state.abb
+all_states = data.frame()
+
+for(state in states){
+  this_state = get_acs("tract", variables="B06011_001", year=2020, state=state)
+  all_states = bind_rows(all_states, this_state)
+}
+
+str(all_states)
+# See the states in our data set
+unique(str_split_i(all_states$NAME, ", ", 3))
+```
+
+# Interpret the Response
+
+The data we get back from the census will always have the columns:
+
+-   `GEOID` - The FIPS code
+
+-   `NAME` - The name of that region
+
+-   `variable` - The Census's variable code that we requested
+
+-   `estimate` - The value of that variable
+
+-   `moe` - The measure of error for the estimate
+
+Most of the time, we will use the `GEOID` or the `NAME` to join the census data with other data sets. We will the include the `estimate` column (which you can rename to something more useful) in our statistical models. Let's rename our data so that our column names better reflect what they contain. We can rename the `GEOID` column to `fips` and the `estimate` column to `median_income`.
+
+```{r rename}
+renamed_median_income = census_median_income %>%
+  rename(fips=GEOID,
+         median_income=estimate)
+
+str(renamed_median_income)
+```
+
+# Map the Data
+
+A lot of the time, we will want to map our Census data. Mapping in itself is a form of analysis because it allows us to perceive trends in our data. The `usmap` package provides a convenient way to map your data. Your data must have a `fips` column to use `usmap`.
+
+```{r plot_us}
+plot_usmap(regions = "___",
+           data = ___,
+           values = "___")
+
+# Customization code:
+# scale_fill_gradient(name="Median Income (2020 dollars)", low="white", high="blue")
+# theme(legend.position = "top")
+# ggtitle("Median Income by County")
+```
+
+# Save Your Census Data
+
+Run the next code block to save your census data so that we can use it in the next exercise.
+
+```{r}
+write_csv(renamed_median_income, 
+          file="data/median_income.csv")
+```

@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+secrets.txt
+*.nb.html
+*.pdf
+
+dev

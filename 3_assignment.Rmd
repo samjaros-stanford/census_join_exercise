@@ -1,0 +1,144 @@
+---
+title: "Homework: Census Data Linkage"
+output: pdf_document
+---
+
+**Note:** To complete this assignment, you need to install the packages and store your Census API key, which we did in `1_pull_census_data.Rmd`. If you run into errors saying that packages are not installed or you do not have a valid API key, make sure you run the setup code from that file.
+
+```{r setup}
+library(tidyverse)
+library(tidycensus)
+library(usmap)
+
+od_data = read_csv("data/od_deaths_state.csv")
+```
+
+# Research Question
+
+We are going to answer the research question, "Is the state-level overdose death rate associated with income inequality?" To answer this question, we need to pull Census income inequality data, join it with the overdose data (already imported above as `od_data`), and run a model. We will then make two maps, one of the overdose death rate and the other of income inequality, so that our readers can visually see the correlation or lack thereof.
+
+Overdose death data is from the [Center for Disease Control and Prevention's Stats by the States](https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm).
+
+```{r}
+str(od_data)
+```
+
+### Question 1
+
+What is the name of the column in the *overdose data* that we should use as our "key" to link overdose death rates to the census income inequality data?
+
+**Answer:** \_\_\_
+
+### Question 2
+
+What is the name of the column in the *overdose data* that contains the overdose death rate that we will use in our analysis?
+
+**Answer:** \_\_\_
+
+# Pull Census Data
+
+We now need to get income inequality data from the census. You can see all of the census variable groups at <https://api.census.gov/data/2021/acs/acs5/groups.html>. The variable group (also called a table) is B19083: GINI INDEX OF INCOME INEQUALITY. Look up the Gini Index of Income Inequality online to learn more about what it is.
+
+### Question 3
+
+Fill out the code chunk below to get the ACS 5-year state values for [B19083: GINI INDEX OF INCOME INEQUALITY](https://api.census.gov/data/2020/acs/acs5/groups/B19083.html) in 2021. Remember to look at example code from `1_pull_census_data.Rmd`!
+
+```{r}
+# Fill in the ___ in get_acs()
+census_income_inequality = get_acs(geometry = "___",
+                                   variable = "___",
+                                   year = ___)
+
+str(census_income_inequality)
+```
+
+### Question 4
+
+What is the name of the column in the *census data* we should use as our "key" to link overdose death rates to the census income inequality data?
+
+**Answer:** \_\_\_
+
+### Question 5
+
+What is the name of the column in the *census data* that contains the measure of income inequality we will use in our analysis?
+
+**Answer:** \_\_\_
+
+# Link the Data
+
+Now that we have our overdose data, our income inequality data, and the keys to link them, we can join the two data sets.
+
+### Question 6
+
+Use `left_join` to merge the two data sets using the key columns you identified in the previous questions. Remember to look at example code from `2_join_data.Rmd`!
+
+```{r}
+# Fill in the ___ in left_join()
+merged_data = left_join(x = ___,
+                        y = ___,
+                        by = join_by(___))
+
+str(merged_data)
+```
+
+Your `merged_data` should now have 1 row per state with columns for overdose death rate AND income inequality.
+
+# Run a Model
+
+Now that they are in the same data set, we can do our analysis.
+
+### Question 7
+
+Fill out the model to check the association between overdose death rate and income inequality. Check out the example code from `2_join_data.Rmd`. Remember to use the format `outcome_column_name~exposure_column_name` for the formula and specify the correct data set using `data=`.
+
+```{r}
+# Fill in the ___ in glm()
+model = glm(fomula = ___,
+            data = ___)
+
+summary(model)
+```
+
+Your code should print out a model summary. Pay special attention to the `Coefficients:` section which will give you a p-value for your exposure column.
+
+### Question 8
+
+Is there a statistically significant association between overdose death rate and income inequality at the state level?
+
+**Answer: \_\_\_**
+
+# Visualize the Data
+
+We will use `plot_usmap()` to get our merged data onto a map. `plot_usmap()` will take a `data=` argument to plot with, assuming that data has a `fips` column (which ours does). We can then use `values=` to tell it which column has the numbers we are interested in.
+
+### Question 9
+
+Fill in the blanks in the code to make a plot of the overdose death rate by state. Don't forget an informative title and legend! Feel free to customize it if you want.
+
+```{r}
+# Fill in the ___ to make your map
+plot_usmap(data=___, values=___) +
+  ggtitle(label="___") +
+  scale_fill_gradient(name="___", low="white", high="blue") +
+  theme(legend.position = "right")
+```
+
+### Question 10
+
+Fill in the blanks in the code to make a plot of income inequality by state. Don't forget an informative title and legend! Feel free to customize it if you want.
+
+```{r}
+# Fill in the ___ to make your map
+plot_usmap(data=___, values="___") +
+  ggtitle(label="___") +
+  scale_fill_gradient(name="___", low="white", high="red") +
+  theme(legend.position = "right")
+```
+
+### Submission Instructions
+
+Click the "Knit" button with the blue thread ball at the top of this window. Knitting this document will re-run all of your code, so it make take a few moments. You will know your document is knitting because the "Render" tab appears in the window below with a little wheel spinning to tell you it is processing.
+
+If you code has errors, the knit will fail, and R will tell you what the error was in the "Render" tab in the window at the bottom.
+
+Once your document successfully knits, you will get a PDF document in your project folder to the right. Open the PDF document to make sure you can see all of your code and figures. If it looks good, submit the PDF. If it does not, correct your code and/or spacing and re-knit.

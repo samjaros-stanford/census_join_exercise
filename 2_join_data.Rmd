@@ -1,0 +1,50 @@
+---
+title: "Pull Census Data"
+output: html_document
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r setup}
+library(tidyverse)
+```
+
+# Data
+
+We now have our cancer data and our census data both at the county level.
+
+```{r import}
+lung_cancer = read_csv("data/lung_cancer.csv", show_col_types=F)
+median_income = read_csv("data/median_income.csv", show_col_types=F)
+
+str(lung_cancer)
+str(median_income)
+```
+
+# Join Data
+
+We need to combine our data sets so that we can run our analysis.
+
+***What kind of join should we use?***
+
+***What variables are we joining by?***
+
+```{r join}
+joined_data = ___(___, ___,by = join_by(___))
+
+str(joined_data)
+head(joined_data)
+```
+
+# Run a Model
+
+Now we can plug our newly joined data into a linear model to see if there is an association between median income and lung cancer rate. In R, we specify formulas using the `~` in the format `outcome ~ exposure` using the column names.
+
+```{r model}
+mod = glm(___ ~ ___,
+          data = ___)
+
+summary(mod)
+```
+
+The part we care about for this example is under "Coefficients:" where it says "median_income". R is telling us that for each dollar increase in median income, the lung cancer incidence decreases by 1.094 \* 10^-3^ per 100k. We can see it is statistically significant because the P-value column says p\<2\*10^-16^. For income, it may be better to put it in terms of thousands of dollars. In that case, for each thousand dollar increase in median income, the lung cancer rate per 100k people decreases by 1.094.

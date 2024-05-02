@@ -1,0 +1,3222 @@
+fips,NAME,variable,median_income,moe
+01001,"Autauga County, Alabama",B06011_001,29611,1630
+01003,"Baldwin County, Alabama",B06011_001,30558,711
+01005,"Barbour County, Alabama",B06011_001,19111,1190
+01007,"Bibb County, Alabama",B06011_001,22100,1885
+01009,"Blount County, Alabama",B06011_001,26998,1004
+01011,"Bullock County, Alabama",B06011_001,21481,3268
+01013,"Butler County, Alabama",B06011_001,20952,1209
+01015,"Calhoun County, Alabama",B06011_001,25191,930
+01017,"Chambers County, Alabama",B06011_001,23436,1282
+01019,"Cherokee County, Alabama",B06011_001,24325,1753
+01021,"Chilton County, Alabama",B06011_001,25602,1489
+01023,"Choctaw County, Alabama",B06011_001,21793,2177
+01025,"Clarke County, Alabama",B06011_001,21952,2003
+01027,"Clay County, Alabama",B06011_001,23105,1667
+01029,"Cleburne County, Alabama",B06011_001,26221,2291
+01031,"Coffee County, Alabama",B06011_001,27683,1566
+01033,"Colbert County, Alabama",B06011_001,26121,1287
+01035,"Conecuh County, Alabama",B06011_001,21238,1387
+01037,"Coosa County, Alabama",B06011_001,22108,2889
+01039,"Covington County, Alabama",B06011_001,25808,780
+01041,"Crenshaw County, Alabama",B06011_001,22230,2034
+01043,"Cullman County, Alabama",B06011_001,25472,805
+01045,"Dale County, Alabama",B06011_001,24824,1097
+01047,"Dallas County, Alabama",B06011_001,20938,1033
+01049,"DeKalb County, Alabama",B06011_001,23282,1374
+01051,"Elmore County, Alabama",B06011_001,31019,1053
+01053,"Escambia County, Alabama",B06011_001,22747,1953
+01055,"Etowah County, Alabama",B06011_001,24321,843
+01057,"Fayette County, Alabama",B06011_001,21245,1720
+01059,"Franklin County, Alabama",B06011_001,24061,1944
+01061,"Geneva County, Alabama",B06011_001,22168,1464
+01063,"Greene County, Alabama",B06011_001,18127,2731
+01065,"Hale County, Alabama",B06011_001,18364,2542
+01067,"Henry County, Alabama",B06011_001,24649,1827
+01069,"Houston County, Alabama",B06011_001,26243,437
+01071,"Jackson County, Alabama",B06011_001,24231,1628
+01073,"Jefferson County, Alabama",B06011_001,30328,426
+01075,"Lamar County, Alabama",B06011_001,22595,2346
+01077,"Lauderdale County, Alabama",B06011_001,26424,761
+01079,"Lawrence County, Alabama",B06011_001,25519,1055
+01081,"Lee County, Alabama",B06011_001,26380,862
+01083,"Limestone County, Alabama",B06011_001,29303,1701
+01085,"Lowndes County, Alabama",B06011_001,20328,2271
+01087,"Macon County, Alabama",B06011_001,19505,1998
+01089,"Madison County, Alabama",B06011_001,34448,901
+01091,"Marengo County, Alabama",B06011_001,23742,2835
+01093,"Marion County, Alabama",B06011_001,20853,1279
+01095,"Marshall County, Alabama",B06011_001,25730,694
+01097,"Mobile County, Alabama",B06011_001,26718,448
+01099,"Monroe County, Alabama",B06011_001,22504,2253
+01101,"Montgomery County, Alabama",B06011_001,27263,639
+01103,"Morgan County, Alabama",B06011_001,27306,952
+01105,"Perry County, Alabama",B06011_001,15560,3249
+01107,"Pickens County, Alabama",B06011_001,20839,1353
+01109,"Pike County, Alabama",B06011_001,22274,1842
+01111,"Randolph County, Alabama",B06011_001,25140,1183
+01113,"Russell County, Alabama",B06011_001,25281,1383
+01115,"St. Clair County, Alabama",B06011_001,30269,1165
+01117,"Shelby County, Alabama",B06011_001,38721,1208
+01119,"Sumter County, Alabama",B06011_001,16495,1855
+01121,"Talladega County, Alabama",B06011_001,23045,1276
+01123,"Tallapoosa County, Alabama",B06011_001,24608,1314
+01125,"Tuscaloosa County, Alabama",B06011_001,26205,841
+01127,"Walker County, Alabama",B06011_001,25225,863
+01129,"Washington County, Alabama",B06011_001,24523,2210
+01131,"Wilcox County, Alabama",B06011_001,19041,1304
+01133,"Winston County, Alabama",B06011_001,22024,1353
+02013,"Aleutians East Borough, Alaska",B06011_001,31460,1780
+02016,"Aleutians West Census Area, Alaska",B06011_001,43162,5704
+02020,"Anchorage Municipality, Alaska",B06011_001,39063,740
+02050,"Bethel Census Area, Alaska",B06011_001,14993,1765
+02060,"Bristol Bay Borough, Alaska",B06011_001,43015,5354
+02063,"Chugach Census Area, Alaska",B06011_001,38289,6457
+02066,"Copper River Census Area, Alaska",B06011_001,32632,10240
+02068,"Denali Borough, Alaska",B06011_001,25640,10506
+02070,"Dillingham Census Area, Alaska",B06011_001,23157,1916
+02090,"Fairbanks North Star Borough, Alaska",B06011_001,37073,1581
+02100,"Haines Borough, Alaska",B06011_001,33500,9965
+02105,"Hoonah-Angoon Census Area, Alaska",B06011_001,30000,4685
+02110,"Juneau City and Borough, Alaska",B06011_001,43202,2048
+02122,"Kenai Peninsula Borough, Alaska",B06011_001,31615,1260
+02130,"Ketchikan Gateway Borough, Alaska",B06011_001,36494,1617
+02150,"Kodiak Island Borough, Alaska",B06011_001,32014,2353
+02158,"Kusilvak Census Area, Alaska",B06011_001,12045,1131
+02164,"Lake and Peninsula Borough, Alaska",B06011_001,22043,4101
+02170,"Matanuska-Susitna Borough, Alaska",B06011_001,30508,1034
+02180,"Nome Census Area, Alaska",B06011_001,22015,1298
+02185,"North Slope Borough, Alaska",B06011_001,49266,6247
+02188,"Northwest Arctic Borough, Alaska",B06011_001,20581,2713
+02195,"Petersburg Borough, Alaska",B06011_001,26401,3046
+02198,"Prince of Wales-Hyder Census Area, Alaska",B06011_001,24867,2045
+02220,"Sitka City and Borough, Alaska",B06011_001,41174,2251
+02230,"Skagway Municipality, Alaska",B06011_001,36071,7250
+02240,"Southeast Fairbanks Census Area, Alaska",B06011_001,26436,4242
+02275,"Wrangell City and Borough, Alaska",B06011_001,30054,5565
+02282,"Yakutat City and Borough, Alaska",B06011_001,31282,5538
+02290,"Yukon-Koyukuk Census Area, Alaska",B06011_001,20271,1838
+04001,"Apache County, Arizona",B06011_001,21970,1040
+04003,"Cochise County, Arizona",B06011_001,27362,999
+04005,"Coconino County, Arizona",B06011_001,25357,673
+04007,"Gila County, Arizona",B06011_001,26686,1030
+04009,"Graham County, Arizona",B06011_001,25888,1171
+04011,"Greenlee County, Arizona",B06011_001,34227,4192
+04012,"La Paz County, Arizona",B06011_001,21150,1611
+04013,"Maricopa County, Arizona",B06011_001,34032,218
+04015,"Mohave County, Arizona",B06011_001,25453,500
+04017,"Navajo County, Arizona",B06011_001,22479,873
+04019,"Pima County, Arizona",B06011_001,28683,489
+04021,"Pinal County, Arizona",B06011_001,30021,526
+04023,"Santa Cruz County, Arizona",B06011_001,23612,1693
+04025,"Yavapai County, Arizona",B06011_001,27704,978
+04027,"Yuma County, Arizona",B06011_001,25088,606
+05001,"Arkansas County, Arkansas",B06011_001,27167,1615
+05003,"Ashley County, Arkansas",B06011_001,22614,2068
+05005,"Baxter County, Arkansas",B06011_001,25261,997
+05007,"Benton County, Arkansas",B06011_001,34225,719
+05009,"Boone County, Arkansas",B06011_001,25631,1261
+05011,"Bradley County, Arkansas",B06011_001,27341,2214
+05013,"Calhoun County, Arkansas",B06011_001,23918,3614
+05015,"Carroll County, Arkansas",B06011_001,25367,1229
+05017,"Chicot County, Arkansas",B06011_001,21086,982
+05019,"Clark County, Arkansas",B06011_001,19884,1474
+05021,"Clay County, Arkansas",B06011_001,21806,1401
+05023,"Cleburne County, Arkansas",B06011_001,25366,1586
+05025,"Cleveland County, Arkansas",B06011_001,24239,3017
+05027,"Columbia County, Arkansas",B06011_001,21103,1821
+05029,"Conway County, Arkansas",B06011_001,23742,2245
+05031,"Craighead County, Arkansas",B06011_001,26631,668
+05033,"Crawford County, Arkansas",B06011_001,25202,933
+05035,"Crittenden County, Arkansas",B06011_001,25325,831
+05037,"Cross County, Arkansas",B06011_001,26143,1377
+05039,"Dallas County, Arkansas",B06011_001,23445,1776
+05041,"Desha County, Arkansas",B06011_001,21278,2233
+05043,"Drew County, Arkansas",B06011_001,25168,2410
+05045,"Faulkner County, Arkansas",B06011_001,28061,1342
+05047,"Franklin County, Arkansas",B06011_001,22065,1953
+05049,"Fulton County, Arkansas",B06011_001,19813,2006
+05051,"Garland County, Arkansas",B06011_001,25191,910
+05053,"Grant County, Arkansas",B06011_001,30432,2339
+05055,"Greene County, Arkansas",B06011_001,25432,1457
+05057,"Hempstead County, Arkansas",B06011_001,23447,2133
+05059,"Hot Spring County, Arkansas",B06011_001,24404,1863
+05061,"Howard County, Arkansas",B06011_001,23012,1517
+05063,"Independence County, Arkansas",B06011_001,24530,1480
+05065,"Izard County, Arkansas",B06011_001,20569,1901
+05067,"Jackson County, Arkansas",B06011_001,19998,1450
+05069,"Jefferson County, Arkansas",B06011_001,24259,1285
+05071,"Johnson County, Arkansas",B06011_001,21368,1378
+05073,"Lafayette County, Arkansas",B06011_001,21970,1779
+05075,"Lawrence County, Arkansas",B06011_001,21097,1290
+05077,"Lee County, Arkansas",B06011_001,18564,2405
+05079,"Lincoln County, Arkansas",B06011_001,22201,2908
+05081,"Little River County, Arkansas",B06011_001,26289,1848
+05083,"Logan County, Arkansas",B06011_001,22401,1265
+05085,"Lonoke County, Arkansas",B06011_001,31434,1131
+05087,"Madison County, Arkansas",B06011_001,22083,1551
+05089,"Marion County, Arkansas",B06011_001,20213,1054
+05091,"Miller County, Arkansas",B06011_001,24142,1443
+05093,"Mississippi County, Arkansas",B06011_001,24789,1092
+05095,"Monroe County, Arkansas",B06011_001,24032,3573
+05097,"Montgomery County, Arkansas",B06011_001,22221,1876
+05099,"Nevada County, Arkansas",B06011_001,22471,2241
+05101,"Newton County, Arkansas",B06011_001,20681,1846
+05103,"Ouachita County, Arkansas",B06011_001,21690,1473
+05105,"Perry County, Arkansas",B06011_001,22142,1722
+05107,"Phillips County, Arkansas",B06011_001,22430,1860
+05109,"Pike County, Arkansas",B06011_001,22135,1445
+05111,"Poinsett County, Arkansas",B06011_001,22237,1233
+05113,"Polk County, Arkansas",B06011_001,22047,1494
+05115,"Pope County, Arkansas",B06011_001,22100,887
+05117,"Prairie County, Arkansas",B06011_001,27083,1343
+05119,"Pulaski County, Arkansas",B06011_001,31436,525
+05121,"Randolph County, Arkansas",B06011_001,22237,1196
+05123,"St. Francis County, Arkansas",B06011_001,20724,701
+05125,"Saline County, Arkansas",B06011_001,32961,1295
+05127,"Scott County, Arkansas",B06011_001,22762,1529
+05129,"Searcy County, Arkansas",B06011_001,18598,1710
+05131,"Sebastian County, Arkansas",B06011_001,26269,757
+05133,"Sevier County, Arkansas",B06011_001,23875,1990
+05135,"Sharp County, Arkansas",B06011_001,19569,984
+05137,"Stone County, Arkansas",B06011_001,17672,1579
+05139,"Union County, Arkansas",B06011_001,25496,1508
+05141,"Van Buren County, Arkansas",B06011_001,20937,1873
+05143,"Washington County, Arkansas",B06011_001,29201,1035
+05145,"White County, Arkansas",B06011_001,23405,1465
+05147,"Woodruff County, Arkansas",B06011_001,24537,1895
+05149,"Yell County, Arkansas",B06011_001,24810,1682
+06001,"Alameda County, California",B06011_001,45882,505
+06003,"Alpine County, California",B06011_001,32660,3820
+06005,"Amador County, California",B06011_001,32480,1857
+06007,"Butte County, California",B06011_001,25467,796
+06009,"Calaveras County, California",B06011_001,29944,1873
+06011,"Colusa County, California",B06011_001,28629,2650
+06013,"Contra Costa County, California",B06011_001,43768,630
+06015,"Del Norte County, California",B06011_001,24773,1770
+06017,"El Dorado County, California",B06011_001,37774,1390
+06019,"Fresno County, California",B06011_001,26633,337
+06021,"Glenn County, California",B06011_001,25849,1222
+06023,"Humboldt County, California",B06011_001,25316,823
+06025,"Imperial County, California",B06011_001,18955,863
+06027,"Inyo County, California",B06011_001,32401,1450
+06029,"Kern County, California",B06011_001,25526,324
+06031,"Kings County, California",B06011_001,28075,1305
+06033,"Lake County, California",B06011_001,25726,840
+06035,"Lassen County, California",B06011_001,31642,1585
+06037,"Los Angeles County, California",B06011_001,31048,97
+06039,"Madera County, California",B06011_001,24564,816
+06041,"Marin County, California",B06011_001,55546,1382
+06043,"Mariposa County, California",B06011_001,28157,1489
+06045,"Mendocino County, California",B06011_001,27297,1094
+06047,"Merced County, California",B06011_001,25856,469
+06049,"Modoc County, California",B06011_001,26590,1903
+06051,"Mono County, California",B06011_001,36903,5684
+06053,"Monterey County, California",B06011_001,30484,376
+06055,"Napa County, California",B06011_001,38721,1667
+06057,"Nevada County, California",B06011_001,33273,1439
+06059,"Orange County, California",B06011_001,37499,387
+06061,"Placer County, California",B06011_001,42751,1003
+06063,"Plumas County, California",B06011_001,33100,2058
+06065,"Riverside County, California",B06011_001,30279,200
+06067,"Sacramento County, California",B06011_001,34013,371
+06069,"San Benito County, California",B06011_001,34783,1856
+06071,"San Bernardino County, California",B06011_001,28611,336
+06073,"San Diego County, California",B06011_001,36028,275
+06075,"San Francisco County, California",B06011_001,54549,733
+06077,"San Joaquin County, California",B06011_001,30974,357
+06079,"San Luis Obispo County, California",B06011_001,33765,870
+06081,"San Mateo County, California",B06011_001,51281,579
+06083,"Santa Barbara County, California",B06011_001,31556,509
+06085,"Santa Clara County, California",B06011_001,50030,413
+06087,"Santa Cruz County, California",B06011_001,34883,1040
+06089,"Shasta County, California",B06011_001,28442,1044
+06091,"Sierra County, California",B06011_001,27843,7275
+06093,"Siskiyou County, California",B06011_001,25959,909
+06095,"Solano County, California",B06011_001,37621,761
+06097,"Sonoma County, California",B06011_001,38515,623
+06099,"Stanislaus County, California",B06011_001,29085,706
+06101,"Sutter County, California",B06011_001,28722,1545
+06103,"Tehama County, California",B06011_001,24849,1343
+06105,"Trinity County, California",B06011_001,24047,2572
+06107,"Tulare County, California",B06011_001,24683,453
+06109,"Tuolumne County, California",B06011_001,31055,1223
+06111,"Ventura County, California",B06011_001,35064,554
+06113,"Yolo County, California",B06011_001,31781,891
+06115,"Yuba County, California",B06011_001,27679,2039
+08001,"Adams County, Colorado",B06011_001,35405,510
+08003,"Alamosa County, Colorado",B06011_001,23667,2760
+08005,"Arapahoe County, Colorado",B06011_001,39611,542
+08007,"Archuleta County, Colorado",B06011_001,26769,2765
+08009,"Baca County, Colorado",B06011_001,22930,2103
+08011,"Bent County, Colorado",B06011_001,24022,4227
+08013,"Boulder County, Colorado",B06011_001,38758,836
+08014,"Broomfield County, Colorado",B06011_001,49286,2049
+08015,"Chaffee County, Colorado",B06011_001,30964,1367
+08017,"Cheyenne County, Colorado",B06011_001,38615,4010
+08019,"Clear Creek County, Colorado",B06011_001,38694,3734
+08021,"Conejos County, Colorado",B06011_001,23201,1288
+08023,"Costilla County, Colorado",B06011_001,18945,2775
+08025,"Crowley County, Colorado",B06011_001,21982,4463
+08027,"Custer County, Colorado",B06011_001,29293,8949
+08029,"Delta County, Colorado",B06011_001,26444,1141
+08031,"Denver County, Colorado",B06011_001,40997,451
+08033,"Dolores County, Colorado",B06011_001,31420,1370
+08035,"Douglas County, Colorado",B06011_001,52391,737
+08037,"Eagle County, Colorado",B06011_001,40036,2313
+08039,"Elbert County, Colorado",B06011_001,41293,1743
+08041,"El Paso County, Colorado",B06011_001,34407,532
+08043,"Fremont County, Colorado",B06011_001,28287,2203
+08045,"Garfield County, Colorado",B06011_001,36027,1150
+08047,"Gilpin County, Colorado",B06011_001,52523,5744
+08049,"Grand County, Colorado",B06011_001,37111,2218
+08051,"Gunnison County, Colorado",B06011_001,31094,1566
+08053,"Hinsdale County, Colorado",B06011_001,31061,5379
+08055,"Huerfano County, Colorado",B06011_001,23972,3332
+08057,"Jackson County, Colorado",B06011_001,26460,2552
+08059,"Jefferson County, Colorado",B06011_001,42400,467
+08061,"Kiowa County, Colorado",B06011_001,26375,4535
+08063,"Kit Carson County, Colorado",B06011_001,31077,1904
+08065,"Lake County, Colorado",B06011_001,35894,2468
+08067,"La Plata County, Colorado",B06011_001,34431,1692
+08069,"Larimer County, Colorado",B06011_001,33757,773
+08071,"Las Animas County, Colorado",B06011_001,25712,2326
+08073,"Lincoln County, Colorado",B06011_001,27157,4907
+08075,"Logan County, Colorado",B06011_001,26259,1870
+08077,"Mesa County, Colorado",B06011_001,29411,1133
+08079,"Mineral County, Colorado",B06011_001,24897,11405
+08081,"Moffat County, Colorado",B06011_001,31392,1987
+08083,"Montezuma County, Colorado",B06011_001,26557,1498
+08085,"Montrose County, Colorado",B06011_001,28310,1853
+08087,"Morgan County, Colorado",B06011_001,26985,1252
+08089,"Otero County, Colorado",B06011_001,24328,1611
+08091,"Ouray County, Colorado",B06011_001,35124,2639
+08093,"Park County, Colorado",B06011_001,36444,5775
+08095,"Phillips County, Colorado",B06011_001,35522,2988
+08097,"Pitkin County, Colorado",B06011_001,48186,3884
+08099,"Prowers County, Colorado",B06011_001,26736,1460
+08101,"Pueblo County, Colorado",B06011_001,26741,516
+08103,"Rio Blanco County, Colorado",B06011_001,32094,4227
+08105,"Rio Grande County, Colorado",B06011_001,24314,3105
+08107,"Routt County, Colorado",B06011_001,39851,2327
+08109,"Saguache County, Colorado",B06011_001,24415,2148
+08111,"San Juan County, Colorado",B06011_001,38859,6993
+08113,"San Miguel County, Colorado",B06011_001,35949,1976
+08115,"Sedgwick County, Colorado",B06011_001,27422,2097
+08117,"Summit County, Colorado",B06011_001,39090,2793
+08119,"Teller County, Colorado",B06011_001,34008,1890
+08121,"Washington County, Colorado",B06011_001,27413,3517
+08123,"Weld County, Colorado",B06011_001,33377,791
+08125,"Yuma County, Colorado",B06011_001,33172,2307
+09001,"Fairfield County, Connecticut",B06011_001,41747,473
+09003,"Hartford County, Connecticut",B06011_001,38717,580
+09005,"Litchfield County, Connecticut",B06011_001,39349,1310
+09007,"Middlesex County, Connecticut",B06011_001,43449,1466
+09009,"New Haven County, Connecticut",B06011_001,36670,649
+09011,"New London County, Connecticut",B06011_001,37317,919
+09013,"Tolland County, Connecticut",B06011_001,37981,1639
+09015,"Windham County, Connecticut",B06011_001,32593,1522
+10001,"Kent County, Delaware",B06011_001,31120,710
+10003,"New Castle County, Delaware",B06011_001,36961,653
+10005,"Sussex County, Delaware",B06011_001,32660,720
+11001,"District of Columbia, District of Columbia",B06011_001,52328,650
+12001,"Alachua County, Florida",B06011_001,26526,651
+12003,"Baker County, Florida",B06011_001,30176,2971
+12005,"Bay County, Florida",B06011_001,29769,983
+12007,"Bradford County, Florida",B06011_001,25122,1697
+12009,"Brevard County, Florida",B06011_001,29652,547
+12011,"Broward County, Florida",B06011_001,31010,250
+12013,"Calhoun County, Florida",B06011_001,23162,2191
+12015,"Charlotte County, Florida",B06011_001,26947,590
+12017,"Citrus County, Florida",B06011_001,25559,595
+12019,"Clay County, Florida",B06011_001,32871,1344
+12021,"Collier County, Florida",B06011_001,32201,663
+12023,"Columbia County, Florida",B06011_001,25919,904
+12027,"DeSoto County, Florida",B06011_001,21518,927
+12029,"Dixie County, Florida",B06011_001,23446,2046
+12031,"Duval County, Florida",B06011_001,31453,332
+12033,"Escambia County, Florida",B06011_001,27315,730
+12035,"Flagler County, Florida",B06011_001,28000,1096
+12037,"Franklin County, Florida",B06011_001,25076,2800
+12039,"Gadsden County, Florida",B06011_001,25421,1299
+12041,"Gilchrist County, Florida",B06011_001,23568,1167
+12043,"Glades County, Florida",B06011_001,22679,1710
+12045,"Gulf County, Florida",B06011_001,29336,4544
+12047,"Hamilton County, Florida",B06011_001,21218,1170
+12049,"Hardee County, Florida",B06011_001,23234,1590
+12051,"Hendry County, Florida",B06011_001,22669,1916
+12053,"Hernando County, Florida",B06011_001,25692,589
+12055,"Highlands County, Florida",B06011_001,23333,1053
+12057,"Hillsborough County, Florida",B06011_001,31269,244
+12059,"Holmes County, Florida",B06011_001,21991,1116
+12061,"Indian River County, Florida",B06011_001,28770,951
+12063,"Jackson County, Florida",B06011_001,23870,1390
+12065,"Jefferson County, Florida",B06011_001,28199,3268
+12067,"Lafayette County, Florida",B06011_001,22398,3101
+12069,"Lake County, Florida",B06011_001,27396,602
+12071,"Lee County, Florida",B06011_001,29562,532
+12073,"Leon County, Florida",B06011_001,29023,780
+12075,"Levy County, Florida",B06011_001,21609,969
+12077,"Liberty County, Florida",B06011_001,23799,2158
+12079,"Madison County, Florida",B06011_001,20576,2091
+12081,"Manatee County, Florida",B06011_001,29953,786
+12083,"Marion County, Florida",B06011_001,25344,519
+12085,"Martin County, Florida",B06011_001,31854,1039
+12086,"Miami-Dade County, Florida",B06011_001,25724,204
+12087,"Monroe County, Florida",B06011_001,37618,1411
+12089,"Nassau County, Florida",B06011_001,33028,1631
+12091,"Okaloosa County, Florida",B06011_001,31430,586
+12093,"Okeechobee County, Florida",B06011_001,24258,1426
+12095,"Orange County, Florida",B06011_001,29380,447
+12097,"Osceola County, Florida",B06011_001,25032,629
+12099,"Palm Beach County, Florida",B06011_001,31481,327
+12101,"Pasco County, Florida",B06011_001,27754,590
+12103,"Pinellas County, Florida",B06011_001,31038,264
+12105,"Polk County, Florida",B06011_001,26385,352
+12107,"Putnam County, Florida",B06011_001,22898,1068
+12109,"St. Johns County, Florida",B06011_001,37043,1156
+12111,"St. Lucie County, Florida",B06011_001,27164,571
+12113,"Santa Rosa County, Florida",B06011_001,31833,989
+12115,"Sarasota County, Florida",B06011_001,32535,575
+12117,"Seminole County, Florida",B06011_001,34447,777
+12119,"Sumter County, Florida",B06011_001,28416,1314
+12121,"Suwannee County, Florida",B06011_001,23287,2112
+12123,"Taylor County, Florida",B06011_001,23621,3602
+12125,"Union County, Florida",B06011_001,26850,1750
+12127,"Volusia County, Florida",B06011_001,27849,569
+12129,"Wakulla County, Florida",B06011_001,33876,1910
+12131,"Walton County, Florida",B06011_001,31042,1045
+12133,"Washington County, Florida",B06011_001,22392,1425
+13001,"Appling County, Georgia",B06011_001,22300,1873
+13003,"Atkinson County, Georgia",B06011_001,23459,1940
+13005,"Bacon County, Georgia",B06011_001,24068,2541
+13007,"Baker County, Georgia",B06011_001,21600,2823
+13009,"Baldwin County, Georgia",B06011_001,23269,2256
+13011,"Banks County, Georgia",B06011_001,24423,2360
+13013,"Barrow County, Georgia",B06011_001,30322,955
+13015,"Bartow County, Georgia",B06011_001,30782,909
+13017,"Ben Hill County, Georgia",B06011_001,19507,2448
+13019,"Berrien County, Georgia",B06011_001,24660,1765
+13021,"Bibb County, Georgia",B06011_001,24768,776
+13023,"Bleckley County, Georgia",B06011_001,22161,1374
+13025,"Brantley County, Georgia",B06011_001,20101,2433
+13027,"Brooks County, Georgia",B06011_001,25582,1457
+13029,"Bryan County, Georgia",B06011_001,37796,2976
+13031,"Bulloch County, Georgia",B06011_001,22941,1460
+13033,"Burke County, Georgia",B06011_001,26418,2265
+13035,"Butts County, Georgia",B06011_001,24906,2669
+13037,"Calhoun County, Georgia",B06011_001,20071,2704
+13039,"Camden County, Georgia",B06011_001,30164,1521
+13043,"Candler County, Georgia",B06011_001,20076,2522
+13045,"Carroll County, Georgia",B06011_001,26797,918
+13047,"Catoosa County, Georgia",B06011_001,28320,1655
+13049,"Charlton County, Georgia",B06011_001,21664,1857
+13051,"Chatham County, Georgia",B06011_001,30121,650
+13053,"Chattahoochee County, Georgia",B06011_001,25017,1120
+13055,"Chattooga County, Georgia",B06011_001,21377,1541
+13057,"Cherokee County, Georgia",B06011_001,37888,1284
+13059,"Clarke County, Georgia",B06011_001,22112,623
+13061,"Clay County, Georgia",B06011_001,20675,5172
+13063,"Clayton County, Georgia",B06011_001,26336,622
+13065,"Clinch County, Georgia",B06011_001,22344,4705
+13067,"Cobb County, Georgia",B06011_001,39095,698
+13069,"Coffee County, Georgia",B06011_001,23931,1788
+13071,"Colquitt County, Georgia",B06011_001,22048,1285
+13073,"Columbia County, Georgia",B06011_001,36817,1977
+13075,"Cook County, Georgia",B06011_001,23864,2038
+13077,"Coweta County, Georgia",B06011_001,36980,1238
+13079,"Crawford County, Georgia",B06011_001,27295,2610
+13081,"Crisp County, Georgia",B06011_001,21088,1705
+13083,"Dade County, Georgia",B06011_001,22983,2182
+13085,"Dawson County, Georgia",B06011_001,35214,3307
+13087,"Decatur County, Georgia",B06011_001,23798,1844
+13089,"DeKalb County, Georgia",B06011_001,34202,545
+13091,"Dodge County, Georgia",B06011_001,24212,2176
+13093,"Dooly County, Georgia",B06011_001,25249,2445
+13095,"Dougherty County, Georgia",B06011_001,22045,814
+13097,"Douglas County, Georgia",B06011_001,32492,1112
+13099,"Early County, Georgia",B06011_001,20694,1103
+13101,"Echols County, Georgia",B06011_001,26612,6319
+13103,"Effingham County, Georgia",B06011_001,33517,1799
+13105,"Elbert County, Georgia",B06011_001,22313,1872
+13107,"Emanuel County, Georgia",B06011_001,21540,961
+13109,"Evans County, Georgia",B06011_001,24603,2369
+13111,"Fannin County, Georgia",B06011_001,24653,2078
+13113,"Fayette County, Georgia",B06011_001,42960,1601
+13115,"Floyd County, Georgia",B06011_001,26074,1056
+13117,"Forsyth County, Georgia",B06011_001,47387,1620
+13119,"Franklin County, Georgia",B06011_001,25979,1782
+13121,"Fulton County, Georgia",B06011_001,39877,707
+13123,"Gilmer County, Georgia",B06011_001,25323,1513
+13125,"Glascock County, Georgia",B06011_001,25908,3227
+13127,"Glynn County, Georgia",B06011_001,28867,1755
+13129,"Gordon County, Georgia",B06011_001,26333,1364
+13131,"Grady County, Georgia",B06011_001,25706,1580
+13133,"Greene County, Georgia",B06011_001,28618,2196
+13135,"Gwinnett County, Georgia",B06011_001,34466,518
+13137,"Habersham County, Georgia",B06011_001,26209,1042
+13139,"Hall County, Georgia",B06011_001,29241,857
+13141,"Hancock County, Georgia",B06011_001,20952,3084
+13143,"Haralson County, Georgia",B06011_001,28395,2939
+13145,"Harris County, Georgia",B06011_001,35039,2365
+13147,"Hart County, Georgia",B06011_001,24552,2110
+13149,"Heard County, Georgia",B06011_001,25035,2378
+13151,"Henry County, Georgia",B06011_001,35041,1358
+13153,"Houston County, Georgia",B06011_001,33905,1085
+13155,"Irwin County, Georgia",B06011_001,20331,1914
+13157,"Jackson County, Georgia",B06011_001,32051,1078
+13159,"Jasper County, Georgia",B06011_001,25973,2153
+13161,"Jeff Davis County, Georgia",B06011_001,21162,2410
+13163,"Jefferson County, Georgia",B06011_001,20950,1767
+13165,"Jenkins County, Georgia",B06011_001,14918,2808
+13167,"Johnson County, Georgia",B06011_001,21579,2241
+13169,"Jones County, Georgia",B06011_001,30981,2187
+13171,"Lamar County, Georgia",B06011_001,26614,1956
+13173,"Lanier County, Georgia",B06011_001,21537,4581
+13175,"Laurens County, Georgia",B06011_001,22052,1228
+13177,"Lee County, Georgia",B06011_001,37357,2764
+13179,"Liberty County, Georgia",B06011_001,30706,914
+13181,"Lincoln County, Georgia",B06011_001,23801,2965
+13183,"Long County, Georgia",B06011_001,27018,3990
+13185,"Lowndes County, Georgia",B06011_001,26534,880
+13187,"Lumpkin County, Georgia",B06011_001,24488,2116
+13189,"McDuffie County, Georgia",B06011_001,24275,1478
+13191,"McIntosh County, Georgia",B06011_001,26868,2064
+13193,"Macon County, Georgia",B06011_001,20256,2300
+13195,"Madison County, Georgia",B06011_001,26845,1159
+13197,"Marion County, Georgia",B06011_001,26809,1509
+13199,"Meriwether County, Georgia",B06011_001,22021,2312
+13201,"Miller County, Georgia",B06011_001,26104,2400
+13205,"Mitchell County, Georgia",B06011_001,23121,2339
+13207,"Monroe County, Georgia",B06011_001,29213,2366
+13209,"Montgomery County, Georgia",B06011_001,23140,2869
+13211,"Morgan County, Georgia",B06011_001,31886,1428
+13213,"Murray County, Georgia",B06011_001,26131,975
+13215,"Muscogee County, Georgia",B06011_001,26564,701
+13217,"Newton County, Georgia",B06011_001,27226,1955
+13219,"Oconee County, Georgia",B06011_001,40999,3117
+13221,"Oglethorpe County, Georgia",B06011_001,25578,2669
+13223,"Paulding County, Georgia",B06011_001,35406,1315
+13225,"Peach County, Georgia",B06011_001,25324,2324
+13227,"Pickens County, Georgia",B06011_001,31452,1354
+13229,"Pierce County, Georgia",B06011_001,22941,1793
+13231,"Pike County, Georgia",B06011_001,33452,2809
+13233,"Polk County, Georgia",B06011_001,26824,1436
+13235,"Pulaski County, Georgia",B06011_001,22385,2657
+13237,"Putnam County, Georgia",B06011_001,30172,2803
+13239,"Quitman County, Georgia",B06011_001,20574,2579
+13241,"Rabun County, Georgia",B06011_001,24093,1635
+13243,"Randolph County, Georgia",B06011_001,17360,2194
+13245,"Richmond County, Georgia",B06011_001,23722,777
+13247,"Rockdale County, Georgia",B06011_001,31986,1040
+13249,"Schley County, Georgia",B06011_001,27105,3999
+13251,"Screven County, Georgia",B06011_001,22934,2503
+13253,"Seminole County, Georgia",B06011_001,22922,2700
+13255,"Spalding County, Georgia",B06011_001,26131,959
+13257,"Stephens County, Georgia",B06011_001,23688,2652
+13259,"Stewart County, Georgia",B06011_001,18984,2710
+13261,"Sumter County, Georgia",B06011_001,24684,2037
+13263,"Talbot County, Georgia",B06011_001,23183,1549
+13265,"Taliaferro County, Georgia",B06011_001,17379,1921
+13267,"Tattnall County, Georgia",B06011_001,19602,1808
+13269,"Taylor County, Georgia",B06011_001,21961,1874
+13271,"Telfair County, Georgia",B06011_001,16287,1614
+13273,"Terrell County, Georgia",B06011_001,20532,2650
+13275,"Thomas County, Georgia",B06011_001,27837,1835
+13277,"Tift County, Georgia",B06011_001,24568,1661
+13279,"Toombs County, Georgia",B06011_001,24581,1673
+13281,"Towns County, Georgia",B06011_001,23615,2376
+13283,"Treutlen County, Georgia",B06011_001,20268,1604
+13285,"Troup County, Georgia",B06011_001,25420,1124
+13287,"Turner County, Georgia",B06011_001,22564,2397
+13289,"Twiggs County, Georgia",B06011_001,25599,3810
+13291,"Union County, Georgia",B06011_001,24408,2207
+13293,"Upson County, Georgia",B06011_001,23573,2366
+13295,"Walker County, Georgia",B06011_001,24709,1278
+13297,"Walton County, Georgia",B06011_001,31588,979
+13299,"Ware County, Georgia",B06011_001,24021,1942
+13301,"Warren County, Georgia",B06011_001,21372,2054
+13303,"Washington County, Georgia",B06011_001,22540,2076
+13305,"Wayne County, Georgia",B06011_001,22448,1515
+13307,"Webster County, Georgia",B06011_001,22015,2717
+13309,"Wheeler County, Georgia",B06011_001,18887,5670
+13311,"White County, Georgia",B06011_001,27236,2973
+13313,"Whitfield County, Georgia",B06011_001,27072,919
+13315,"Wilcox County, Georgia",B06011_001,21314,1837
+13317,"Wilkes County, Georgia",B06011_001,21030,1280
+13319,"Wilkinson County, Georgia",B06011_001,22750,1840
+13321,"Worth County, Georgia",B06011_001,26506,1421
+15001,"Hawaii County, Hawaii",B06011_001,31439,634
+15003,"Honolulu County, Hawaii",B06011_001,38373,320
+15005,"Kalawao County, Hawaii",B06011_001,38923,6968
+15007,"Kauai County, Hawaii",B06011_001,34576,1234
+15009,"Maui County, Hawaii",B06011_001,36651,852
+16001,"Ada County, Idaho",B06011_001,35096,519
+16003,"Adams County, Idaho",B06011_001,27614,2823
+16005,"Bannock County, Idaho",B06011_001,25342,790
+16007,"Bear Lake County, Idaho",B06011_001,27081,3354
+16009,"Benewah County, Idaho",B06011_001,25775,2607
+16011,"Bingham County, Idaho",B06011_001,26352,1139
+16013,"Blaine County, Idaho",B06011_001,32365,1947
+16015,"Boise County, Idaho",B06011_001,28117,2409
+16017,"Bonner County, Idaho",B06011_001,25439,1146
+16019,"Bonneville County, Idaho",B06011_001,27182,813
+16021,"Boundary County, Idaho",B06011_001,23602,1876
+16023,"Butte County, Idaho",B06011_001,26148,4114
+16025,"Camas County, Idaho",B06011_001,29500,7455
+16027,"Canyon County, Idaho",B06011_001,26526,531
+16029,"Caribou County, Idaho",B06011_001,24720,1977
+16031,"Cassia County, Idaho",B06011_001,27022,1745
+16033,"Clark County, Idaho",B06011_001,26868,2764
+16035,"Clearwater County, Idaho",B06011_001,25919,1732
+16037,"Custer County, Idaho",B06011_001,22873,6140
+16039,"Elmore County, Idaho",B06011_001,27423,1904
+16041,"Franklin County, Idaho",B06011_001,24339,2442
+16043,"Fremont County, Idaho",B06011_001,26059,1514
+16045,"Gem County, Idaho",B06011_001,25152,1543
+16047,"Gooding County, Idaho",B06011_001,25397,2394
+16049,"Idaho County, Idaho",B06011_001,23863,1729
+16051,"Jefferson County, Idaho",B06011_001,27180,2366
+16053,"Jerome County, Idaho",B06011_001,26171,1293
+16055,"Kootenai County, Idaho",B06011_001,30017,844
+16057,"Latah County, Idaho",B06011_001,24160,1929
+16059,"Lemhi County, Idaho",B06011_001,21553,2024
+16061,"Lewis County, Idaho",B06011_001,24810,1908
+16063,"Lincoln County, Idaho",B06011_001,27721,3872
+16065,"Madison County, Idaho",B06011_001,15319,1323
+16067,"Minidoka County, Idaho",B06011_001,26236,1668
+16069,"Nez Perce County, Idaho",B06011_001,29465,1798
+16071,"Oneida County, Idaho",B06011_001,28415,4256
+16073,"Owyhee County, Idaho",B06011_001,24497,1748
+16075,"Payette County, Idaho",B06011_001,30358,1447
+16077,"Power County, Idaho",B06011_001,29766,3720
+16079,"Shoshone County, Idaho",B06011_001,22354,1899
+16081,"Teton County, Idaho",B06011_001,36282,4039
+16083,"Twin Falls County, Idaho",B06011_001,26803,894
+16085,"Valley County, Idaho",B06011_001,25624,3701
+16087,"Washington County, Idaho",B06011_001,23438,2356
+17001,"Adams County, Illinois",B06011_001,31638,832
+17003,"Alexander County, Illinois",B06011_001,21691,1476
+17005,"Bond County, Illinois",B06011_001,28018,2243
+17007,"Boone County, Illinois",B06011_001,31419,1150
+17009,"Brown County, Illinois",B06011_001,31299,4075
+17011,"Bureau County, Illinois",B06011_001,29335,1260
+17013,"Calhoun County, Illinois",B06011_001,29680,4496
+17015,"Carroll County, Illinois",B06011_001,30087,1913
+17017,"Cass County, Illinois",B06011_001,31048,1328
+17019,"Champaign County, Illinois",B06011_001,29941,841
+17021,"Christian County, Illinois",B06011_001,31180,912
+17023,"Clark County, Illinois",B06011_001,33937,2231
+17025,"Clay County, Illinois",B06011_001,28349,2521
+17027,"Clinton County, Illinois",B06011_001,35410,1301
+17029,"Coles County, Illinois",B06011_001,25077,1170
+17031,"Cook County, Illinois",B06011_001,35336,198
+17033,"Crawford County, Illinois",B06011_001,27027,1726
+17035,"Cumberland County, Illinois",B06011_001,30249,2120
+17037,"DeKalb County, Illinois",B06011_001,28594,1143
+17039,"De Witt County, Illinois",B06011_001,31261,1165
+17041,"Douglas County, Illinois",B06011_001,30706,1347
+17043,"DuPage County, Illinois",B06011_001,43245,404
+17045,"Edgar County, Illinois",B06011_001,27443,1843
+17047,"Edwards County, Illinois",B06011_001,30488,1371
+17049,"Effingham County, Illinois",B06011_001,31375,1079
+17051,"Fayette County, Illinois",B06011_001,24925,1332
+17053,"Ford County, Illinois",B06011_001,30420,2085
+17055,"Franklin County, Illinois",B06011_001,23978,1122
+17057,"Fulton County, Illinois",B06011_001,28109,1622
+17059,"Gallatin County, Illinois",B06011_001,27145,2554
+17061,"Greene County, Illinois",B06011_001,27248,1936
+17063,"Grundy County, Illinois",B06011_001,40051,1383
+17065,"Hamilton County, Illinois",B06011_001,29603,4515
+17067,"Hancock County, Illinois",B06011_001,30245,1397
+17069,"Hardin County, Illinois",B06011_001,24543,2167
+17071,"Henderson County, Illinois",B06011_001,29453,3979
+17073,"Henry County, Illinois",B06011_001,31448,917
+17075,"Iroquois County, Illinois",B06011_001,27197,925
+17077,"Jackson County, Illinois",B06011_001,23224,1084
+17079,"Jasper County, Illinois",B06011_001,28002,3442
+17081,"Jefferson County, Illinois",B06011_001,28290,1201
+17083,"Jersey County, Illinois",B06011_001,32675,1782
+17085,"Jo Daviess County, Illinois",B06011_001,31793,1074
+17087,"Johnson County, Illinois",B06011_001,29502,2651
+17089,"Kane County, Illinois",B06011_001,35433,611
+17091,"Kankakee County, Illinois",B06011_001,29164,1112
+17093,"Kendall County, Illinois",B06011_001,42266,2198
+17095,"Knox County, Illinois",B06011_001,25432,891
+17097,"Lake County, Illinois",B06011_001,38923,622
+17099,"LaSalle County, Illinois",B06011_001,31078,686
+17101,"Lawrence County, Illinois",B06011_001,27404,1543
+17103,"Lee County, Illinois",B06011_001,31563,1855
+17105,"Livingston County, Illinois",B06011_001,31186,1019
+17107,"Logan County, Illinois",B06011_001,31358,942
+17109,"McDonough County, Illinois",B06011_001,21583,1765
+17111,"McHenry County, Illinois",B06011_001,40383,789
+17113,"McLean County, Illinois",B06011_001,34713,808
+17115,"Macon County, Illinois",B06011_001,30147,810
+17117,"Macoupin County, Illinois",B06011_001,29242,1774
+17119,"Madison County, Illinois",B06011_001,33122,796
+17121,"Marion County, Illinois",B06011_001,27968,1696
+17123,"Marshall County, Illinois",B06011_001,29963,1297
+17125,"Mason County, Illinois",B06011_001,27891,1665
+17127,"Massac County, Illinois",B06011_001,24547,2032
+17129,"Menard County, Illinois",B06011_001,41068,1968
+17131,"Mercer County, Illinois",B06011_001,31169,1172
+17133,"Monroe County, Illinois",B06011_001,42899,2508
+17135,"Montgomery County, Illinois",B06011_001,29000,2368
+17137,"Morgan County, Illinois",B06011_001,28341,1779
+17139,"Moultrie County, Illinois",B06011_001,33638,2126
+17141,"Ogle County, Illinois",B06011_001,32094,825
+17143,"Peoria County, Illinois",B06011_001,30847,603
+17145,"Perry County, Illinois",B06011_001,29118,1912
+17147,"Piatt County, Illinois",B06011_001,37571,2014
+17149,"Pike County, Illinois",B06011_001,27095,2286
+17151,"Pope County, Illinois",B06011_001,24922,4969
+17153,"Pulaski County, Illinois",B06011_001,22753,2168
+17155,"Putnam County, Illinois",B06011_001,32649,1388
+17157,"Randolph County, Illinois",B06011_001,30458,1257
+17159,"Richland County, Illinois",B06011_001,29761,2395
+17161,"Rock Island County, Illinois",B06011_001,31381,588
+17163,"St. Clair County, Illinois",B06011_001,31199,623
+17165,"Saline County, Illinois",B06011_001,26051,1336
+17167,"Sangamon County, Illinois",B06011_001,35497,792
+17169,"Schuyler County, Illinois",B06011_001,29844,2587
+17171,"Scott County, Illinois",B06011_001,31773,2765
+17173,"Shelby County, Illinois",B06011_001,31230,1275
+17175,"Stark County, Illinois",B06011_001,29952,2382
+17177,"Stephenson County, Illinois",B06011_001,28609,1200
+17179,"Tazewell County, Illinois",B06011_001,35587,1017
+17181,"Union County, Illinois",B06011_001,29519,2144
+17183,"Vermilion County, Illinois",B06011_001,27880,1084
+17185,"Wabash County, Illinois",B06011_001,27639,2059
+17187,"Warren County, Illinois",B06011_001,27616,2342
+17189,"Washington County, Illinois",B06011_001,36405,1434
+17191,"Wayne County, Illinois",B06011_001,29619,1813
+17193,"White County, Illinois",B06011_001,25257,2127
+17195,"Whiteside County, Illinois",B06011_001,30354,853
+17197,"Will County, Illinois",B06011_001,39027,695
+17199,"Williamson County, Illinois",B06011_001,29919,1494
+17201,"Winnebago County, Illinois",B06011_001,29277,699
+17203,"Woodford County, Illinois",B06011_001,36173,1722
+18001,"Adams County, Indiana",B06011_001,29571,1643
+18003,"Allen County, Indiana",B06011_001,31134,359
+18005,"Bartholomew County, Indiana",B06011_001,32010,877
+18007,"Benton County, Indiana",B06011_001,27123,1853
+18009,"Blackford County, Indiana",B06011_001,25684,1805
+18011,"Boone County, Indiana",B06011_001,43998,1769
+18013,"Brown County, Indiana",B06011_001,30218,2165
+18015,"Carroll County, Indiana",B06011_001,29986,1810
+18017,"Cass County, Indiana",B06011_001,28995,1165
+18019,"Clark County, Indiana",B06011_001,31273,667
+18021,"Clay County, Indiana",B06011_001,31716,1436
+18023,"Clinton County, Indiana",B06011_001,28956,1426
+18025,"Crawford County, Indiana",B06011_001,25362,1896
+18027,"Daviess County, Indiana",B06011_001,27304,1561
+18029,"Dearborn County, Indiana",B06011_001,32036,1016
+18031,"Decatur County, Indiana",B06011_001,31460,1691
+18033,"DeKalb County, Indiana",B06011_001,31348,917
+18035,"Delaware County, Indiana",B06011_001,24093,827
+18037,"Dubois County, Indiana",B06011_001,32462,1224
+18039,"Elkhart County, Indiana",B06011_001,30035,566
+18041,"Fayette County, Indiana",B06011_001,26119,1202
+18043,"Floyd County, Indiana",B06011_001,33434,1245
+18045,"Fountain County, Indiana",B06011_001,27431,2390
+18047,"Franklin County, Indiana",B06011_001,32002,1740
+18049,"Fulton County, Indiana",B06011_001,27969,1607
+18051,"Gibson County, Indiana",B06011_001,30480,1067
+18053,"Grant County, Indiana",B06011_001,24592,984
+18055,"Greene County, Indiana",B06011_001,25992,1868
+18057,"Hamilton County, Indiana",B06011_001,47374,921
+18059,"Hancock County, Indiana",B06011_001,40082,1453
+18061,"Harrison County, Indiana",B06011_001,31036,1577
+18063,"Hendricks County, Indiana",B06011_001,40010,1155
+18065,"Henry County, Indiana",B06011_001,26616,844
+18067,"Howard County, Indiana",B06011_001,31329,913
+18069,"Huntington County, Indiana",B06011_001,28113,1543
+18071,"Jackson County, Indiana",B06011_001,30254,1347
+18073,"Jasper County, Indiana",B06011_001,30553,1622
+18075,"Jay County, Indiana",B06011_001,26796,867
+18077,"Jefferson County, Indiana",B06011_001,26080,1449
+18079,"Jennings County, Indiana",B06011_001,30665,1726
+18081,"Johnson County, Indiana",B06011_001,35437,1228
+18083,"Knox County, Indiana",B06011_001,27723,2084
+18085,"Kosciusko County, Indiana",B06011_001,31290,766
+18087,"LaGrange County, Indiana",B06011_001,32272,1578
+18089,"Lake County, Indiana",B06011_001,30660,416
+18091,"LaPorte County, Indiana",B06011_001,29512,916
+18093,"Lawrence County, Indiana",B06011_001,29443,1577
+18095,"Madison County, Indiana",B06011_001,27229,619
+18097,"Marion County, Indiana",B06011_001,30980,287
+18099,"Marshall County, Indiana",B06011_001,30269,912
+18101,"Martin County, Indiana",B06011_001,30499,1607
+18103,"Miami County, Indiana",B06011_001,28271,1455
+18105,"Monroe County, Indiana",B06011_001,24409,1180
+18107,"Montgomery County, Indiana",B06011_001,30960,1202
+18109,"Morgan County, Indiana",B06011_001,32539,1228
+18111,"Newton County, Indiana",B06011_001,31419,2413
+18113,"Noble County, Indiana",B06011_001,31145,837
+18115,"Ohio County, Indiana",B06011_001,31823,1093
+18117,"Orange County, Indiana",B06011_001,27215,1701
+18119,"Owen County, Indiana",B06011_001,28489,1975
+18121,"Parke County, Indiana",B06011_001,27282,1525
+18123,"Perry County, Indiana",B06011_001,29861,2008
+18125,"Pike County, Indiana",B06011_001,30324,2032
+18127,"Porter County, Indiana",B06011_001,34391,941
+18129,"Posey County, Indiana",B06011_001,32001,1549
+18131,"Pulaski County, Indiana",B06011_001,27890,2561
+18133,"Putnam County, Indiana",B06011_001,27152,1497
+18135,"Randolph County, Indiana",B06011_001,28122,1475
+18137,"Ripley County, Indiana",B06011_001,30973,1052
+18139,"Rush County, Indiana",B06011_001,31708,1297
+18141,"St. Joseph County, Indiana",B06011_001,28584,738
+18143,"Scott County, Indiana",B06011_001,24825,2433
+18145,"Shelby County, Indiana",B06011_001,31532,1041
+18147,"Spencer County, Indiana",B06011_001,31386,1256
+18149,"Starke County, Indiana",B06011_001,25060,1640
+18151,"Steuben County, Indiana",B06011_001,30009,1523
+18153,"Sullivan County, Indiana",B06011_001,26414,1439
+18155,"Switzerland County, Indiana",B06011_001,28779,2287
+18157,"Tippecanoe County, Indiana",B06011_001,24796,652
+18159,"Tipton County, Indiana",B06011_001,36078,1734
+18161,"Union County, Indiana",B06011_001,31676,2396
+18163,"Vanderburgh County, Indiana",B06011_001,28286,862
+18165,"Vermillion County, Indiana",B06011_001,30935,2030
+18167,"Vigo County, Indiana",B06011_001,25377,682
+18169,"Wabash County, Indiana",B06011_001,27992,2105
+18171,"Warren County, Indiana",B06011_001,33361,2811
+18173,"Warrick County, Indiana",B06011_001,37540,1481
+18175,"Washington County, Indiana",B06011_001,28749,1627
+18177,"Wayne County, Indiana",B06011_001,26526,741
+18179,"Wells County, Indiana",B06011_001,31808,1463
+18181,"White County, Indiana",B06011_001,29382,1960
+18183,"Whitley County, Indiana",B06011_001,33285,1668
+19001,"Adair County, Iowa",B06011_001,33335,1990
+19003,"Adams County, Iowa",B06011_001,30286,1413
+19005,"Allamakee County, Iowa",B06011_001,31675,1591
+19007,"Appanoose County, Iowa",B06011_001,24510,2161
+19009,"Audubon County, Iowa",B06011_001,29640,2021
+19011,"Benton County, Iowa",B06011_001,35665,1298
+19013,"Black Hawk County, Iowa",B06011_001,28926,814
+19015,"Boone County, Iowa",B06011_001,34435,1289
+19017,"Bremer County, Iowa",B06011_001,35202,1452
+19019,"Buchanan County, Iowa",B06011_001,32405,1171
+19021,"Buena Vista County, Iowa",B06011_001,28448,2866
+19023,"Butler County, Iowa",B06011_001,31346,1252
+19025,"Calhoun County, Iowa",B06011_001,28525,1929
+19027,"Carroll County, Iowa",B06011_001,31930,931
+19029,"Cass County, Iowa",B06011_001,29864,2223
+19031,"Cedar County, Iowa",B06011_001,34629,1415
+19033,"Cerro Gordo County, Iowa",B06011_001,31479,856
+19035,"Cherokee County, Iowa",B06011_001,31584,1969
+19037,"Chickasaw County, Iowa",B06011_001,33024,2123
+19039,"Clarke County, Iowa",B06011_001,29507,3101
+19041,"Clay County, Iowa",B06011_001,29359,2749
+19043,"Clayton County, Iowa",B06011_001,29890,1591
+19045,"Clinton County, Iowa",B06011_001,30027,1050
+19047,"Crawford County, Iowa",B06011_001,30450,2066
+19049,"Dallas County, Iowa",B06011_001,47228,1930
+19051,"Davis County, Iowa",B06011_001,32169,2001
+19053,"Decatur County, Iowa",B06011_001,24381,2313
+19055,"Delaware County, Iowa",B06011_001,32782,2138
+19057,"Des Moines County, Iowa",B06011_001,30230,982
+19059,"Dickinson County, Iowa",B06011_001,34114,1731
+19061,"Dubuque County, Iowa",B06011_001,33128,1017
+19063,"Emmet County, Iowa",B06011_001,28787,2381
+19065,"Fayette County, Iowa",B06011_001,26844,1719
+19067,"Floyd County, Iowa",B06011_001,30145,1447
+19069,"Franklin County, Iowa",B06011_001,31116,1984
+19071,"Fremont County, Iowa",B06011_001,31702,1578
+19073,"Greene County, Iowa",B06011_001,30465,1548
+19075,"Grundy County, Iowa",B06011_001,36959,1324
+19077,"Guthrie County, Iowa",B06011_001,32879,1741
+19079,"Hamilton County, Iowa",B06011_001,34196,2436
+19081,"Hancock County, Iowa",B06011_001,34308,2026
+19083,"Hardin County, Iowa",B06011_001,30565,1199
+19085,"Harrison County, Iowa",B06011_001,34683,1237
+19087,"Henry County, Iowa",B06011_001,28291,1156
+19089,"Howard County, Iowa",B06011_001,31167,914
+19091,"Humboldt County, Iowa",B06011_001,32069,1723
+19093,"Ida County, Iowa",B06011_001,32944,2117
+19095,"Iowa County, Iowa",B06011_001,34630,2231
+19097,"Jackson County, Iowa",B06011_001,32074,1710
+19099,"Jasper County, Iowa",B06011_001,32414,1534
+19101,"Jefferson County, Iowa",B06011_001,26739,1835
+19103,"Johnson County, Iowa",B06011_001,30666,909
+19105,"Jones County, Iowa",B06011_001,32365,1857
+19107,"Keokuk County, Iowa",B06011_001,29924,1800
+19109,"Kossuth County, Iowa",B06011_001,32915,1386
+19111,"Lee County, Iowa",B06011_001,27877,1534
+19113,"Linn County, Iowa",B06011_001,35625,953
+19115,"Louisa County, Iowa",B06011_001,31221,1405
+19117,"Lucas County, Iowa",B06011_001,31060,1523
+19119,"Lyon County, Iowa",B06011_001,34368,1819
+19121,"Madison County, Iowa",B06011_001,39247,1874
+19123,"Mahaska County, Iowa",B06011_001,27317,2086
+19125,"Marion County, Iowa",B06011_001,33768,1476
+19127,"Marshall County, Iowa",B06011_001,31370,873
+19129,"Mills County, Iowa",B06011_001,36862,2001
+19131,"Mitchell County, Iowa",B06011_001,31704,2125
+19133,"Monona County, Iowa",B06011_001,29830,1732
+19135,"Monroe County, Iowa",B06011_001,34683,3429
+19137,"Montgomery County, Iowa",B06011_001,31071,1336
+19139,"Muscatine County, Iowa",B06011_001,32864,1507
+19141,"O'Brien County, Iowa",B06011_001,31135,1992
+19143,"Osceola County, Iowa",B06011_001,33462,2502
+19145,"Page County, Iowa",B06011_001,28403,1916
+19147,"Palo Alto County, Iowa",B06011_001,31108,1142
+19149,"Plymouth County, Iowa",B06011_001,36754,1353
+19151,"Pocahontas County, Iowa",B06011_001,31945,1795
+19153,"Polk County, Iowa",B06011_001,37225,534
+19155,"Pottawattamie County, Iowa",B06011_001,32099,641
+19157,"Poweshiek County, Iowa",B06011_001,30637,1690
+19159,"Ringgold County, Iowa",B06011_001,28097,2595
+19161,"Sac County, Iowa",B06011_001,32765,1627
+19163,"Scott County, Iowa",B06011_001,34929,862
+19165,"Shelby County, Iowa",B06011_001,33226,1576
+19167,"Sioux County, Iowa",B06011_001,31003,1079
+19169,"Story County, Iowa",B06011_001,25190,1035
+19171,"Tama County, Iowa",B06011_001,30458,823
+19173,"Taylor County, Iowa",B06011_001,30394,1778
+19175,"Union County, Iowa",B06011_001,27606,2037
+19177,"Van Buren County, Iowa",B06011_001,27413,1738
+19179,"Wapello County, Iowa",B06011_001,27820,1695
+19181,"Warren County, Iowa",B06011_001,39858,1603
+19183,"Washington County, Iowa",B06011_001,33791,1531
+19185,"Wayne County, Iowa",B06011_001,30461,1352
+19187,"Webster County, Iowa",B06011_001,28169,2092
+19189,"Winnebago County, Iowa",B06011_001,30590,1359
+19191,"Winneshiek County, Iowa",B06011_001,31163,1236
+19193,"Woodbury County, Iowa",B06011_001,31552,600
+19195,"Worth County, Iowa",B06011_001,32488,2286
+19197,"Wright County, Iowa",B06011_001,30309,1634
+20001,"Allen County, Kansas",B06011_001,25528,1878
+20003,"Anderson County, Kansas",B06011_001,26516,2074
+20005,"Atchison County, Kansas",B06011_001,23508,1469
+20007,"Barber County, Kansas",B06011_001,29351,3332
+20009,"Barton County, Kansas",B06011_001,27442,1786
+20011,"Bourbon County, Kansas",B06011_001,25318,1824
+20013,"Brown County, Kansas",B06011_001,25684,1921
+20015,"Butler County, Kansas",B06011_001,32922,1499
+20017,"Chase County, Kansas",B06011_001,26204,2454
+20019,"Chautauqua County, Kansas",B06011_001,21857,1637
+20021,"Cherokee County, Kansas",B06011_001,25254,1422
+20023,"Cheyenne County, Kansas",B06011_001,28233,3827
+20025,"Clark County, Kansas",B06011_001,30286,4334
+20027,"Clay County, Kansas",B06011_001,29810,3141
+20029,"Cloud County, Kansas",B06011_001,28663,1819
+20031,"Coffey County, Kansas",B06011_001,31463,1819
+20033,"Comanche County, Kansas",B06011_001,29447,3044
+20035,"Cowley County, Kansas",B06011_001,28338,1460
+20037,"Crawford County, Kansas",B06011_001,24365,1497
+20039,"Decatur County, Kansas",B06011_001,28239,4063
+20041,"Dickinson County, Kansas",B06011_001,29338,2097
+20043,"Doniphan County, Kansas",B06011_001,25320,1878
+20045,"Douglas County, Kansas",B06011_001,27283,998
+20047,"Edwards County, Kansas",B06011_001,30038,2168
+20049,"Elk County, Kansas",B06011_001,23410,1798
+20051,"Ellis County, Kansas",B06011_001,27720,2401
+20053,"Ellsworth County, Kansas",B06011_001,28942,3021
+20055,"Finney County, Kansas",B06011_001,31825,1224
+20057,"Ford County, Kansas",B06011_001,30133,1177
+20059,"Franklin County, Kansas",B06011_001,30936,1215
+20061,"Geary County, Kansas",B06011_001,30821,1221
+20063,"Gove County, Kansas",B06011_001,30850,1078
+20065,"Graham County, Kansas",B06011_001,29098,3313
+20067,"Grant County, Kansas",B06011_001,35992,7101
+20069,"Gray County, Kansas",B06011_001,34106,2699
+20071,"Greeley County, Kansas",B06011_001,30066,6709
+20073,"Greenwood County, Kansas",B06011_001,27431,2774
+20075,"Hamilton County, Kansas",B06011_001,35179,6331
+20077,"Harper County, Kansas",B06011_001,28037,2348
+20079,"Harvey County, Kansas",B06011_001,30840,1265
+20081,"Haskell County, Kansas",B06011_001,30232,2172
+20083,"Hodgeman County, Kansas",B06011_001,31335,1707
+20085,"Jackson County, Kansas",B06011_001,31510,1374
+20087,"Jefferson County, Kansas",B06011_001,36641,1963
+20089,"Jewell County, Kansas",B06011_001,23629,1883
+20091,"Johnson County, Kansas",B06011_001,45092,667
+20093,"Kearny County, Kansas",B06011_001,28801,3289
+20095,"Kingman County, Kansas",B06011_001,30592,1294
+20097,"Kiowa County, Kansas",B06011_001,26978,2386
+20099,"Labette County, Kansas",B06011_001,26760,1325
+20101,"Lane County, Kansas",B06011_001,31344,2795
+20103,"Leavenworth County, Kansas",B06011_001,33885,1361
+20105,"Lincoln County, Kansas",B06011_001,28266,3343
+20107,"Linn County, Kansas",B06011_001,27054,2560
+20109,"Logan County, Kansas",B06011_001,26239,2632
+20111,"Lyon County, Kansas",B06011_001,26671,1560
+20113,"McPherson County, Kansas",B06011_001,30603,1250
+20115,"Marion County, Kansas",B06011_001,25948,1067
+20117,"Marshall County, Kansas",B06011_001,30723,1231
+20119,"Meade County, Kansas",B06011_001,33184,2165
+20121,"Miami County, Kansas",B06011_001,37143,1382
+20123,"Mitchell County, Kansas",B06011_001,29908,2559
+20125,"Montgomery County, Kansas",B06011_001,25125,1106
+20127,"Morris County, Kansas",B06011_001,30787,1708
+20129,"Morton County, Kansas",B06011_001,28354,2749
+20131,"Nemaha County, Kansas",B06011_001,29505,2046
+20133,"Neosho County, Kansas",B06011_001,27291,1487
+20135,"Ness County, Kansas",B06011_001,30585,2732
+20137,"Norton County, Kansas",B06011_001,24459,3738
+20139,"Osage County, Kansas",B06011_001,30558,1504
+20141,"Osborne County, Kansas",B06011_001,30123,3440
+20143,"Ottawa County, Kansas",B06011_001,31891,1327
+20145,"Pawnee County, Kansas",B06011_001,25654,1964
+20147,"Phillips County, Kansas",B06011_001,29707,2421
+20149,"Pottawatomie County, Kansas",B06011_001,36304,1684
+20151,"Pratt County, Kansas",B06011_001,26836,1198
+20153,"Rawlins County, Kansas",B06011_001,30242,3635
+20155,"Reno County, Kansas",B06011_001,27535,828
+20157,"Republic County, Kansas",B06011_001,29635,2222
+20159,"Rice County, Kansas",B06011_001,26372,2053
+20161,"Riley County, Kansas",B06011_001,23679,870
+20163,"Rooks County, Kansas",B06011_001,28503,1764
+20165,"Rush County, Kansas",B06011_001,28207,3594
+20167,"Russell County, Kansas",B06011_001,25595,3348
+20169,"Saline County, Kansas",B06011_001,29239,1554
+20171,"Scott County, Kansas",B06011_001,28350,4443
+20173,"Sedgwick County, Kansas",B06011_001,31071,328
+20175,"Seward County, Kansas",B06011_001,29024,2339
+20177,"Shawnee County, Kansas",B06011_001,33261,719
+20179,"Sheridan County, Kansas",B06011_001,35785,5478
+20181,"Sherman County, Kansas",B06011_001,31116,2874
+20183,"Smith County, Kansas",B06011_001,25601,1910
+20185,"Stafford County, Kansas",B06011_001,28666,1767
+20187,"Stanton County, Kansas",B06011_001,31049,2863
+20189,"Stevens County, Kansas",B06011_001,26152,1739
+20191,"Sumner County, Kansas",B06011_001,30056,1662
+20193,"Thomas County, Kansas",B06011_001,32140,3110
+20195,"Trego County, Kansas",B06011_001,32185,2776
+20197,"Wabaunsee County, Kansas",B06011_001,32231,2117
+20199,"Wallace County, Kansas",B06011_001,31210,4045
+20201,"Washington County, Kansas",B06011_001,29331,2162
+20203,"Wichita County, Kansas",B06011_001,31452,5104
+20205,"Wilson County, Kansas",B06011_001,26897,2146
+20207,"Woodson County, Kansas",B06011_001,27743,3123
+20209,"Wyandotte County, Kansas",B06011_001,27558,767
+21001,"Adair County, Kentucky",B06011_001,21415,1323
+21003,"Allen County, Kentucky",B06011_001,23611,1742
+21005,"Anderson County, Kentucky",B06011_001,31561,2108
+21007,"Ballard County, Kentucky",B06011_001,25877,1477
+21009,"Barren County, Kentucky",B06011_001,22816,1324
+21011,"Bath County, Kentucky",B06011_001,24104,2869
+21013,"Bell County, Kentucky",B06011_001,16507,905
+21015,"Boone County, Kentucky",B06011_001,37773,1504
+21017,"Bourbon County, Kentucky",B06011_001,26072,2493
+21019,"Boyd County, Kentucky",B06011_001,26186,1100
+21021,"Boyle County, Kentucky",B06011_001,25222,1558
+21023,"Bracken County, Kentucky",B06011_001,26021,2787
+21025,"Breathitt County, Kentucky",B06011_001,17752,2047
+21027,"Breckinridge County, Kentucky",B06011_001,24279,3028
+21029,"Bullitt County, Kentucky",B06011_001,32295,949
+21031,"Butler County, Kentucky",B06011_001,24539,1441
+21033,"Caldwell County, Kentucky",B06011_001,28373,3564
+21035,"Calloway County, Kentucky",B06011_001,21334,1243
+21037,"Campbell County, Kentucky",B06011_001,33019,1356
+21039,"Carlisle County, Kentucky",B06011_001,25793,1863
+21041,"Carroll County, Kentucky",B06011_001,23706,3009
+21043,"Carter County, Kentucky",B06011_001,19835,1670
+21045,"Casey County, Kentucky",B06011_001,17900,2739
+21047,"Christian County, Kentucky",B06011_001,27099,718
+21049,"Clark County, Kentucky",B06011_001,27835,1638
+21051,"Clay County, Kentucky",B06011_001,17199,1699
+21053,"Clinton County, Kentucky",B06011_001,20965,1658
+21055,"Crittenden County, Kentucky",B06011_001,23335,2170
+21057,"Cumberland County, Kentucky",B06011_001,19615,4121
+21059,"Daviess County, Kentucky",B06011_001,28938,1359
+21061,"Edmonson County, Kentucky",B06011_001,22718,2226
+21063,"Elliott County, Kentucky",B06011_001,18621,2980
+21065,"Estill County, Kentucky",B06011_001,18976,1418
+21067,"Fayette County, Kentucky",B06011_001,30974,488
+21069,"Fleming County, Kentucky",B06011_001,24017,1737
+21071,"Floyd County, Kentucky",B06011_001,19745,1693
+21073,"Franklin County, Kentucky",B06011_001,32657,1664
+21075,"Fulton County, Kentucky",B06011_001,20914,1953
+21077,"Gallatin County, Kentucky",B06011_001,25706,2171
+21079,"Garrard County, Kentucky",B06011_001,26491,1987
+21081,"Grant County, Kentucky",B06011_001,30564,2217
+21083,"Graves County, Kentucky",B06011_001,24536,1728
+21085,"Grayson County, Kentucky",B06011_001,23464,1833
+21087,"Green County, Kentucky",B06011_001,20106,1640
+21089,"Greenup County, Kentucky",B06011_001,26273,1174
+21091,"Hancock County, Kentucky",B06011_001,30737,2516
+21093,"Hardin County, Kentucky",B06011_001,31473,731
+21095,"Harlan County, Kentucky",B06011_001,18441,1125
+21097,"Harrison County, Kentucky",B06011_001,25553,1977
+21099,"Hart County, Kentucky",B06011_001,22334,2242
+21101,"Henderson County, Kentucky",B06011_001,27985,1717
+21103,"Henry County, Kentucky",B06011_001,26073,1729
+21105,"Hickman County, Kentucky",B06011_001,23553,2941
+21107,"Hopkins County, Kentucky",B06011_001,26395,1193
+21109,"Jackson County, Kentucky",B06011_001,17713,2275
+21111,"Jefferson County, Kentucky",B06011_001,32123,295
+21113,"Jessamine County, Kentucky",B06011_001,29115,1369
+21115,"Johnson County, Kentucky",B06011_001,21161,2237
+21117,"Kenton County, Kentucky",B06011_001,33895,727
+21119,"Knott County, Kentucky",B06011_001,17882,1642
+21121,"Knox County, Kentucky",B06011_001,17324,1643
+21123,"Larue County, Kentucky",B06011_001,25644,2964
+21125,"Laurel County, Kentucky",B06011_001,23667,1284
+21127,"Lawrence County, Kentucky",B06011_001,20573,1920
+21129,"Lee County, Kentucky",B06011_001,14883,2266
+21131,"Leslie County, Kentucky",B06011_001,20951,2139
+21133,"Letcher County, Kentucky",B06011_001,20683,1475
+21135,"Lewis County, Kentucky",B06011_001,20097,2544
+21137,"Lincoln County, Kentucky",B06011_001,22616,1828
+21139,"Livingston County, Kentucky",B06011_001,25642,2073
+21141,"Logan County, Kentucky",B06011_001,26348,1404
+21143,"Lyon County, Kentucky",B06011_001,24155,3196
+21145,"McCracken County, Kentucky",B06011_001,25820,1262
+21147,"McCreary County, Kentucky",B06011_001,17367,1992
+21149,"McLean County, Kentucky",B06011_001,28612,3756
+21151,"Madison County, Kentucky",B06011_001,24250,1411
+21153,"Magoffin County, Kentucky",B06011_001,16560,2169
+21155,"Marion County, Kentucky",B06011_001,24011,1617
+21157,"Marshall County, Kentucky",B06011_001,29653,2365
+21159,"Martin County, Kentucky",B06011_001,23129,3172
+21161,"Mason County, Kentucky",B06011_001,25269,1181
+21163,"Meade County, Kentucky",B06011_001,31050,1226
+21165,"Menifee County, Kentucky",B06011_001,22151,3453
+21167,"Mercer County, Kentucky",B06011_001,28659,2312
+21169,"Metcalfe County, Kentucky",B06011_001,21399,1650
+21171,"Monroe County, Kentucky",B06011_001,21824,2190
+21173,"Montgomery County, Kentucky",B06011_001,25002,2313
+21175,"Morgan County, Kentucky",B06011_001,21160,1301
+21177,"Muhlenberg County, Kentucky",B06011_001,21822,1397
+21179,"Nelson County, Kentucky",B06011_001,31062,1388
+21181,"Nicholas County, Kentucky",B06011_001,22074,3149
+21183,"Ohio County, Kentucky",B06011_001,23096,1006
+21185,"Oldham County, Kentucky",B06011_001,42322,1319
+21187,"Owen County, Kentucky",B06011_001,26516,2072
+21189,"Owsley County, Kentucky",B06011_001,16008,3294
+21191,"Pendleton County, Kentucky",B06011_001,28004,2456
+21193,"Perry County, Kentucky",B06011_001,22727,1446
+21195,"Pike County, Kentucky",B06011_001,20899,813
+21197,"Powell County, Kentucky",B06011_001,23373,2347
+21199,"Pulaski County, Kentucky",B06011_001,22087,1012
+21201,"Robertson County, Kentucky",B06011_001,27195,3812
+21203,"Rockcastle County, Kentucky",B06011_001,20631,1442
+21205,"Rowan County, Kentucky",B06011_001,20135,1469
+21207,"Russell County, Kentucky",B06011_001,23120,1704
+21209,"Scott County, Kentucky",B06011_001,35673,1090
+21211,"Shelby County, Kentucky",B06011_001,31811,1165
+21213,"Simpson County, Kentucky",B06011_001,28986,1517
+21215,"Spencer County, Kentucky",B06011_001,38139,3027
+21217,"Taylor County, Kentucky",B06011_001,24265,1859
+21219,"Todd County, Kentucky",B06011_001,27925,2144
+21221,"Trigg County, Kentucky",B06011_001,27148,1726
+21223,"Trimble County, Kentucky",B06011_001,27327,3372
+21225,"Union County, Kentucky",B06011_001,26631,1326
+21227,"Warren County, Kentucky",B06011_001,26104,677
+21229,"Washington County, Kentucky",B06011_001,27442,2586
+21231,"Wayne County, Kentucky",B06011_001,21169,1600
+21233,"Webster County, Kentucky",B06011_001,24905,2912
+21235,"Whitley County, Kentucky",B06011_001,18444,1881
+21237,"Wolfe County, Kentucky",B06011_001,12917,1628
+21239,"Woodford County, Kentucky",B06011_001,33727,2214
+22001,"Acadia Parish, Louisiana",B06011_001,24529,1578
+22003,"Allen Parish, Louisiana",B06011_001,23450,1663
+22005,"Ascension Parish, Louisiana",B06011_001,40902,2093
+22007,"Assumption Parish, Louisiana",B06011_001,24498,1735
+22009,"Avoyelles Parish, Louisiana",B06011_001,22870,1301
+22011,"Beauregard Parish, Louisiana",B06011_001,26372,1446
+22013,"Bienville Parish, Louisiana",B06011_001,21096,1675
+22015,"Bossier Parish, Louisiana",B06011_001,30308,1438
+22017,"Caddo Parish, Louisiana",B06011_001,24675,750
+22019,"Calcasieu Parish, Louisiana",B06011_001,28237,1322
+22021,"Caldwell Parish, Louisiana",B06011_001,24440,3407
+22023,"Cameron Parish, Louisiana",B06011_001,32073,4986
+22025,"Catahoula Parish, Louisiana",B06011_001,24592,2037
+22027,"Claiborne Parish, Louisiana",B06011_001,16467,960
+22029,"Concordia Parish, Louisiana",B06011_001,21623,1074
+22031,"De Soto Parish, Louisiana",B06011_001,24685,1470
+22033,"East Baton Rouge Parish, Louisiana",B06011_001,30438,638
+22035,"East Carroll Parish, Louisiana",B06011_001,16796,2940
+22037,"East Feliciana Parish, Louisiana",B06011_001,28392,2216
+22039,"Evangeline Parish, Louisiana",B06011_001,19264,854
+22041,"Franklin Parish, Louisiana",B06011_001,23192,1595
+22043,"Grant Parish, Louisiana",B06011_001,23105,1805
+22045,"Iberia Parish, Louisiana",B06011_001,26131,1452
+22047,"Iberville Parish, Louisiana",B06011_001,25854,1586
+22049,"Jackson Parish, Louisiana",B06011_001,22853,1961
+22051,"Jefferson Parish, Louisiana",B06011_001,30904,616
+22053,"Jefferson Davis Parish, Louisiana",B06011_001,24260,1232
+22055,"Lafayette Parish, Louisiana",B06011_001,31110,855
+22057,"Lafourche Parish, Louisiana",B06011_001,25996,825
+22059,"LaSalle Parish, Louisiana",B06011_001,25830,2908
+22061,"Lincoln Parish, Louisiana",B06011_001,20235,893
+22063,"Livingston Parish, Louisiana",B06011_001,33269,1713
+22065,"Madison Parish, Louisiana",B06011_001,20168,2046
+22067,"Morehouse Parish, Louisiana",B06011_001,22162,1470
+22069,"Natchitoches Parish, Louisiana",B06011_001,18888,1447
+22071,"Orleans Parish, Louisiana",B06011_001,26607,523
+22073,"Ouachita Parish, Louisiana",B06011_001,26304,777
+22075,"Plaquemines Parish, Louisiana",B06011_001,30397,3295
+22077,"Pointe Coupee Parish, Louisiana",B06011_001,25828,2162
+22079,"Rapides Parish, Louisiana",B06011_001,26174,702
+22081,"Red River Parish, Louisiana",B06011_001,20236,3857
+22083,"Richland Parish, Louisiana",B06011_001,21942,1562
+22085,"Sabine Parish, Louisiana",B06011_001,22936,1229
+22087,"St. Bernard Parish, Louisiana",B06011_001,26049,1204
+22089,"St. Charles Parish, Louisiana",B06011_001,38012,2516
+22091,"St. Helena Parish, Louisiana",B06011_001,23479,2957
+22093,"St. James Parish, Louisiana",B06011_001,28177,3309
+22095,"St. John the Baptist Parish, Louisiana",B06011_001,28304,2664
+22097,"St. Landry Parish, Louisiana",B06011_001,21981,923
+22099,"St. Martin Parish, Louisiana",B06011_001,26485,1221
+22101,"St. Mary Parish, Louisiana",B06011_001,25445,1276
+22103,"St. Tammany Parish, Louisiana",B06011_001,34040,1371
+22105,"Tangipahoa Parish, Louisiana",B06011_001,25418,959
+22107,"Tensas Parish, Louisiana",B06011_001,21122,1590
+22109,"Terrebonne Parish, Louisiana",B06011_001,26454,816
+22111,"Union Parish, Louisiana",B06011_001,23954,3548
+22113,"Vermilion Parish, Louisiana",B06011_001,26627,1479
+22115,"Vernon Parish, Louisiana",B06011_001,27120,1404
+22117,"Washington Parish, Louisiana",B06011_001,21446,1328
+22119,"Webster Parish, Louisiana",B06011_001,17810,1123
+22121,"West Baton Rouge Parish, Louisiana",B06011_001,36223,2850
+22123,"West Carroll Parish, Louisiana",B06011_001,23337,1621
+22125,"West Feliciana Parish, Louisiana",B06011_001,30623,7352
+22127,"Winn Parish, Louisiana",B06011_001,23083,1732
+23001,"Androscoggin County, Maine",B06011_001,30302,694
+23003,"Aroostook County, Maine",B06011_001,24147,1063
+23005,"Cumberland County, Maine",B06011_001,37226,785
+23007,"Franklin County, Maine",B06011_001,26677,1223
+23009,"Hancock County, Maine",B06011_001,30926,897
+23011,"Kennebec County, Maine",B06011_001,30013,800
+23013,"Knox County, Maine",B06011_001,30489,1072
+23015,"Lincoln County, Maine",B06011_001,31872,1305
+23017,"Oxford County, Maine",B06011_001,25421,872
+23019,"Penobscot County, Maine",B06011_001,27164,666
+23021,"Piscataquis County, Maine",B06011_001,23252,1252
+23023,"Sagadahoc County, Maine",B06011_001,36486,1997
+23025,"Somerset County, Maine",B06011_001,24098,1013
+23027,"Waldo County, Maine",B06011_001,29742,1557
+23029,"Washington County, Maine",B06011_001,24537,1067
+23031,"York County, Maine",B06011_001,33945,829
+24001,"Allegany County, Maryland",B06011_001,23749,1030
+24003,"Anne Arundel County, Maryland",B06011_001,48003,827
+24005,"Baltimore County, Maryland",B06011_001,40461,459
+24009,"Calvert County, Maryland",B06011_001,49961,1838
+24011,"Caroline County, Maryland",B06011_001,29425,1486
+24013,"Carroll County, Maryland",B06011_001,43291,1387
+24015,"Cecil County, Maryland",B06011_001,36824,1155
+24017,"Charles County, Maryland",B06011_001,49671,1287
+24019,"Dorchester County, Maryland",B06011_001,28821,1701
+24021,"Frederick County, Maryland",B06011_001,45373,884
+24023,"Garrett County, Maryland",B06011_001,29967,1614
+24025,"Harford County, Maryland",B06011_001,43528,990
+24027,"Howard County, Maryland",B06011_001,58164,1704
+24029,"Kent County, Maryland",B06011_001,31691,2124
+24031,"Montgomery County, Maryland",B06011_001,50040,497
+24033,"Prince George's County, Maryland",B06011_001,41402,411
+24035,"Queen Anne's County, Maryland",B06011_001,42662,1608
+24037,"St. Mary's County, Maryland",B06011_001,43851,2279
+24039,"Somerset County, Maryland",B06011_001,21725,1683
+24041,"Talbot County, Maryland",B06011_001,38561,1969
+24043,"Washington County, Maryland",B06011_001,30729,814
+24045,"Wicomico County, Maryland",B06011_001,28380,1523
+24047,"Worcester County, Maryland",B06011_001,32814,1608
+24510,"Baltimore city, Maryland",B06011_001,31089,422
+25001,"Barnstable County, Massachusetts",B06011_001,38200,1081
+25003,"Berkshire County, Massachusetts",B06011_001,31911,742
+25005,"Bristol County, Massachusetts",B06011_001,34629,653
+25007,"Dukes County, Massachusetts",B06011_001,40064,3720
+25009,"Essex County, Massachusetts",B06011_001,37335,485
+25011,"Franklin County, Massachusetts",B06011_001,32540,921
+25013,"Hampden County, Massachusetts",B06011_001,30381,471
+25015,"Hampshire County, Massachusetts",B06011_001,28763,1228
+25017,"Middlesex County, Massachusetts",B06011_001,48230,555
+25019,"Nantucket County, Massachusetts",B06011_001,48785,3901
+25021,"Norfolk County, Massachusetts",B06011_001,48912,816
+25023,"Plymouth County, Massachusetts",B06011_001,41029,673
+25025,"Suffolk County, Massachusetts",B06011_001,36591,556
+25027,"Worcester County, Massachusetts",B06011_001,36595,477
+26001,"Alcona County, Michigan",B06011_001,25154,830
+26003,"Alger County, Michigan",B06011_001,23482,2076
+26005,"Allegan County, Michigan",B06011_001,31471,753
+26007,"Alpena County, Michigan",B06011_001,24409,1153
+26009,"Antrim County, Michigan",B06011_001,29130,1753
+26011,"Arenac County, Michigan",B06011_001,26119,725
+26013,"Baraga County, Michigan",B06011_001,26870,1677
+26015,"Barry County, Michigan",B06011_001,32950,1172
+26017,"Bay County, Michigan",B06011_001,27907,938
+26019,"Benzie County, Michigan",B06011_001,29965,1685
+26021,"Berrien County, Michigan",B06011_001,27347,615
+26023,"Branch County, Michigan",B06011_001,28620,1087
+26025,"Calhoun County, Michigan",B06011_001,27567,904
+26027,"Cass County, Michigan",B06011_001,30520,991
+26029,"Charlevoix County, Michigan",B06011_001,31026,1083
+26031,"Cheboygan County, Michigan",B06011_001,26099,1023
+26033,"Chippewa County, Michigan",B06011_001,25252,1045
+26035,"Clare County, Michigan",B06011_001,21574,858
+26037,"Clinton County, Michigan",B06011_001,35936,943
+26039,"Crawford County, Michigan",B06011_001,24958,1763
+26041,"Delta County, Michigan",B06011_001,26078,800
+26043,"Dickinson County, Michigan",B06011_001,31510,1021
+26045,"Eaton County, Michigan",B06011_001,35489,800
+26047,"Emmet County, Michigan",B06011_001,30075,1231
+26049,"Genesee County, Michigan",B06011_001,27604,610
+26051,"Gladwin County, Michigan",B06011_001,25023,1010
+26053,"Gogebic County, Michigan",B06011_001,24474,1120
+26055,"Grand Traverse County, Michigan",B06011_001,32148,718
+26057,"Gratiot County, Michigan",B06011_001,26386,713
+26059,"Hillsdale County, Michigan",B06011_001,27211,832
+26061,"Houghton County, Michigan",B06011_001,21988,929
+26063,"Huron County, Michigan",B06011_001,27415,829
+26065,"Ingham County, Michigan",B06011_001,27065,483
+26067,"Ionia County, Michigan",B06011_001,30988,841
+26069,"Iosco County, Michigan",B06011_001,24139,920
+26071,"Iron County, Michigan",B06011_001,26235,1200
+26073,"Isabella County, Michigan",B06011_001,19326,918
+26075,"Jackson County, Michigan",B06011_001,29056,1174
+26077,"Kalamazoo County, Michigan",B06011_001,29413,827
+26079,"Kalkaska County, Michigan",B06011_001,25694,1124
+26081,"Kent County, Michigan",B06011_001,32002,357
+26083,"Keweenaw County, Michigan",B06011_001,30288,3394
+26085,"Lake County, Michigan",B06011_001,20455,996
+26087,"Lapeer County, Michigan",B06011_001,31276,860
+26089,"Leelanau County, Michigan",B06011_001,33345,1440
+26091,"Lenawee County, Michigan",B06011_001,29355,1272
+26093,"Livingston County, Michigan",B06011_001,39501,989
+26095,"Luce County, Michigan",B06011_001,25434,1490
+26097,"Mackinac County, Michigan",B06011_001,25329,1511
+26099,"Macomb County, Michigan",B06011_001,32374,291
+26101,"Manistee County, Michigan",B06011_001,25986,978
+26103,"Marquette County, Michigan",B06011_001,27352,1038
+26105,"Mason County, Michigan",B06011_001,26263,889
+26107,"Mecosta County, Michigan",B06011_001,21357,779
+26109,"Menominee County, Michigan",B06011_001,26804,1016
+26111,"Midland County, Michigan",B06011_001,32326,983
+26113,"Missaukee County, Michigan",B06011_001,25757,1063
+26115,"Monroe County, Michigan",B06011_001,32467,737
+26117,"Montcalm County, Michigan",B06011_001,26908,685
+26119,"Montmorency County, Michigan",B06011_001,25310,1157
+26121,"Muskegon County, Michigan",B06011_001,27543,687
+26123,"Newaygo County, Michigan",B06011_001,26756,924
+26125,"Oakland County, Michigan",B06011_001,40638,385
+26127,"Oceana County, Michigan",B06011_001,25306,1075
+26129,"Ogemaw County, Michigan",B06011_001,23284,976
+26131,"Ontonagon County, Michigan",B06011_001,23756,1696
+26133,"Osceola County, Michigan",B06011_001,25175,888
+26135,"Oscoda County, Michigan",B06011_001,25182,1345
+26137,"Otsego County, Michigan",B06011_001,27431,1088
+26139,"Ottawa County, Michigan",B06011_001,31994,528
+26141,"Presque Isle County, Michigan",B06011_001,25963,1021
+26143,"Roscommon County, Michigan",B06011_001,24276,1037
+26145,"Saginaw County, Michigan",B06011_001,27005,524
+26147,"St. Clair County, Michigan",B06011_001,30097,680
+26149,"St. Joseph County, Michigan",B06011_001,29110,941
+26151,"Sanilac County, Michigan",B06011_001,27444,959
+26153,"Schoolcraft County, Michigan",B06011_001,24686,2033
+26155,"Shiawassee County, Michigan",B06011_001,29989,891
+26157,"Tuscola County, Michigan",B06011_001,27205,743
+26159,"Van Buren County, Michigan",B06011_001,27929,1114
+26161,"Washtenaw County, Michigan",B06011_001,35419,584
+26163,"Wayne County, Michigan",B06011_001,27902,362
+26165,"Wexford County, Michigan",B06011_001,25952,885
+27001,"Aitkin County, Minnesota",B06011_001,27660,1061
+27003,"Anoka County, Minnesota",B06011_001,40331,417
+27005,"Becker County, Minnesota",B06011_001,31616,897
+27007,"Beltrami County, Minnesota",B06011_001,27284,1200
+27009,"Benton County, Minnesota",B06011_001,34718,1629
+27011,"Big Stone County, Minnesota",B06011_001,29036,3765
+27013,"Blue Earth County, Minnesota",B06011_001,28303,1407
+27015,"Brown County, Minnesota",B06011_001,32983,1113
+27017,"Carlton County, Minnesota",B06011_001,33388,1637
+27019,"Carver County, Minnesota",B06011_001,47669,1324
+27021,"Cass County, Minnesota",B06011_001,30133,905
+27023,"Chippewa County, Minnesota",B06011_001,32208,2237
+27025,"Chisago County, Minnesota",B06011_001,40144,1320
+27027,"Clay County, Minnesota",B06011_001,34403,1500
+27029,"Clearwater County, Minnesota",B06011_001,27683,1273
+27031,"Cook County, Minnesota",B06011_001,34099,2879
+27033,"Cottonwood County, Minnesota",B06011_001,30255,1056
+27035,"Crow Wing County, Minnesota",B06011_001,31330,714
+27037,"Dakota County, Minnesota",B06011_001,43111,620
+27039,"Dodge County, Minnesota",B06011_001,40729,958
+27041,"Douglas County, Minnesota",B06011_001,35355,1112
+27043,"Faribault County, Minnesota",B06011_001,31318,780
+27045,"Fillmore County, Minnesota",B06011_001,34236,1281
+27047,"Freeborn County, Minnesota",B06011_001,31118,816
+27049,"Goodhue County, Minnesota",B06011_001,37463,1214
+27051,"Grant County, Minnesota",B06011_001,30760,1067
+27053,"Hennepin County, Minnesota",B06011_001,41989,339
+27055,"Houston County, Minnesota",B06011_001,35591,1704
+27057,"Hubbard County, Minnesota",B06011_001,29709,1026
+27059,"Isanti County, Minnesota",B06011_001,37061,1327
+27061,"Itasca County, Minnesota",B06011_001,28990,1444
+27063,"Jackson County, Minnesota",B06011_001,34558,1779
+27065,"Kanabec County, Minnesota",B06011_001,30094,1375
+27067,"Kandiyohi County, Minnesota",B06011_001,32091,778
+27069,"Kittson County, Minnesota",B06011_001,32075,2603
+27071,"Koochiching County, Minnesota",B06011_001,32178,2040
+27073,"Lac qui Parle County, Minnesota",B06011_001,30471,1605
+27075,"Lake County, Minnesota",B06011_001,35134,3309
+27077,"Lake of the Woods County, Minnesota",B06011_001,25883,1497
+27079,"Le Sueur County, Minnesota",B06011_001,37509,1544
+27081,"Lincoln County, Minnesota",B06011_001,30541,1235
+27083,"Lyon County, Minnesota",B06011_001,31096,824
+27085,"McLeod County, Minnesota",B06011_001,35477,1142
+27087,"Mahnomen County, Minnesota",B06011_001,25587,1753
+27089,"Marshall County, Minnesota",B06011_001,35537,1107
+27091,"Martin County, Minnesota",B06011_001,32253,1655
+27093,"Meeker County, Minnesota",B06011_001,32367,950
+27095,"Mille Lacs County, Minnesota",B06011_001,29704,1392
+27097,"Morrison County, Minnesota",B06011_001,31143,783
+27099,"Mower County, Minnesota",B06011_001,31967,1049
+27101,"Murray County, Minnesota",B06011_001,31772,1321
+27103,"Nicollet County, Minnesota",B06011_001,34043,1788
+27105,"Nobles County, Minnesota",B06011_001,30456,1090
+27107,"Norman County, Minnesota",B06011_001,31957,1212
+27109,"Olmsted County, Minnesota",B06011_001,41410,628
+27111,"Otter Tail County, Minnesota",B06011_001,32705,895
+27113,"Pennington County, Minnesota",B06011_001,35092,1734
+27115,"Pine County, Minnesota",B06011_001,28913,1571
+27117,"Pipestone County, Minnesota",B06011_001,29310,2298
+27119,"Polk County, Minnesota",B06011_001,32158,1263
+27121,"Pope County, Minnesota",B06011_001,34388,1729
+27123,"Ramsey County, Minnesota",B06011_001,35188,373
+27125,"Red Lake County, Minnesota",B06011_001,33221,2135
+27127,"Redwood County, Minnesota",B06011_001,31113,730
+27129,"Renville County, Minnesota",B06011_001,31353,959
+27131,"Rice County, Minnesota",B06011_001,32415,1013
+27133,"Rock County, Minnesota",B06011_001,34777,2290
+27135,"Roseau County, Minnesota",B06011_001,34238,1052
+27137,"St. Louis County, Minnesota",B06011_001,30338,539
+27139,"Scott County, Minnesota",B06011_001,45545,1222
+27141,"Sherburne County, Minnesota",B06011_001,40285,834
+27143,"Sibley County, Minnesota",B06011_001,34900,1357
+27145,"Stearns County, Minnesota",B06011_001,31403,601
+27147,"Steele County, Minnesota",B06011_001,35675,1621
+27149,"Stevens County, Minnesota",B06011_001,30332,3163
+27151,"Swift County, Minnesota",B06011_001,33237,1782
+27153,"Todd County, Minnesota",B06011_001,29691,1336
+27155,"Traverse County, Minnesota",B06011_001,31472,2126
+27157,"Wabasha County, Minnesota",B06011_001,35874,1323
+27159,"Wadena County, Minnesota",B06011_001,27291,2081
+27161,"Waseca County, Minnesota",B06011_001,32154,1215
+27163,"Washington County, Minnesota",B06011_001,45682,832
+27165,"Watonwan County, Minnesota",B06011_001,30256,2085
+27167,"Wilkin County, Minnesota",B06011_001,35078,2581
+27169,"Winona County, Minnesota",B06011_001,28526,1296
+27171,"Wright County, Minnesota",B06011_001,41604,685
+27173,"Yellow Medicine County, Minnesota",B06011_001,32661,1417
+28001,"Adams County, Mississippi",B06011_001,19493,1941
+28003,"Alcorn County, Mississippi",B06011_001,22234,1288
+28005,"Amite County, Mississippi",B06011_001,20029,2000
+28007,"Attala County, Mississippi",B06011_001,21362,2002
+28009,"Benton County, Mississippi",B06011_001,25617,2257
+28011,"Bolivar County, Mississippi",B06011_001,19557,1387
+28013,"Calhoun County, Mississippi",B06011_001,22305,1428
+28015,"Carroll County, Mississippi",B06011_001,23961,2418
+28017,"Chickasaw County, Mississippi",B06011_001,22380,2093
+28019,"Choctaw County, Mississippi",B06011_001,21190,1424
+28021,"Claiborne County, Mississippi",B06011_001,15383,1509
+28023,"Clarke County, Mississippi",B06011_001,23295,2304
+28025,"Clay County, Mississippi",B06011_001,22847,2016
+28027,"Coahoma County, Mississippi",B06011_001,18740,2040
+28029,"Copiah County, Mississippi",B06011_001,22847,2781
+28031,"Covington County, Mississippi",B06011_001,18535,1304
+28033,"DeSoto County, Mississippi",B06011_001,33050,855
+28035,"Forrest County, Mississippi",B06011_001,21577,1240
+28037,"Franklin County, Mississippi",B06011_001,20807,2281
+28039,"George County, Mississippi",B06011_001,24386,2450
+28041,"Greene County, Mississippi",B06011_001,21600,3333
+28043,"Grenada County, Mississippi",B06011_001,24028,2283
+28045,"Hancock County, Mississippi",B06011_001,29959,1702
+28047,"Harrison County, Mississippi",B06011_001,26826,716
+28049,"Hinds County, Mississippi",B06011_001,25581,484
+28051,"Holmes County, Mississippi",B06011_001,16579,948
+28053,"Humphreys County, Mississippi",B06011_001,15985,1578
+28055,"Issaquena County, Mississippi",B06011_001,18563,7424
+28057,"Itawamba County, Mississippi",B06011_001,25310,1718
+28059,"Jackson County, Mississippi",B06011_001,28319,1224
+28061,"Jasper County, Mississippi",B06011_001,22289,1705
+28063,"Jefferson County, Mississippi",B06011_001,18497,2140
+28065,"Jefferson Davis County, Mississippi",B06011_001,19868,2153
+28067,"Jones County, Mississippi",B06011_001,24948,1116
+28069,"Kemper County, Mississippi",B06011_001,20560,2342
+28071,"Lafayette County, Mississippi",B06011_001,23242,2002
+28073,"Lamar County, Mississippi",B06011_001,30329,1958
+28075,"Lauderdale County, Mississippi",B06011_001,23204,1370
+28077,"Lawrence County, Mississippi",B06011_001,26521,2228
+28079,"Leake County, Mississippi",B06011_001,22279,2093
+28081,"Lee County, Mississippi",B06011_001,27479,1407
+28083,"Leflore County, Mississippi",B06011_001,18556,1561
+28085,"Lincoln County, Mississippi",B06011_001,25478,1896
+28087,"Lowndes County, Mississippi",B06011_001,27096,1677
+28089,"Madison County, Mississippi",B06011_001,37558,1574
+28091,"Marion County, Mississippi",B06011_001,20794,1495
+28093,"Marshall County, Mississippi",B06011_001,25002,2078
+28095,"Monroe County, Mississippi",B06011_001,24380,1739
+28097,"Montgomery County, Mississippi",B06011_001,20621,1851
+28099,"Neshoba County, Mississippi",B06011_001,21590,1464
+28101,"Newton County, Mississippi",B06011_001,25034,2067
+28103,"Noxubee County, Mississippi",B06011_001,19535,2323
+28105,"Oktibbeha County, Mississippi",B06011_001,18947,1744
+28107,"Panola County, Mississippi",B06011_001,21733,1573
+28109,"Pearl River County, Mississippi",B06011_001,25313,1641
+28111,"Perry County, Mississippi",B06011_001,21673,1621
+28113,"Pike County, Mississippi",B06011_001,19101,1099
+28115,"Pontotoc County, Mississippi",B06011_001,25784,1501
+28117,"Prentiss County, Mississippi",B06011_001,23082,2519
+28119,"Quitman County, Mississippi",B06011_001,17094,1596
+28121,"Rankin County, Mississippi",B06011_001,34157,1075
+28123,"Scott County, Mississippi",B06011_001,21634,1513
+28125,"Sharkey County, Mississippi",B06011_001,21807,4553
+28127,"Simpson County, Mississippi",B06011_001,23046,1614
+28129,"Smith County, Mississippi",B06011_001,23650,2962
+28131,"Stone County, Mississippi",B06011_001,22411,2443
+28133,"Sunflower County, Mississippi",B06011_001,17922,1530
+28135,"Tallahatchie County, Mississippi",B06011_001,16987,1846
+28137,"Tate County, Mississippi",B06011_001,27218,2423
+28139,"Tippah County, Mississippi",B06011_001,20567,1521
+28141,"Tishomingo County, Mississippi",B06011_001,21954,1978
+28143,"Tunica County, Mississippi",B06011_001,22422,2706
+28145,"Union County, Mississippi",B06011_001,26568,1929
+28147,"Walthall County, Mississippi",B06011_001,20511,1635
+28149,"Warren County, Mississippi",B06011_001,24567,1462
+28151,"Washington County, Mississippi",B06011_001,20766,961
+28153,"Wayne County, Mississippi",B06011_001,22014,3401
+28155,"Webster County, Mississippi",B06011_001,26110,3422
+28157,"Wilkinson County, Mississippi",B06011_001,20311,3812
+28159,"Winston County, Mississippi",B06011_001,20623,1381
+28161,"Yalobusha County, Mississippi",B06011_001,20566,1684
+28163,"Yazoo County, Mississippi",B06011_001,16424,1002
+29001,"Adair County, Missouri",B06011_001,19758,1867
+29003,"Andrew County, Missouri",B06011_001,31245,1629
+29005,"Atchison County, Missouri",B06011_001,28000,1795
+29007,"Audrain County, Missouri",B06011_001,24973,1402
+29009,"Barry County, Missouri",B06011_001,26326,1437
+29011,"Barton County, Missouri",B06011_001,22124,2032
+29013,"Bates County, Missouri",B06011_001,26056,1072
+29015,"Benton County, Missouri",B06011_001,21927,1553
+29017,"Bollinger County, Missouri",B06011_001,21690,1260
+29019,"Boone County, Missouri",B06011_001,30340,815
+29021,"Buchanan County, Missouri",B06011_001,26893,798
+29023,"Butler County, Missouri",B06011_001,21494,1104
+29025,"Caldwell County, Missouri",B06011_001,26547,710
+29027,"Callaway County, Missouri",B06011_001,30266,1111
+29029,"Camden County, Missouri",B06011_001,26080,1190
+29031,"Cape Girardeau County, Missouri",B06011_001,27099,661
+29033,"Carroll County, Missouri",B06011_001,26271,1992
+29035,"Carter County, Missouri",B06011_001,19940,3207
+29037,"Cass County, Missouri",B06011_001,36371,1073
+29039,"Cedar County, Missouri",B06011_001,21214,1289
+29041,"Chariton County, Missouri",B06011_001,25762,1228
+29043,"Christian County, Missouri",B06011_001,32133,835
+29045,"Clark County, Missouri",B06011_001,25118,1117
+29047,"Clay County, Missouri",B06011_001,36034,746
+29049,"Clinton County, Missouri",B06011_001,33246,1647
+29051,"Cole County, Missouri",B06011_001,34228,1114
+29053,"Cooper County, Missouri",B06011_001,28404,1863
+29055,"Crawford County, Missouri",B06011_001,23087,2293
+29057,"Dade County, Missouri",B06011_001,22170,1810
+29059,"Dallas County, Missouri",B06011_001,20073,1632
+29061,"Daviess County, Missouri",B06011_001,26220,1025
+29063,"DeKalb County, Missouri",B06011_001,30173,2230
+29065,"Dent County, Missouri",B06011_001,24460,2130
+29067,"Douglas County, Missouri",B06011_001,22078,2648
+29069,"Dunklin County, Missouri",B06011_001,21933,934
+29071,"Franklin County, Missouri",B06011_001,32253,914
+29073,"Gasconade County, Missouri",B06011_001,28714,1972
+29075,"Gentry County, Missouri",B06011_001,26852,1570
+29077,"Greene County, Missouri",B06011_001,26945,415
+29079,"Grundy County, Missouri",B06011_001,23804,2363
+29081,"Harrison County, Missouri",B06011_001,22261,1289
+29083,"Henry County, Missouri",B06011_001,24735,1636
+29085,"Hickory County, Missouri",B06011_001,20764,2098
+29087,"Holt County, Missouri",B06011_001,28289,1841
+29089,"Howard County, Missouri",B06011_001,26621,2844
+29091,"Howell County, Missouri",B06011_001,22042,1072
+29093,"Iron County, Missouri",B06011_001,22179,2039
+29095,"Jackson County, Missouri",B06011_001,32432,409
+29097,"Jasper County, Missouri",B06011_001,25899,669
+29099,"Jefferson County, Missouri",B06011_001,33449,785
+29101,"Johnson County, Missouri",B06011_001,27216,1025
+29103,"Knox County, Missouri",B06011_001,19526,2249
+29105,"Laclede County, Missouri",B06011_001,25657,1063
+29107,"Lafayette County, Missouri",B06011_001,30784,1648
+29109,"Lawrence County, Missouri",B06011_001,24094,1450
+29111,"Lewis County, Missouri",B06011_001,23704,2292
+29113,"Lincoln County, Missouri",B06011_001,32673,1471
+29115,"Linn County, Missouri",B06011_001,28730,2710
+29117,"Livingston County, Missouri",B06011_001,30335,1288
+29119,"McDonald County, Missouri",B06011_001,24158,1727
+29121,"Macon County, Missouri",B06011_001,25073,1345
+29123,"Madison County, Missouri",B06011_001,25483,1529
+29125,"Maries County, Missouri",B06011_001,27654,2172
+29127,"Marion County, Missouri",B06011_001,28238,1765
+29129,"Mercer County, Missouri",B06011_001,25958,1469
+29131,"Miller County, Missouri",B06011_001,27847,1791
+29133,"Mississippi County, Missouri",B06011_001,15469,1746
+29135,"Moniteau County, Missouri",B06011_001,30578,1530
+29137,"Monroe County, Missouri",B06011_001,26794,1574
+29139,"Montgomery County, Missouri",B06011_001,30724,1813
+29141,"Morgan County, Missouri",B06011_001,22288,1949
+29143,"New Madrid County, Missouri",B06011_001,24797,1801
+29145,"Newton County, Missouri",B06011_001,27192,1051
+29147,"Nodaway County, Missouri",B06011_001,21276,857
+29149,"Oregon County, Missouri",B06011_001,20323,1471
+29151,"Osage County, Missouri",B06011_001,31905,1536
+29153,"Ozark County, Missouri",B06011_001,20419,2017
+29155,"Pemiscot County, Missouri",B06011_001,18862,1214
+29157,"Perry County, Missouri",B06011_001,28970,1797
+29159,"Pettis County, Missouri",B06011_001,25738,859
+29161,"Phelps County, Missouri",B06011_001,24716,1332
+29163,"Pike County, Missouri",B06011_001,25323,1262
+29165,"Platte County, Missouri",B06011_001,40401,888
+29167,"Polk County, Missouri",B06011_001,22437,1219
+29169,"Pulaski County, Missouri",B06011_001,25964,1963
+29171,"Putnam County, Missouri",B06011_001,27579,3685
+29173,"Ralls County, Missouri",B06011_001,28197,2155
+29175,"Randolph County, Missouri",B06011_001,27605,1730
+29177,"Ray County, Missouri",B06011_001,31795,1525
+29179,"Reynolds County, Missouri",B06011_001,22305,1869
+29181,"Ripley County, Missouri",B06011_001,17493,1301
+29183,"St. Charles County, Missouri",B06011_001,40727,689
+29185,"St. Clair County, Missouri",B06011_001,22220,1720
+29186,"Ste. Genevieve County, Missouri",B06011_001,29749,3226
+29187,"St. Francois County, Missouri",B06011_001,23630,1322
+29189,"St. Louis County, Missouri",B06011_001,36555,393
+29195,"Saline County, Missouri",B06011_001,25203,1049
+29197,"Schuyler County, Missouri",B06011_001,23740,2202
+29199,"Scotland County, Missouri",B06011_001,26814,1655
+29201,"Scott County, Missouri",B06011_001,25159,1471
+29203,"Shannon County, Missouri",B06011_001,18865,1741
+29205,"Shelby County, Missouri",B06011_001,26157,1450
+29207,"Stoddard County, Missouri",B06011_001,23416,1494
+29209,"Stone County, Missouri",B06011_001,24865,1181
+29211,"Sullivan County, Missouri",B06011_001,25938,1559
+29213,"Taney County, Missouri",B06011_001,25194,955
+29215,"Texas County, Missouri",B06011_001,21305,1200
+29217,"Vernon County, Missouri",B06011_001,25771,1203
+29219,"Warren County, Missouri",B06011_001,31246,1644
+29221,"Washington County, Missouri",B06011_001,22141,1780
+29223,"Wayne County, Missouri",B06011_001,20610,2339
+29225,"Webster County, Missouri",B06011_001,27610,1860
+29227,"Worth County, Missouri",B06011_001,25160,2637
+29229,"Wright County, Missouri",B06011_001,20740,777
+29510,"St. Louis city, Missouri",B06011_001,29892,683
+30001,"Beaverhead County, Montana",B06011_001,23938,1297
+30003,"Big Horn County, Montana",B06011_001,24814,1858
+30005,"Blaine County, Montana",B06011_001,24844,2229
+30007,"Broadwater County, Montana",B06011_001,31998,1436
+30009,"Carbon County, Montana",B06011_001,29863,1881
+30011,"Carter County, Montana",B06011_001,25976,3797
+30013,"Cascade County, Montana",B06011_001,30351,784
+30015,"Chouteau County, Montana",B06011_001,27613,2288
+30017,"Custer County, Montana",B06011_001,29848,1705
+30019,"Daniels County, Montana",B06011_001,33429,4057
+30021,"Dawson County, Montana",B06011_001,29690,2770
+30023,"Deer Lodge County, Montana",B06011_001,23779,3770
+30025,"Fallon County, Montana",B06011_001,37207,5243
+30027,"Fergus County, Montana",B06011_001,26361,1850
+30029,"Flathead County, Montana",B06011_001,29181,1184
+30031,"Gallatin County, Montana",B06011_001,33164,1155
+30033,"Garfield County, Montana",B06011_001,26464,1805
+30035,"Glacier County, Montana",B06011_001,20503,2924
+30037,"Golden Valley County, Montana",B06011_001,25405,4523
+30039,"Granite County, Montana",B06011_001,25328,2607
+30041,"Hill County, Montana",B06011_001,28130,2477
+30043,"Jefferson County, Montana",B06011_001,32551,2059
+30045,"Judith Basin County, Montana",B06011_001,30134,4782
+30047,"Lake County, Montana",B06011_001,25784,1197
+30049,"Lewis and Clark County, Montana",B06011_001,34452,1430
+30051,"Liberty County, Montana",B06011_001,32067,7355
+30053,"Lincoln County, Montana",B06011_001,23272,1306
+30055,"McCone County, Montana",B06011_001,33989,2927
+30057,"Madison County, Montana",B06011_001,27455,2477
+30059,"Meagher County, Montana",B06011_001,23278,2765
+30061,"Mineral County, Montana",B06011_001,25427,2779
+30063,"Missoula County, Montana",B06011_001,28161,1122
+30065,"Musselshell County, Montana",B06011_001,27132,2695
+30067,"Park County, Montana",B06011_001,31977,1347
+30069,"Petroleum County, Montana",B06011_001,30536,9038
+30071,"Phillips County, Montana",B06011_001,28446,2160
+30073,"Pondera County, Montana",B06011_001,27140,2687
+30075,"Powder River County, Montana",B06011_001,31250,2790
+30077,"Powell County, Montana",B06011_001,21462,1941
+30079,"Prairie County, Montana",B06011_001,24215,4409
+30081,"Ravalli County, Montana",B06011_001,25631,1183
+30083,"Richland County, Montana",B06011_001,31309,3200
+30085,"Roosevelt County, Montana",B06011_001,24511,2246
+30087,"Rosebud County, Montana",B06011_001,27466,2389
+30089,"Sanders County, Montana",B06011_001,21957,1815
+30091,"Sheridan County, Montana",B06011_001,30504,2102
+30093,"Silver Bow County, Montana",B06011_001,25746,1539
+30095,"Stillwater County, Montana",B06011_001,31390,1442
+30097,"Sweet Grass County, Montana",B06011_001,26631,1589
+30099,"Teton County, Montana",B06011_001,28958,2283
+30101,"Toole County, Montana",B06011_001,24847,3287
+30103,"Treasure County, Montana",B06011_001,30302,3180
+30105,"Valley County, Montana",B06011_001,28590,3617
+30107,"Wheatland County, Montana",B06011_001,24508,3510
+30109,"Wibaux County, Montana",B06011_001,33154,2182
+30111,"Yellowstone County, Montana",B06011_001,34305,1023
+31001,"Adams County, Nebraska",B06011_001,29146,1279
+31003,"Antelope County, Nebraska",B06011_001,28284,2439
+31005,"Arthur County, Nebraska",B06011_001,26818,7483
+31007,"Banner County, Nebraska",B06011_001,35481,3353
+31009,"Blaine County, Nebraska",B06011_001,34167,10548
+31011,"Boone County, Nebraska",B06011_001,31159,1587
+31013,"Box Butte County, Nebraska",B06011_001,34106,2737
+31015,"Boyd County, Nebraska",B06011_001,25859,2704
+31017,"Brown County, Nebraska",B06011_001,27223,3298
+31019,"Buffalo County, Nebraska",B06011_001,30064,1282
+31021,"Burt County, Nebraska",B06011_001,30456,1630
+31023,"Butler County, Nebraska",B06011_001,32488,2185
+31025,"Cass County, Nebraska",B06011_001,36649,1736
+31027,"Cedar County, Nebraska",B06011_001,32159,1325
+31029,"Chase County, Nebraska",B06011_001,30750,3618
+31031,"Cherry County, Nebraska",B06011_001,29283,2683
+31033,"Cheyenne County, Nebraska",B06011_001,31851,1477
+31035,"Clay County, Nebraska",B06011_001,32480,2193
+31037,"Colfax County, Nebraska",B06011_001,33453,2915
+31039,"Cuming County, Nebraska",B06011_001,34100,1488
+31041,"Custer County, Nebraska",B06011_001,29888,1749
+31043,"Dakota County, Nebraska",B06011_001,31830,1971
+31045,"Dawes County, Nebraska",B06011_001,24033,2415
+31047,"Dawson County, Nebraska",B06011_001,32441,1610
+31049,"Deuel County, Nebraska",B06011_001,26172,1687
+31051,"Dixon County, Nebraska",B06011_001,30592,1271
+31053,"Dodge County, Nebraska",B06011_001,31034,1323
+31055,"Douglas County, Nebraska",B06011_001,36065,491
+31057,"Dundy County, Nebraska",B06011_001,32416,2149
+31059,"Fillmore County, Nebraska",B06011_001,32427,2113
+31061,"Franklin County, Nebraska",B06011_001,26806,3365
+31063,"Frontier County, Nebraska",B06011_001,29853,2908
+31065,"Furnas County, Nebraska",B06011_001,28469,3131
+31067,"Gage County, Nebraska",B06011_001,29976,1385
+31069,"Garden County, Nebraska",B06011_001,26266,2229
+31071,"Garfield County, Nebraska",B06011_001,27750,3886
+31073,"Gosper County, Nebraska",B06011_001,32634,3158
+31075,"Grant County, Nebraska",B06011_001,25000,4346
+31077,"Greeley County, Nebraska",B06011_001,26755,2259
+31079,"Hall County, Nebraska",B06011_001,32046,846
+31081,"Hamilton County, Nebraska",B06011_001,35157,2297
+31083,"Harlan County, Nebraska",B06011_001,31746,1954
+31085,"Hayes County, Nebraska",B06011_001,31458,3032
+31087,"Hitchcock County, Nebraska",B06011_001,26646,3012
+31089,"Holt County, Nebraska",B06011_001,31273,1163
+31091,"Hooker County, Nebraska",B06011_001,29896,8855
+31093,"Howard County, Nebraska",B06011_001,31940,1220
+31095,"Jefferson County, Nebraska",B06011_001,28965,2514
+31097,"Johnson County, Nebraska",B06011_001,30635,2262
+31099,"Kearney County, Nebraska",B06011_001,33762,1896
+31101,"Keith County, Nebraska",B06011_001,27633,2562
+31103,"Keya Paha County, Nebraska",B06011_001,31563,5926
+31105,"Kimball County, Nebraska",B06011_001,25833,3724
+31107,"Knox County, Nebraska",B06011_001,28976,1741
+31109,"Lancaster County, Nebraska",B06011_001,32059,454
+31111,"Lincoln County, Nebraska",B06011_001,31795,1482
+31113,"Logan County, Nebraska",B06011_001,23708,3141
+31115,"Loup County, Nebraska",B06011_001,30417,5371
+31117,"McPherson County, Nebraska",B06011_001,29728,3988
+31119,"Madison County, Nebraska",B06011_001,30265,1534
+31121,"Merrick County, Nebraska",B06011_001,30512,2611
+31123,"Morrill County, Nebraska",B06011_001,26250,1340
+31125,"Nance County, Nebraska",B06011_001,30393,3266
+31127,"Nemaha County, Nebraska",B06011_001,27025,3521
+31129,"Nuckolls County, Nebraska",B06011_001,29219,3407
+31131,"Otoe County, Nebraska",B06011_001,32436,2044
+31133,"Pawnee County, Nebraska",B06011_001,25034,2609
+31135,"Perkins County, Nebraska",B06011_001,31935,4964
+31137,"Phelps County, Nebraska",B06011_001,31446,2651
+31139,"Pierce County, Nebraska",B06011_001,31647,1296
+31141,"Platte County, Nebraska",B06011_001,32446,1535
+31143,"Polk County, Nebraska",B06011_001,31406,1263
+31145,"Red Willow County, Nebraska",B06011_001,26128,1479
+31147,"Richardson County, Nebraska",B06011_001,26832,3217
+31149,"Rock County, Nebraska",B06011_001,29250,4170
+31151,"Saline County, Nebraska",B06011_001,29917,2313
+31153,"Sarpy County, Nebraska",B06011_001,40315,618
+31155,"Saunders County, Nebraska",B06011_001,37419,1753
+31157,"Scotts Bluff County, Nebraska",B06011_001,29860,1405
+31159,"Seward County, Nebraska",B06011_001,33244,2135
+31161,"Sheridan County, Nebraska",B06011_001,26471,1505
+31163,"Sherman County, Nebraska",B06011_001,30965,2128
+31165,"Sioux County, Nebraska",B06011_001,29250,2946
+31167,"Stanton County, Nebraska",B06011_001,34269,2072
+31169,"Thayer County, Nebraska",B06011_001,31025,1443
+31171,"Thomas County, Nebraska",B06011_001,33036,5749
+31173,"Thurston County, Nebraska",B06011_001,26894,1141
+31175,"Valley County, Nebraska",B06011_001,28793,3005
+31177,"Washington County, Nebraska",B06011_001,39876,1852
+31179,"Wayne County, Nebraska",B06011_001,25584,2789
+31181,"Webster County, Nebraska",B06011_001,30275,1847
+31183,"Wheeler County, Nebraska",B06011_001,31350,5117
+31185,"York County, Nebraska",B06011_001,32276,3016
+32001,"Churchill County, Nevada",B06011_001,30610,1413
+32003,"Clark County, Nevada",B06011_001,31581,168
+32005,"Douglas County, Nevada",B06011_001,35337,1583
+32007,"Elko County, Nevada",B06011_001,38441,2858
+32009,"Esmeralda County, Nevada",B06011_001,21175,4182
+32011,"Eureka County, Nevada",B06011_001,27075,10491
+32013,"Humboldt County, Nevada",B06011_001,32278,3346
+32015,"Lander County, Nevada",B06011_001,37870,10538
+32017,"Lincoln County, Nevada",B06011_001,32511,7137
+32019,"Lyon County, Nevada",B06011_001,29984,1525
+32021,"Mineral County, Nevada",B06011_001,21017,2351
+32023,"Nye County, Nevada",B06011_001,25715,1116
+32027,"Pershing County, Nevada",B06011_001,26946,3457
+32029,"Storey County, Nevada",B06011_001,35106,7867
+32031,"Washoe County, Nevada",B06011_001,34681,627
+32033,"White Pine County, Nevada",B06011_001,32172,3343
+32510,"Carson City, Nevada",B06011_001,32391,1359
+33001,"Belknap County, New Hampshire",B06011_001,33018,1298
+33003,"Carroll County, New Hampshire",B06011_001,32853,1701
+33005,"Cheshire County, New Hampshire",B06011_001,31286,1041
+33007,"Coos County, New Hampshire",B06011_001,26923,1116
+33009,"Grafton County, New Hampshire",B06011_001,31531,741
+33011,"Hillsborough County, New Hampshire",B06011_001,39329,815
+33013,"Merrimack County, New Hampshire",B06011_001,36789,784
+33015,"Rockingham County, New Hampshire",B06011_001,43643,785
+33017,"Strafford County, New Hampshire",B06011_001,32930,949
+33019,"Sullivan County, New Hampshire",B06011_001,33222,1433
+34001,"Atlantic County, New Jersey",B06011_001,30230,580
+34003,"Bergen County, New Jersey",B06011_001,47192,738
+34005,"Burlington County, New Jersey",B06011_001,42937,772
+34007,"Camden County, New Jersey",B06011_001,35001,606
+34009,"Cape May County, New Jersey",B06011_001,35208,1049
+34011,"Cumberland County, New Jersey",B06011_001,26175,620
+34013,"Essex County, New Jersey",B06011_001,33678,667
+34015,"Gloucester County, New Jersey",B06011_001,41212,680
+34017,"Hudson County, New Jersey",B06011_001,38332,812
+34019,"Hunterdon County, New Jersey",B06011_001,52511,1515
+34021,"Mercer County, New Jersey",B06011_001,37223,916
+34023,"Middlesex County, New Jersey",B06011_001,42029,623
+34025,"Monmouth County, New Jersey",B06011_001,45851,928
+34027,"Morris County, New Jersey",B06011_001,52118,732
+34029,"Ocean County, New Jersey",B06011_001,35406,582
+34031,"Passaic County, New Jersey",B06011_001,32830,752
+34033,"Salem County, New Jersey",B06011_001,32173,1254
+34035,"Somerset County, New Jersey",B06011_001,50608,967
+34037,"Sussex County, New Jersey",B06011_001,44995,1428
+34039,"Union County, New Jersey",B06011_001,37853,746
+34041,"Warren County, New Jersey",B06011_001,39852,1356
+35001,"Bernalillo County, New Mexico",B06011_001,29656,689
+35003,"Catron County, New Mexico",B06011_001,23191,2502
+35005,"Chaves County, New Mexico",B06011_001,23656,1604
+35006,"Cibola County, New Mexico",B06011_001,21102,1617
+35007,"Colfax County, New Mexico",B06011_001,23115,1723
+35009,"Curry County, New Mexico",B06011_001,26047,1235
+35011,"De Baca County, New Mexico",B06011_001,23787,4156
+35013,"Doña Ana County, New Mexico",B06011_001,21872,664
+35015,"Eddy County, New Mexico",B06011_001,32289,1877
+35017,"Grant County, New Mexico",B06011_001,20432,1293
+35019,"Guadalupe County, New Mexico",B06011_001,20946,2391
+35021,"Harding County, New Mexico",B06011_001,24079,7808
+35023,"Hidalgo County, New Mexico",B06011_001,22653,3304
+35025,"Lea County, New Mexico",B06011_001,29826,2454
+35027,"Lincoln County, New Mexico",B06011_001,24360,1612
+35028,"Los Alamos County, New Mexico",B06011_001,66293,3029
+35029,"Luna County, New Mexico",B06011_001,17755,1499
+35031,"McKinley County, New Mexico",B06011_001,18347,953
+35033,"Mora County, New Mexico",B06011_001,15287,2540
+35035,"Otero County, New Mexico",B06011_001,23180,1463
+35037,"Quay County, New Mexico",B06011_001,21717,2234
+35039,"Rio Arriba County, New Mexico",B06011_001,26025,1415
+35041,"Roosevelt County, New Mexico",B06011_001,20625,3181
+35043,"Sandoval County, New Mexico",B06011_001,31185,955
+35045,"San Juan County, New Mexico",B06011_001,24788,904
+35047,"San Miguel County, New Mexico",B06011_001,20910,1378
+35049,"Santa Fe County, New Mexico",B06011_001,32407,893
+35051,"Sierra County, New Mexico",B06011_001,21172,1609
+35053,"Socorro County, New Mexico",B06011_001,17893,2171
+35055,"Taos County, New Mexico",B06011_001,23116,2965
+35057,"Torrance County, New Mexico",B06011_001,21866,2399
+35059,"Union County, New Mexico",B06011_001,23034,3684
+35061,"Valencia County, New Mexico",B06011_001,26373,1218
+36001,"Albany County, New York",B06011_001,36502,818
+36003,"Allegany County, New York",B06011_001,24976,942
+36005,"Bronx County, New York",B06011_001,23541,429
+36007,"Broome County, New York",B06011_001,27217,758
+36009,"Cattaraugus County, New York",B06011_001,27284,618
+36011,"Cayuga County, New York",B06011_001,30873,722
+36013,"Chautauqua County, New York",B06011_001,26224,630
+36015,"Chemung County, New York",B06011_001,29159,990
+36017,"Chenango County, New York",B06011_001,28428,1378
+36019,"Clinton County, New York",B06011_001,30975,1289
+36021,"Columbia County, New York",B06011_001,34695,1205
+36023,"Cortland County, New York",B06011_001,27193,1072
+36025,"Delaware County, New York",B06011_001,26990,957
+36027,"Dutchess County, New York",B06011_001,37404,891
+36029,"Erie County, New York",B06011_001,33179,423
+36031,"Essex County, New York",B06011_001,31552,1172
+36033,"Franklin County, New York",B06011_001,28914,1377
+36035,"Fulton County, New York",B06011_001,29255,1969
+36037,"Genesee County, New York",B06011_001,31619,828
+36039,"Greene County, New York",B06011_001,30593,1351
+36041,"Hamilton County, New York",B06011_001,29092,4673
+36043,"Herkimer County, New York",B06011_001,30218,1169
+36045,"Jefferson County, New York",B06011_001,29633,952
+36047,"Kings County, New York",B06011_001,33183,339
+36049,"Lewis County, New York",B06011_001,29869,1356
+36051,"Livingston County, New York",B06011_001,30533,758
+36053,"Madison County, New York",B06011_001,30313,1051
+36055,"Monroe County, New York",B06011_001,32599,433
+36057,"Montgomery County, New York",B06011_001,28394,1403
+36059,"Nassau County, New York",B06011_001,47254,595
+36061,"New York County, New York",B06011_001,52409,761
+36063,"Niagara County, New York",B06011_001,31684,553
+36065,"Oneida County, New York",B06011_001,31510,581
+36067,"Onondaga County, New York",B06011_001,33563,540
+36069,"Ontario County, New York",B06011_001,33730,1120
+36071,"Orange County, New York",B06011_001,36265,741
+36073,"Orleans County, New York",B06011_001,28068,1835
+36075,"Oswego County, New York",B06011_001,30215,663
+36077,"Otsego County, New York",B06011_001,27086,1165
+36079,"Putnam County, New York",B06011_001,42411,1299
+36081,"Queens County, New York",B06011_001,33537,352
+36083,"Rensselaer County, New York",B06011_001,37698,1094
+36085,"Richmond County, New York",B06011_001,40536,665
+36087,"Rockland County, New York",B06011_001,40158,819
+36089,"St. Lawrence County, New York",B06011_001,27653,903
+36091,"Saratoga County, New York",B06011_001,42859,947
+36093,"Schenectady County, New York",B06011_001,33864,1335
+36095,"Schoharie County, New York",B06011_001,31282,1483
+36097,"Schuyler County, New York",B06011_001,26616,1307
+36099,"Seneca County, New York",B06011_001,30664,1057
+36101,"Steuben County, New York",B06011_001,29667,769
+36103,"Suffolk County, New York",B06011_001,43018,440
+36105,"Sullivan County, New York",B06011_001,31137,1010
+36107,"Tioga County, New York",B06011_001,32056,902
+36109,"Tompkins County, New York",B06011_001,30080,1003
+36111,"Ulster County, New York",B06011_001,32345,878
+36113,"Warren County, New York",B06011_001,35147,1515
+36115,"Washington County, New York",B06011_001,30188,1012
+36117,"Wayne County, New York",B06011_001,31941,740
+36119,"Westchester County, New York",B06011_001,44184,723
+36121,"Wyoming County, New York",B06011_001,31911,1155
+36123,"Yates County, New York",B06011_001,27202,1303
+37001,"Alamance County, North Carolina",B06011_001,28904,993
+37003,"Alexander County, North Carolina",B06011_001,26153,1784
+37005,"Alleghany County, North Carolina",B06011_001,21733,2188
+37007,"Anson County, North Carolina",B06011_001,23555,1304
+37009,"Ashe County, North Carolina",B06011_001,25299,1236
+37011,"Avery County, North Carolina",B06011_001,22034,2368
+37013,"Beaufort County, North Carolina",B06011_001,26631,1047
+37015,"Bertie County, North Carolina",B06011_001,19033,2300
+37017,"Bladen County, North Carolina",B06011_001,22419,1704
+37019,"Brunswick County, North Carolina",B06011_001,30529,686
+37021,"Buncombe County, North Carolina",B06011_001,29200,1046
+37023,"Burke County, North Carolina",B06011_001,24671,1002
+37025,"Cabarrus County, North Carolina",B06011_001,34297,1098
+37027,"Caldwell County, North Carolina",B06011_001,24001,1125
+37029,"Camden County, North Carolina",B06011_001,33785,2018
+37031,"Carteret County, North Carolina",B06011_001,29700,1132
+37033,"Caswell County, North Carolina",B06011_001,23302,1859
+37035,"Catawba County, North Carolina",B06011_001,28767,1009
+37037,"Chatham County, North Carolina",B06011_001,34183,1268
+37039,"Cherokee County, North Carolina",B06011_001,22898,2178
+37041,"Chowan County, North Carolina",B06011_001,29491,4873
+37043,"Clay County, North Carolina",B06011_001,27759,3600
+37045,"Cleveland County, North Carolina",B06011_001,23884,1017
+37047,"Columbus County, North Carolina",B06011_001,23418,2012
+37049,"Craven County, North Carolina",B06011_001,28939,1193
+37051,"Cumberland County, North Carolina",B06011_001,27421,439
+37053,"Currituck County, North Carolina",B06011_001,38319,2396
+37055,"Dare County, North Carolina",B06011_001,32538,2134
+37057,"Davidson County, North Carolina",B06011_001,27648,869
+37059,"Davie County, North Carolina",B06011_001,31105,1445
+37061,"Duplin County, North Carolina",B06011_001,22665,1183
+37063,"Durham County, North Carolina",B06011_001,35085,766
+37065,"Edgecombe County, North Carolina",B06011_001,24298,879
+37067,"Forsyth County, North Carolina",B06011_001,30044,486
+37069,"Franklin County, North Carolina",B06011_001,28581,1420
+37071,"Gaston County, North Carolina",B06011_001,28258,738
+37073,"Gates County, North Carolina",B06011_001,28681,2597
+37075,"Graham County, North Carolina",B06011_001,21315,3191
+37077,"Granville County, North Carolina",B06011_001,29384,1932
+37079,"Greene County, North Carolina",B06011_001,21935,1567
+37081,"Guilford County, North Carolina",B06011_001,30173,344
+37083,"Halifax County, North Carolina",B06011_001,20777,915
+37085,"Harnett County, North Carolina",B06011_001,27579,1254
+37087,"Haywood County, North Carolina",B06011_001,27711,1424
+37089,"Henderson County, North Carolina",B06011_001,30040,995
+37091,"Hertford County, North Carolina",B06011_001,22486,1532
+37093,"Hoke County, North Carolina",B06011_001,27009,834
+37095,"Hyde County, North Carolina",B06011_001,21275,1727
+37097,"Iredell County, North Carolina",B06011_001,31174,662
+37099,"Jackson County, North Carolina",B06011_001,22429,1340
+37101,"Johnston County, North Carolina",B06011_001,30833,797
+37103,"Jones County, North Carolina",B06011_001,23202,2401
+37105,"Lee County, North Carolina",B06011_001,26341,898
+37107,"Lenoir County, North Carolina",B06011_001,23812,1517
+37109,"Lincoln County, North Carolina",B06011_001,30805,847
+37111,"McDowell County, North Carolina",B06011_001,25919,1261
+37113,"Macon County, North Carolina",B06011_001,25780,1151
+37115,"Madison County, North Carolina",B06011_001,26782,2149
+37117,"Martin County, North Carolina",B06011_001,25180,2031
+37119,"Mecklenburg County, North Carolina",B06011_001,36443,414
+37121,"Mitchell County, North Carolina",B06011_001,26948,2124
+37123,"Montgomery County, North Carolina",B06011_001,22794,1859
+37125,"Moore County, North Carolina",B06011_001,32217,1434
+37127,"Nash County, North Carolina",B06011_001,26177,879
+37129,"New Hanover County, North Carolina",B06011_001,31054,786
+37131,"Northampton County, North Carolina",B06011_001,24578,2270
+37133,"Onslow County, North Carolina",B06011_001,25891,696
+37135,"Orange County, North Carolina",B06011_001,33000,1337
+37137,"Pamlico County, North Carolina",B06011_001,24080,1917
+37139,"Pasquotank County, North Carolina",B06011_001,28704,2351
+37141,"Pender County, North Carolina",B06011_001,28028,1470
+37143,"Perquimans County, North Carolina",B06011_001,26860,2280
+37145,"Person County, North Carolina",B06011_001,30144,1893
+37147,"Pitt County, North Carolina",B06011_001,26707,1051
+37149,"Polk County, North Carolina",B06011_001,27470,1644
+37151,"Randolph County, North Carolina",B06011_001,26394,785
+37153,"Richmond County, North Carolina",B06011_001,23817,1697
+37155,"Robeson County, North Carolina",B06011_001,21908,505
+37157,"Rockingham County, North Carolina",B06011_001,25688,817
+37159,"Rowan County, North Carolina",B06011_001,27075,872
+37161,"Rutherford County, North Carolina",B06011_001,23445,961
+37163,"Sampson County, North Carolina",B06011_001,23317,1107
+37165,"Scotland County, North Carolina",B06011_001,21943,972
+37167,"Stanly County, North Carolina",B06011_001,28219,1587
+37169,"Stokes County, North Carolina",B06011_001,28724,1612
+37171,"Surry County, North Carolina",B06011_001,24723,1116
+37173,"Swain County, North Carolina",B06011_001,23289,3380
+37175,"Transylvania County, North Carolina",B06011_001,27018,1357
+37177,"Tyrrell County, North Carolina",B06011_001,21313,3030
+37179,"Union County, North Carolina",B06011_001,35468,842
+37181,"Vance County, North Carolina",B06011_001,23732,1448
+37183,"Wake County, North Carolina",B06011_001,41189,391
+37185,"Warren County, North Carolina",B06011_001,22092,1578
+37187,"Washington County, North Carolina",B06011_001,19671,2237
+37189,"Watauga County, North Carolina",B06011_001,19820,1008
+37191,"Wayne County, North Carolina",B06011_001,26151,845
+37193,"Wilkes County, North Carolina",B06011_001,24764,1137
+37195,"Wilson County, North Carolina",B06011_001,24443,1023
+37197,"Yadkin County, North Carolina",B06011_001,27014,1208
+37199,"Yancey County, North Carolina",B06011_001,24599,1245
+38001,"Adams County, North Dakota",B06011_001,30496,3330
+38003,"Barnes County, North Dakota",B06011_001,32641,2383
+38005,"Benson County, North Dakota",B06011_001,26908,1748
+38007,"Billings County, North Dakota",B06011_001,34239,8730
+38009,"Bottineau County, North Dakota",B06011_001,33425,2358
+38011,"Bowman County, North Dakota",B06011_001,34529,2718
+38013,"Burke County, North Dakota",B06011_001,44583,2980
+38015,"Burleigh County, North Dakota",B06011_001,40724,1043
+38017,"Cass County, North Dakota",B06011_001,36539,968
+38019,"Cavalier County, North Dakota",B06011_001,36127,3433
+38021,"Dickey County, North Dakota",B06011_001,35070,2687
+38023,"Divide County, North Dakota",B06011_001,36587,2932
+38025,"Dunn County, North Dakota",B06011_001,38889,5662
+38027,"Eddy County, North Dakota",B06011_001,31168,1426
+38029,"Emmons County, North Dakota",B06011_001,30817,1358
+38031,"Foster County, North Dakota",B06011_001,36763,5334
+38033,"Golden Valley County, North Dakota",B06011_001,37111,4130
+38035,"Grand Forks County, North Dakota",B06011_001,31642,1048
+38037,"Grant County, North Dakota",B06011_001,30503,2173
+38039,"Griggs County, North Dakota",B06011_001,32041,3796
+38041,"Hettinger County, North Dakota",B06011_001,31846,2963
+38043,"Kidder County, North Dakota",B06011_001,30471,3658
+38045,"LaMoure County, North Dakota",B06011_001,36673,1799
+38047,"Logan County, North Dakota",B06011_001,31603,3454
+38049,"McHenry County, North Dakota",B06011_001,37429,2494
+38051,"McIntosh County, North Dakota",B06011_001,31764,2373
+38053,"McKenzie County, North Dakota",B06011_001,42930,4343
+38055,"McLean County, North Dakota",B06011_001,38211,2078
+38057,"Mercer County, North Dakota",B06011_001,39276,3938
+38059,"Morton County, North Dakota",B06011_001,38773,2642
+38061,"Mountrail County, North Dakota",B06011_001,38542,1849
+38063,"Nelson County, North Dakota",B06011_001,32885,2320
+38065,"Oliver County, North Dakota",B06011_001,36092,2959
+38067,"Pembina County, North Dakota",B06011_001,32586,3025
+38069,"Pierce County, North Dakota",B06011_001,30625,3936
+38071,"Ramsey County, North Dakota",B06011_001,30925,2057
+38073,"Ransom County, North Dakota",B06011_001,35867,2502
+38075,"Renville County, North Dakota",B06011_001,40332,3665
+38077,"Richland County, North Dakota",B06011_001,31742,1914
+38079,"Rolette County, North Dakota",B06011_001,30040,4507
+38081,"Sargent County, North Dakota",B06011_001,41267,1348
+38083,"Sheridan County, North Dakota",B06011_001,34539,3736
+38085,"Sioux County, North Dakota",B06011_001,21979,2963
+38087,"Slope County, North Dakota",B06011_001,31944,5500
+38089,"Stark County, North Dakota",B06011_001,41213,1636
+38091,"Steele County, North Dakota",B06011_001,44556,5729
+38093,"Stutsman County, North Dakota",B06011_001,30345,2166
+38095,"Towner County, North Dakota",B06011_001,34049,3386
+38097,"Traill County, North Dakota",B06011_001,37768,1752
+38099,"Walsh County, North Dakota",B06011_001,35523,1551
+38101,"Ward County, North Dakota",B06011_001,37491,1169
+38103,"Wells County, North Dakota",B06011_001,34268,3353
+38105,"Williams County, North Dakota",B06011_001,43152,3924
+39001,"Adams County, Ohio",B06011_001,21589,1014
+39003,"Allen County, Ohio",B06011_001,27789,816
+39005,"Ashland County, Ohio",B06011_001,28340,1265
+39007,"Ashtabula County, Ohio",B06011_001,25074,759
+39009,"Athens County, Ohio",B06011_001,16997,1000
+39011,"Auglaize County, Ohio",B06011_001,35112,1212
+39013,"Belmont County, Ohio",B06011_001,25235,848
+39015,"Brown County, Ohio",B06011_001,30362,1742
+39017,"Butler County, Ohio",B06011_001,33170,632
+39019,"Carroll County, Ohio",B06011_001,29172,1519
+39021,"Champaign County, Ohio",B06011_001,31611,870
+39023,"Clark County, Ohio",B06011_001,27601,737
+39025,"Clermont County, Ohio",B06011_001,34322,947
+39027,"Clinton County, Ohio",B06011_001,28612,2126
+39029,"Columbiana County, Ohio",B06011_001,26214,855
+39031,"Coshocton County, Ohio",B06011_001,25216,1205
+39033,"Crawford County, Ohio",B06011_001,26780,944
+39035,"Cuyahoga County, Ohio",B06011_001,30820,247
+39037,"Darke County, Ohio",B06011_001,30078,1317
+39039,"Defiance County, Ohio",B06011_001,31763,1266
+39041,"Delaware County, Ohio",B06011_001,48557,1275
+39043,"Erie County, Ohio",B06011_001,31291,935
+39045,"Fairfield County, Ohio",B06011_001,34680,1076
+39047,"Fayette County, Ohio",B06011_001,27118,1304
+39049,"Franklin County, Ohio",B06011_001,34256,382
+39051,"Fulton County, Ohio",B06011_001,30966,1376
+39053,"Gallia County, Ohio",B06011_001,26446,2188
+39055,"Geauga County, Ohio",B06011_001,37102,1236
+39057,"Greene County, Ohio",B06011_001,33592,857
+39059,"Guernsey County, Ohio",B06011_001,26833,1148
+39061,"Hamilton County, Ohio",B06011_001,32732,542
+39063,"Hancock County, Ohio",B06011_001,32210,841
+39065,"Hardin County, Ohio",B06011_001,25385,1554
+39067,"Harrison County, Ohio",B06011_001,26331,1696
+39069,"Henry County, Ohio",B06011_001,31851,1177
+39071,"Highland County, Ohio",B06011_001,25039,1427
+39073,"Hocking County, Ohio",B06011_001,28660,1210
+39075,"Holmes County, Ohio",B06011_001,27748,1526
+39077,"Huron County, Ohio",B06011_001,30466,847
+39079,"Jackson County, Ohio",B06011_001,26035,1395
+39081,"Jefferson County, Ohio",B06011_001,25843,747
+39083,"Knox County, Ohio",B06011_001,28825,1282
+39085,"Lake County, Ohio",B06011_001,34177,726
+39087,"Lawrence County, Ohio",B06011_001,25043,953
+39089,"Licking County, Ohio",B06011_001,32311,737
+39091,"Logan County, Ohio",B06011_001,32895,1144
+39093,"Lorain County, Ohio",B06011_001,30877,602
+39095,"Lucas County, Ohio",B06011_001,28467,714
+39097,"Madison County, Ohio",B06011_001,32923,1734
+39099,"Mahoning County, Ohio",B06011_001,26707,538
+39101,"Marion County, Ohio",B06011_001,25126,721
+39103,"Medina County, Ohio",B06011_001,37308,1056
+39105,"Meigs County, Ohio",B06011_001,22745,1586
+39107,"Mercer County, Ohio",B06011_001,34323,1305
+39109,"Miami County, Ohio",B06011_001,31362,806
+39111,"Monroe County, Ohio",B06011_001,25489,1674
+39113,"Montgomery County, Ohio",B06011_001,30522,382
+39115,"Morgan County, Ohio",B06011_001,22485,2047
+39117,"Morrow County, Ohio",B06011_001,32795,1499
+39119,"Muskingum County, Ohio",B06011_001,26211,859
+39121,"Noble County, Ohio",B06011_001,24147,2458
+39123,"Ottawa County, Ohio",B06011_001,32693,1529
+39125,"Paulding County, Ohio",B06011_001,29694,1567
+39127,"Perry County, Ohio",B06011_001,26529,1503
+39129,"Pickaway County, Ohio",B06011_001,31254,1420
+39131,"Pike County, Ohio",B06011_001,25006,1715
+39133,"Portage County, Ohio",B06011_001,29150,863
+39135,"Preble County, Ohio",B06011_001,31157,886
+39137,"Putnam County, Ohio",B06011_001,35997,1123
+39139,"Richland County, Ohio",B06011_001,25989,608
+39141,"Ross County, Ohio",B06011_001,28330,944
+39143,"Sandusky County, Ohio",B06011_001,29978,1272
+39145,"Scioto County, Ohio",B06011_001,22880,1361
+39147,"Seneca County, Ohio",B06011_001,27760,932
+39149,"Shelby County, Ohio",B06011_001,32091,873
+39151,"Stark County, Ohio",B06011_001,28961,549
+39153,"Summit County, Ohio",B06011_001,31608,369
+39155,"Trumbull County, Ohio",B06011_001,26975,504
+39157,"Tuscarawas County, Ohio",B06011_001,28802,1065
+39159,"Union County, Ohio",B06011_001,41298,1802
+39161,"Van Wert County, Ohio",B06011_001,32242,1240
+39163,"Vinton County, Ohio",B06011_001,25889,1042
+39165,"Warren County, Ohio",B06011_001,40957,769
+39167,"Washington County, Ohio",B06011_001,27003,1142
+39169,"Wayne County, Ohio",B06011_001,30173,794
+39171,"Williams County, Ohio",B06011_001,28918,1438
+39173,"Wood County, Ohio",B06011_001,30262,908
+39175,"Wyandot County, Ohio",B06011_001,31370,1235
+40001,"Adair County, Oklahoma",B06011_001,21313,966
+40003,"Alfalfa County, Oklahoma",B06011_001,23883,3810
+40005,"Atoka County, Oklahoma",B06011_001,23526,1185
+40007,"Beaver County, Oklahoma",B06011_001,27204,2219
+40009,"Beckham County, Oklahoma",B06011_001,23402,2257
+40011,"Blaine County, Oklahoma",B06011_001,26920,1582
+40013,"Bryan County, Oklahoma",B06011_001,24954,776
+40015,"Caddo County, Oklahoma",B06011_001,24870,813
+40017,"Canadian County, Oklahoma",B06011_001,35460,1052
+40019,"Carter County, Oklahoma",B06011_001,26973,684
+40021,"Cherokee County, Oklahoma",B06011_001,23950,1375
+40023,"Choctaw County, Oklahoma",B06011_001,23704,800
+40025,"Cimarron County, Oklahoma",B06011_001,30703,2606
+40027,"Cleveland County, Oklahoma",B06011_001,33081,683
+40029,"Coal County, Oklahoma",B06011_001,24436,1491
+40031,"Comanche County, Oklahoma",B06011_001,26979,784
+40033,"Cotton County, Oklahoma",B06011_001,26626,3090
+40035,"Craig County, Oklahoma",B06011_001,23307,931
+40037,"Creek County, Oklahoma",B06011_001,27871,1067
+40039,"Custer County, Oklahoma",B06011_001,25648,2320
+40041,"Delaware County, Oklahoma",B06011_001,24329,1015
+40043,"Dewey County, Oklahoma",B06011_001,26839,2271
+40045,"Ellis County, Oklahoma",B06011_001,26324,2329
+40047,"Garfield County, Oklahoma",B06011_001,28833,1504
+40049,"Garvin County, Oklahoma",B06011_001,27036,742
+40051,"Grady County, Oklahoma",B06011_001,30774,1321
+40053,"Grant County, Oklahoma",B06011_001,32467,2553
+40055,"Greer County, Oklahoma",B06011_001,21707,4239
+40057,"Harmon County, Oklahoma",B06011_001,26960,1595
+40059,"Harper County, Oklahoma",B06011_001,22909,5277
+40061,"Haskell County, Oklahoma",B06011_001,23848,870
+40063,"Hughes County, Oklahoma",B06011_001,22756,855
+40065,"Jackson County, Oklahoma",B06011_001,27767,1668
+40067,"Jefferson County, Oklahoma",B06011_001,23926,1431
+40069,"Johnston County, Oklahoma",B06011_001,24178,1315
+40071,"Kay County, Oklahoma",B06011_001,26647,729
+40073,"Kingfisher County, Oklahoma",B06011_001,34755,4398
+40075,"Kiowa County, Oklahoma",B06011_001,23299,1990
+40077,"Latimer County, Oklahoma",B06011_001,23163,789
+40079,"Le Flore County, Oklahoma",B06011_001,23209,580
+40081,"Lincoln County, Oklahoma",B06011_001,26611,1160
+40083,"Logan County, Oklahoma",B06011_001,31545,1733
+40085,"Love County, Oklahoma",B06011_001,25844,1455
+40087,"McClain County, Oklahoma",B06011_001,35410,1669
+40089,"McCurtain County, Oklahoma",B06011_001,23744,834
+40091,"McIntosh County, Oklahoma",B06011_001,22727,985
+40093,"Major County, Oklahoma",B06011_001,29789,2198
+40095,"Marshall County, Oklahoma",B06011_001,25516,1035
+40097,"Mayes County, Oklahoma",B06011_001,26395,735
+40099,"Murray County, Oklahoma",B06011_001,29565,2818
+40101,"Muskogee County, Oklahoma",B06011_001,25084,739
+40103,"Noble County, Oklahoma",B06011_001,30988,1915
+40105,"Nowata County, Oklahoma",B06011_001,24707,1440
+40107,"Okfuskee County, Oklahoma",B06011_001,21962,1527
+40109,"Oklahoma County, Oklahoma",B06011_001,31025,425
+40111,"Okmulgee County, Oklahoma",B06011_001,23663,895
+40113,"Osage County, Oklahoma",B06011_001,28264,1614
+40115,"Ottawa County, Oklahoma",B06011_001,23197,547
+40117,"Pawnee County, Oklahoma",B06011_001,26838,682
+40119,"Payne County, Oklahoma",B06011_001,21576,770
+40121,"Pittsburg County, Oklahoma",B06011_001,26715,875
+40123,"Pontotoc County, Oklahoma",B06011_001,28933,1209
+40125,"Pottawatomie County, Oklahoma",B06011_001,26473,659
+40127,"Pushmataha County, Oklahoma",B06011_001,21806,1253
+40129,"Roger Mills County, Oklahoma",B06011_001,30617,4063
+40131,"Rogers County, Oklahoma",B06011_001,34164,998
+40133,"Seminole County, Oklahoma",B06011_001,22876,710
+40135,"Sequoyah County, Oklahoma",B06011_001,22917,809
+40137,"Stephens County, Oklahoma",B06011_001,28371,1810
+40139,"Texas County, Oklahoma",B06011_001,29826,2632
+40141,"Tillman County, Oklahoma",B06011_001,23484,1141
+40143,"Tulsa County, Oklahoma",B06011_001,31597,366
+40145,"Wagoner County, Oklahoma",B06011_001,33200,1083
+40147,"Washington County, Oklahoma",B06011_001,28854,1536
+40149,"Washita County, Oklahoma",B06011_001,30199,3442
+40151,"Woods County, Oklahoma",B06011_001,23750,2956
+40153,"Woodward County, Oklahoma",B06011_001,30636,2211
+41001,"Baker County, Oregon",B06011_001,26311,1613
+41003,"Benton County, Oregon",B06011_001,26884,642
+41005,"Clackamas County, Oregon",B06011_001,39093,708
+41007,"Clatsop County, Oregon",B06011_001,27884,2124
+41009,"Columbia County, Oregon",B06011_001,32129,1348
+41011,"Coos County, Oregon",B06011_001,26369,981
+41013,"Crook County, Oregon",B06011_001,28039,2825
+41015,"Curry County, Oregon",B06011_001,24790,2099
+41017,"Deschutes County, Oregon",B06011_001,32827,950
+41019,"Douglas County, Oregon",B06011_001,25771,673
+41021,"Gilliam County, Oregon",B06011_001,25000,4837
+41023,"Grant County, Oregon",B06011_001,27317,1715
+41025,"Harney County, Oregon",B06011_001,22792,2200
+41027,"Hood River County, Oregon",B06011_001,33668,2776
+41029,"Jackson County, Oregon",B06011_001,29311,1010
+41031,"Jefferson County, Oregon",B06011_001,27400,1428
+41033,"Josephine County, Oregon",B06011_001,23928,959
+41035,"Klamath County, Oregon",B06011_001,25915,1330
+41037,"Lake County, Oregon",B06011_001,24308,2550
+41039,"Lane County, Oregon",B06011_001,26741,448
+41041,"Lincoln County, Oregon",B06011_001,25904,818
+41043,"Linn County, Oregon",B06011_001,29897,1054
+41045,"Malheur County, Oregon",B06011_001,23108,1351
+41047,"Marion County, Oregon",B06011_001,29911,737
+41049,"Morrow County, Oregon",B06011_001,28157,4458
+41051,"Multnomah County, Oregon",B06011_001,36198,444
+41053,"Polk County, Oregon",B06011_001,29773,1182
+41055,"Sherman County, Oregon",B06011_001,32708,3724
+41057,"Tillamook County, Oregon",B06011_001,27377,2008
+41059,"Umatilla County, Oregon",B06011_001,27337,874
+41061,"Union County, Oregon",B06011_001,26309,1024
+41063,"Wallowa County, Oregon",B06011_001,28534,1669
+41065,"Wasco County, Oregon",B06011_001,28561,1563
+41067,"Washington County, Oregon",B06011_001,40223,471
+41069,"Wheeler County, Oregon",B06011_001,25083,3326
+41071,"Yamhill County, Oregon",B06011_001,30924,1079
+42001,"Adams County, Pennsylvania",B06011_001,32028,707
+42003,"Allegheny County, Pennsylvania",B06011_001,35044,365
+42005,"Armstrong County, Pennsylvania",B06011_001,28793,758
+42007,"Beaver County, Pennsylvania",B06011_001,31942,491
+42009,"Bedford County, Pennsylvania",B06011_001,26329,651
+42011,"Berks County, Pennsylvania",B06011_001,31677,379
+42013,"Blair County, Pennsylvania",B06011_001,28179,849
+42015,"Bradford County, Pennsylvania",B06011_001,28029,1033
+42017,"Bucks County, Pennsylvania",B06011_001,41559,461
+42019,"Butler County, Pennsylvania",B06011_001,35819,1006
+42021,"Cambria County, Pennsylvania",B06011_001,26848,487
+42023,"Cameron County, Pennsylvania",B06011_001,23133,1150
+42025,"Carbon County, Pennsylvania",B06011_001,29934,945
+42027,"Centre County, Pennsylvania",B06011_001,27866,1071
+42029,"Chester County, Pennsylvania",B06011_001,44738,789
+42031,"Clarion County, Pennsylvania",B06011_001,25711,962
+42033,"Clearfield County, Pennsylvania",B06011_001,25844,603
+42035,"Clinton County, Pennsylvania",B06011_001,26221,984
+42037,"Columbia County, Pennsylvania",B06011_001,29392,1385
+42039,"Crawford County, Pennsylvania",B06011_001,26795,562
+42041,"Cumberland County, Pennsylvania",B06011_001,37332,820
+42043,"Dauphin County, Pennsylvania",B06011_001,35111,1056
+42045,"Delaware County, Pennsylvania",B06011_001,36407,603
+42047,"Elk County, Pennsylvania",B06011_001,31244,1011
+42049,"Erie County, Pennsylvania",B06011_001,27294,474
+42051,"Fayette County, Pennsylvania",B06011_001,25994,615
+42053,"Forest County, Pennsylvania",B06011_001,16644,2015
+42055,"Franklin County, Pennsylvania",B06011_001,32623,873
+42057,"Fulton County, Pennsylvania",B06011_001,31024,952
+42059,"Greene County, Pennsylvania",B06011_001,27002,1019
+42061,"Huntingdon County, Pennsylvania",B06011_001,26349,720
+42063,"Indiana County, Pennsylvania",B06011_001,23714,1110
+42065,"Jefferson County, Pennsylvania",B06011_001,26903,572
+42067,"Juniata County, Pennsylvania",B06011_001,28282,1355
+42069,"Lackawanna County, Pennsylvania",B06011_001,28286,728
+42071,"Lancaster County, Pennsylvania",B06011_001,32580,518
+42073,"Lawrence County, Pennsylvania",B06011_001,27319,707
+42075,"Lebanon County, Pennsylvania",B06011_001,30894,807
+42077,"Lehigh County, Pennsylvania",B06011_001,31872,512
+42079,"Luzerne County, Pennsylvania",B06011_001,28640,527
+42081,"Lycoming County, Pennsylvania",B06011_001,28207,720
+42083,"McKean County, Pennsylvania",B06011_001,26298,870
+42085,"Mercer County, Pennsylvania",B06011_001,26238,595
+42087,"Mifflin County, Pennsylvania",B06011_001,27527,950
+42089,"Monroe County, Pennsylvania",B06011_001,30763,862
+42091,"Montgomery County, Pennsylvania",B06011_001,43787,542
+42093,"Montour County, Pennsylvania",B06011_001,31163,1024
+42095,"Northampton County, Pennsylvania",B06011_001,33739,633
+42097,"Northumberland County, Pennsylvania",B06011_001,27503,805
+42099,"Perry County, Pennsylvania",B06011_001,35567,840
+42101,"Philadelphia County, Pennsylvania",B06011_001,27331,284
+42103,"Pike County, Pennsylvania",B06011_001,31866,1523
+42105,"Potter County, Pennsylvania",B06011_001,25923,820
+42107,"Schuylkill County, Pennsylvania",B06011_001,28769,758
+42109,"Snyder County, Pennsylvania",B06011_001,28970,1078
+42111,"Somerset County, Pennsylvania",B06011_001,26773,611
+42113,"Sullivan County, Pennsylvania",B06011_001,26913,1102
+42115,"Susquehanna County, Pennsylvania",B06011_001,30047,703
+42117,"Tioga County, Pennsylvania",B06011_001,25811,690
+42119,"Union County, Pennsylvania",B06011_001,23446,1561
+42121,"Venango County, Pennsylvania",B06011_001,27053,778
+42123,"Warren County, Pennsylvania",B06011_001,27689,757
+42125,"Washington County, Pennsylvania",B06011_001,32651,688
+42127,"Wayne County, Pennsylvania",B06011_001,27199,941
+42129,"Westmoreland County, Pennsylvania",B06011_001,32019,409
+42131,"Wyoming County, Pennsylvania",B06011_001,29067,1224
+42133,"York County, Pennsylvania",B06011_001,34167,537
+44001,"Bristol County, Rhode Island",B06011_001,37494,2120
+44003,"Kent County, Rhode Island",B06011_001,38683,1254
+44005,"Newport County, Rhode Island",B06011_001,39744,1406
+44007,"Providence County, Rhode Island",B06011_001,31346,461
+44009,"Washington County, Rhode Island",B06011_001,37324,1080
+45001,"Abbeville County, South Carolina",B06011_001,25206,1320
+45003,"Aiken County, South Carolina",B06011_001,28392,739
+45005,"Allendale County, South Carolina",B06011_001,18303,2953
+45007,"Anderson County, South Carolina",B06011_001,27206,580
+45009,"Bamberg County, South Carolina",B06011_001,20323,4264
+45011,"Barnwell County, South Carolina",B06011_001,24457,2498
+45013,"Beaufort County, South Carolina",B06011_001,33253,948
+45015,"Berkeley County, South Carolina",B06011_001,31586,662
+45017,"Calhoun County, South Carolina",B06011_001,26463,1709
+45019,"Charleston County, South Carolina",B06011_001,36619,577
+45021,"Cherokee County, South Carolina",B06011_001,24073,1437
+45023,"Chester County, South Carolina",B06011_001,24252,1668
+45025,"Chesterfield County, South Carolina",B06011_001,22669,1167
+45027,"Clarendon County, South Carolina",B06011_001,22438,1095
+45029,"Colleton County, South Carolina",B06011_001,22830,1294
+45031,"Darlington County, South Carolina",B06011_001,21960,621
+45033,"Dillon County, South Carolina",B06011_001,20009,1225
+45035,"Dorchester County, South Carolina",B06011_001,32353,983
+45037,"Edgefield County, South Carolina",B06011_001,24677,2027
+45039,"Fairfield County, South Carolina",B06011_001,25890,2472
+45041,"Florence County, South Carolina",B06011_001,26366,622
+45043,"Georgetown County, South Carolina",B06011_001,26331,1104
+45045,"Greenville County, South Carolina",B06011_001,31241,394
+45047,"Greenwood County, South Carolina",B06011_001,24368,1057
+45049,"Hampton County, South Carolina",B06011_001,22715,1770
+45051,"Horry County, South Carolina",B06011_001,26499,427
+45053,"Jasper County, South Carolina",B06011_001,26025,2258
+45055,"Kershaw County, South Carolina",B06011_001,28152,1422
+45057,"Lancaster County, South Carolina",B06011_001,30885,1398
+45059,"Laurens County, South Carolina",B06011_001,23170,1370
+45061,"Lee County, South Carolina",B06011_001,19368,1371
+45063,"Lexington County, South Carolina",B06011_001,32756,647
+45065,"McCormick County, South Carolina",B06011_001,24560,3633
+45067,"Marion County, South Carolina",B06011_001,19851,1694
+45069,"Marlboro County, South Carolina",B06011_001,18528,1824
+45071,"Newberry County, South Carolina",B06011_001,24997,1753
+45073,"Oconee County, South Carolina",B06011_001,25958,1017
+45075,"Orangeburg County, South Carolina",B06011_001,20608,1164
+45077,"Pickens County, South Carolina",B06011_001,24493,910
+45079,"Richland County, South Carolina",B06011_001,28900,723
+45081,"Saluda County, South Carolina",B06011_001,22195,1374
+45083,"Spartanburg County, South Carolina",B06011_001,27305,543
+45085,"Sumter County, South Carolina",B06011_001,26467,1038
+45087,"Union County, South Carolina",B06011_001,22129,1243
+45089,"Williamsburg County, South Carolina",B06011_001,21126,922
+45091,"York County, South Carolina",B06011_001,33803,968
+46003,"Aurora County, South Dakota",B06011_001,35471,2487
+46005,"Beadle County, South Dakota",B06011_001,31100,903
+46007,"Bennett County, South Dakota",B06011_001,25227,2774
+46009,"Bon Homme County, South Dakota",B06011_001,25507,2094
+46011,"Brookings County, South Dakota",B06011_001,27946,2637
+46013,"Brown County, South Dakota",B06011_001,33056,1960
+46015,"Brule County, South Dakota",B06011_001,28938,3270
+46017,"Buffalo County, South Dakota",B06011_001,14167,2573
+46019,"Butte County, South Dakota",B06011_001,26310,1407
+46021,"Campbell County, South Dakota",B06011_001,33452,5404
+46023,"Charles Mix County, South Dakota",B06011_001,25839,1591
+46025,"Clark County, South Dakota",B06011_001,26908,3503
+46027,"Clay County, South Dakota",B06011_001,20943,1316
+46029,"Codington County, South Dakota",B06011_001,31155,1071
+46031,"Corson County, South Dakota",B06011_001,21906,1943
+46033,"Custer County, South Dakota",B06011_001,33070,2119
+46035,"Davison County, South Dakota",B06011_001,30589,2647
+46037,"Day County, South Dakota",B06011_001,30316,2162
+46039,"Deuel County, South Dakota",B06011_001,32382,2101
+46041,"Dewey County, South Dakota",B06011_001,25721,1163
+46043,"Douglas County, South Dakota",B06011_001,29457,3852
+46045,"Edmunds County, South Dakota",B06011_001,35025,3440
+46047,"Fall River County, South Dakota",B06011_001,26651,5112
+46049,"Faulk County, South Dakota",B06011_001,27079,4317
+46051,"Grant County, South Dakota",B06011_001,32799,2504
+46053,"Gregory County, South Dakota",B06011_001,27003,2537
+46055,"Haakon County, South Dakota",B06011_001,27917,7339
+46057,"Hamlin County, South Dakota",B06011_001,33503,3287
+46059,"Hand County, South Dakota",B06011_001,34149,3298
+46061,"Hanson County, South Dakota",B06011_001,34707,4239
+46063,"Harding County, South Dakota",B06011_001,35984,3253
+46065,"Hughes County, South Dakota",B06011_001,39423,2757
+46067,"Hutchinson County, South Dakota",B06011_001,32025,1124
+46069,"Hyde County, South Dakota",B06011_001,37979,5931
+46071,"Jackson County, South Dakota",B06011_001,16172,1509
+46073,"Jerauld County, South Dakota",B06011_001,29419,3059
+46075,"Jones County, South Dakota",B06011_001,34135,8497
+46077,"Kingsbury County, South Dakota",B06011_001,34104,1785
+46079,"Lake County, South Dakota",B06011_001,29959,3284
+46081,"Lawrence County, South Dakota",B06011_001,27740,2310
+46083,"Lincoln County, South Dakota",B06011_001,39238,1586
+46085,"Lyman County, South Dakota",B06011_001,25169,2123
+46087,"McCook County, South Dakota",B06011_001,33505,1738
+46089,"McPherson County, South Dakota",B06011_001,26649,3094
+46091,"Marshall County, South Dakota",B06011_001,33986,2039
+46093,"Meade County, South Dakota",B06011_001,31079,1416
+46095,"Mellette County, South Dakota",B06011_001,20039,3884
+46097,"Miner County, South Dakota",B06011_001,29810,2281
+46099,"Minnehaha County, South Dakota",B06011_001,35670,635
+46101,"Moody County, South Dakota",B06011_001,35014,2112
+46102,"Oglala Lakota County, South Dakota",B06011_001,14907,2257
+46103,"Pennington County, South Dakota",B06011_001,30378,668
+46105,"Perkins County, South Dakota",B06011_001,31067,2398
+46107,"Potter County, South Dakota",B06011_001,28628,3941
+46109,"Roberts County, South Dakota",B06011_001,26127,1197
+46111,"Sanborn County, South Dakota",B06011_001,30230,2143
+46115,"Spink County, South Dakota",B06011_001,33319,1918
+46117,"Stanley County, South Dakota",B06011_001,35508,3295
+46119,"Sully County, South Dakota",B06011_001,38636,3450
+46121,"Todd County, South Dakota",B06011_001,18005,2953
+46123,"Tripp County, South Dakota",B06011_001,28314,2550
+46125,"Turner County, South Dakota",B06011_001,32451,1866
+46127,"Union County, South Dakota",B06011_001,39195,2684
+46129,"Walworth County, South Dakota",B06011_001,32426,2236
+46135,"Yankton County, South Dakota",B06011_001,33249,2705
+46137,"Ziebach County, South Dakota",B06011_001,21268,2663
+47001,"Anderson County, Tennessee",B06011_001,27834,1127
+47003,"Bedford County, Tennessee",B06011_001,27581,1332
+47005,"Benton County, Tennessee",B06011_001,21145,1952
+47007,"Bledsoe County, Tennessee",B06011_001,23396,970
+47009,"Blount County, Tennessee",B06011_001,30024,857
+47011,"Bradley County, Tennessee",B06011_001,26793,842
+47013,"Campbell County, Tennessee",B06011_001,22401,966
+47015,"Cannon County, Tennessee",B06011_001,27223,1475
+47017,"Carroll County, Tennessee",B06011_001,23916,2247
+47019,"Carter County, Tennessee",B06011_001,24039,1251
+47021,"Cheatham County, Tennessee",B06011_001,31893,1009
+47023,"Chester County, Tennessee",B06011_001,26784,2412
+47025,"Claiborne County, Tennessee",B06011_001,21400,1288
+47027,"Clay County, Tennessee",B06011_001,18322,1916
+47029,"Cocke County, Tennessee",B06011_001,22277,1129
+47031,"Coffee County, Tennessee",B06011_001,26370,1043
+47033,"Crockett County, Tennessee",B06011_001,26352,1184
+47035,"Cumberland County, Tennessee",B06011_001,25329,1152
+47037,"Davidson County, Tennessee",B06011_001,34518,439
+47039,"Decatur County, Tennessee",B06011_001,22527,2380
+47041,"DeKalb County, Tennessee",B06011_001,27782,1962
+47043,"Dickson County, Tennessee",B06011_001,29588,1410
+47045,"Dyer County, Tennessee",B06011_001,26730,1337
+47047,"Fayette County, Tennessee",B06011_001,31280,1083
+47049,"Fentress County, Tennessee",B06011_001,19940,2252
+47051,"Franklin County, Tennessee",B06011_001,25720,956
+47053,"Gibson County, Tennessee",B06011_001,25431,1000
+47055,"Giles County, Tennessee",B06011_001,26843,1242
+47057,"Grainger County, Tennessee",B06011_001,22819,1277
+47059,"Greene County, Tennessee",B06011_001,22882,1192
+47061,"Grundy County, Tennessee",B06011_001,21777,1385
+47063,"Hamblen County, Tennessee",B06011_001,23682,1255
+47065,"Hamilton County, Tennessee",B06011_001,30545,527
+47067,"Hancock County, Tennessee",B06011_001,19165,2314
+47069,"Hardeman County, Tennessee",B06011_001,23689,2112
+47071,"Hardin County, Tennessee",B06011_001,22884,1736
+47073,"Hawkins County, Tennessee",B06011_001,23848,1498
+47075,"Haywood County, Tennessee",B06011_001,23970,2311
+47077,"Henderson County, Tennessee",B06011_001,25169,1781
+47079,"Henry County, Tennessee",B06011_001,25013,1664
+47081,"Hickman County, Tennessee",B06011_001,25451,1372
+47083,"Houston County, Tennessee",B06011_001,22684,2252
+47085,"Humphreys County, Tennessee",B06011_001,24443,1282
+47087,"Jackson County, Tennessee",B06011_001,21373,1559
+47089,"Jefferson County, Tennessee",B06011_001,23492,1299
+47091,"Johnson County, Tennessee",B06011_001,18774,1964
+47093,"Knox County, Tennessee",B06011_001,30494,422
+47095,"Lake County, Tennessee",B06011_001,18397,5318
+47097,"Lauderdale County, Tennessee",B06011_001,24597,1998
+47099,"Lawrence County, Tennessee",B06011_001,23182,1420
+47101,"Lewis County, Tennessee",B06011_001,22090,3243
+47103,"Lincoln County, Tennessee",B06011_001,29686,1866
+47105,"Loudon County, Tennessee",B06011_001,30449,1218
+47107,"McMinn County, Tennessee",B06011_001,24298,1316
+47109,"McNairy County, Tennessee",B06011_001,22804,1158
+47111,"Macon County, Tennessee",B06011_001,24576,1719
+47113,"Madison County, Tennessee",B06011_001,26472,756
+47115,"Marion County, Tennessee",B06011_001,24015,2344
+47117,"Marshall County, Tennessee",B06011_001,30292,1249
+47119,"Maury County, Tennessee",B06011_001,30683,822
+47121,"Meigs County, Tennessee",B06011_001,22295,1840
+47123,"Monroe County, Tennessee",B06011_001,23354,1615
+47125,"Montgomery County, Tennessee",B06011_001,32133,859
+47127,"Moore County, Tennessee",B06011_001,30879,2831
+47129,"Morgan County, Tennessee",B06011_001,23003,3066
+47131,"Obion County, Tennessee",B06011_001,23968,1601
+47133,"Overton County, Tennessee",B06011_001,22924,1660
+47135,"Perry County, Tennessee",B06011_001,21599,1941
+47137,"Pickett County, Tennessee",B06011_001,23226,5573
+47139,"Polk County, Tennessee",B06011_001,25012,1392
+47141,"Putnam County, Tennessee",B06011_001,25041,958
+47143,"Rhea County, Tennessee",B06011_001,23936,1400
+47145,"Roane County, Tennessee",B06011_001,27956,2227
+47147,"Robertson County, Tennessee",B06011_001,32770,1460
+47149,"Rutherford County, Tennessee",B06011_001,33593,904
+47151,"Scott County, Tennessee",B06011_001,20083,1598
+47153,"Sequatchie County, Tennessee",B06011_001,22759,2200
+47155,"Sevier County, Tennessee",B06011_001,25069,805
+47157,"Shelby County, Tennessee",B06011_001,29815,549
+47159,"Smith County, Tennessee",B06011_001,28954,1969
+47161,"Stewart County, Tennessee",B06011_001,25772,1965
+47163,"Sullivan County, Tennessee",B06011_001,25192,731
+47165,"Sumner County, Tennessee",B06011_001,32861,694
+47167,"Tipton County, Tennessee",B06011_001,30711,1399
+47169,"Trousdale County, Tennessee",B06011_001,29631,3502
+47171,"Unicoi County, Tennessee",B06011_001,21941,1749
+47173,"Union County, Tennessee",B06011_001,23226,2318
+47175,"Van Buren County, Tennessee",B06011_001,23576,2527
+47177,"Warren County, Tennessee",B06011_001,24456,1578
+47179,"Washington County, Tennessee",B06011_001,25705,775
+47181,"Wayne County, Tennessee",B06011_001,23219,1945
+47183,"Weakley County, Tennessee",B06011_001,22845,1239
+47185,"White County, Tennessee",B06011_001,24197,1778
+47187,"Williamson County, Tennessee",B06011_001,46744,1452
+47189,"Wilson County, Tennessee",B06011_001,36286,953
+48001,"Anderson County, Texas",B06011_001,24619,1261
+48003,"Andrews County, Texas",B06011_001,35410,4729
+48005,"Angelina County, Texas",B06011_001,24920,917
+48007,"Aransas County, Texas",B06011_001,23849,1802
+48009,"Archer County, Texas",B06011_001,33667,2278
+48011,"Armstrong County, Texas",B06011_001,36458,6629
+48013,"Atascosa County, Texas",B06011_001,25569,1465
+48015,"Austin County, Texas",B06011_001,31098,1694
+48017,"Bailey County, Texas",B06011_001,NA,NA
+48019,"Bandera County, Texas",B06011_001,25926,2283
+48021,"Bastrop County, Texas",B06011_001,30945,999
+48023,"Baylor County, Texas",B06011_001,22422,2609
+48025,"Bee County, Texas",B06011_001,22753,2248
+48027,"Bell County, Texas",B06011_001,30065,725
+48029,"Bexar County, Texas",B06011_001,28546,315
+48031,"Blanco County, Texas",B06011_001,32477,2531
+48033,"Borden County, Texas",B06011_001,35341,5816
+48035,"Bosque County, Texas",B06011_001,28123,2191
+48037,"Bowie County, Texas",B06011_001,28805,1700
+48039,"Brazoria County, Texas",B06011_001,40638,1117
+48041,"Brazos County, Texas",B06011_001,25524,606
+48043,"Brewster County, Texas",B06011_001,30540,5599
+48045,"Briscoe County, Texas",B06011_001,30116,5056
+48047,"Brooks County, Texas",B06011_001,15645,2169
+48049,"Brown County, Texas",B06011_001,25710,1202
+48051,"Burleson County, Texas",B06011_001,32454,2438
+48053,"Burnet County, Texas",B06011_001,28695,1625
+48055,"Caldwell County, Texas",B06011_001,28613,2058
+48057,"Calhoun County, Texas",B06011_001,30592,2401
+48059,"Callahan County, Texas",B06011_001,27057,1450
+48061,"Cameron County, Texas",B06011_001,21068,417
+48063,"Camp County, Texas",B06011_001,27148,3299
+48065,"Carson County, Texas",B06011_001,39107,4099
+48067,"Cass County, Texas",B06011_001,25048,1218
+48069,"Castro County, Texas",B06011_001,30092,3386
+48071,"Chambers County, Texas",B06011_001,38057,5099
+48073,"Cherokee County, Texas",B06011_001,25453,1277
+48075,"Childress County, Texas",B06011_001,31722,3840
+48077,"Clay County, Texas",B06011_001,30770,1371
+48079,"Cochran County, Texas",B06011_001,23455,4664
+48081,"Coke County, Texas",B06011_001,26449,2472
+48083,"Coleman County, Texas",B06011_001,27711,2866
+48085,"Collin County, Texas",B06011_001,48233,795
+48087,"Collingsworth County, Texas",B06011_001,19796,4713
+48089,"Colorado County, Texas",B06011_001,29936,2144
+48091,"Comal County, Texas",B06011_001,37779,1361
+48093,"Comanche County, Texas",B06011_001,30074,2202
+48095,"Concho County, Texas",B06011_001,22747,3716
+48097,"Cooke County, Texas",B06011_001,32151,925
+48099,"Coryell County, Texas",B06011_001,25973,864
+48101,"Cottle County, Texas",B06011_001,21856,4411
+48103,"Crane County, Texas",B06011_001,26601,6906
+48105,"Crockett County, Texas",B06011_001,30512,4204
+48107,"Crosby County, Texas",B06011_001,23394,1707
+48109,"Culberson County, Texas",B06011_001,19826,3505
+48111,"Dallam County, Texas",B06011_001,30340,5013
+48113,"Dallas County, Texas",B06011_001,32361,202
+48115,"Dawson County, Texas",B06011_001,21605,1698
+48117,"Deaf Smith County, Texas",B06011_001,28136,2042
+48119,"Delta County, Texas",B06011_001,25898,4045
+48121,"Denton County, Texas",B06011_001,42040,525
+48123,"DeWitt County, Texas",B06011_001,27224,1849
+48125,"Dickens County, Texas",B06011_001,22092,5787
+48127,"Dimmit County, Texas",B06011_001,12992,3412
+48129,"Donley County, Texas",B06011_001,28413,2940
+48131,"Duval County, Texas",B06011_001,19847,3552
+48133,"Eastland County, Texas",B06011_001,21468,959
+48135,"Ector County, Texas",B06011_001,33976,1217
+48137,"Edwards County, Texas",B06011_001,19071,5410
+48139,"Ellis County, Texas",B06011_001,35105,1215
+48141,"El Paso County, Texas",B06011_001,23665,371
+48143,"Erath County, Texas",B06011_001,25282,1890
+48145,"Falls County, Texas",B06011_001,23545,2047
+48147,"Fannin County, Texas",B06011_001,30614,1375
+48149,"Fayette County, Texas",B06011_001,30899,1205
+48151,"Fisher County, Texas",B06011_001,30956,2129
+48153,"Floyd County, Texas",B06011_001,26751,2150
+48155,"Foard County, Texas",B06011_001,22468,6744
+48157,"Fort Bend County, Texas",B06011_001,41220,754
+48159,"Franklin County, Texas",B06011_001,31172,1982
+48161,"Freestone County, Texas",B06011_001,27318,2550
+48163,"Frio County, Texas",B06011_001,18371,3047
+48165,"Gaines County, Texas",B06011_001,28115,4352
+48167,"Galveston County, Texas",B06011_001,35693,1034
+48169,"Garza County, Texas",B06011_001,25415,4167
+48171,"Gillespie County, Texas",B06011_001,29805,2012
+48173,"Glasscock County, Texas",B06011_001,20811,2554
+48175,"Goliad County, Texas",B06011_001,27698,3780
+48177,"Gonzales County, Texas",B06011_001,27972,1949
+48179,"Gray County, Texas",B06011_001,29041,2698
+48181,"Grayson County, Texas",B06011_001,30180,745
+48183,"Gregg County, Texas",B06011_001,27184,751
+48185,"Grimes County, Texas",B06011_001,27809,1903
+48187,"Guadalupe County, Texas",B06011_001,35330,872
+48189,"Hale County, Texas",B06011_001,25494,1051
+48191,"Hall County, Texas",B06011_001,22021,1438
+48193,"Hamilton County, Texas",B06011_001,23672,3444
+48195,"Hansford County, Texas",B06011_001,26542,3525
+48197,"Hardeman County, Texas",B06011_001,22706,3141
+48199,"Hardin County, Texas",B06011_001,30230,2926
+48201,"Harris County, Texas",B06011_001,31975,166
+48203,"Harrison County, Texas",B06011_001,26298,842
+48205,"Hartley County, Texas",B06011_001,36517,2650
+48207,"Haskell County, Texas",B06011_001,25051,3185
+48209,"Hays County, Texas",B06011_001,32430,948
+48211,"Hemphill County, Texas",B06011_001,32100,6673
+48213,"Henderson County, Texas",B06011_001,25690,997
+48215,"Hidalgo County, Texas",B06011_001,19992,384
+48217,"Hill County, Texas",B06011_001,26647,1115
+48219,"Hockley County, Texas",B06011_001,26227,1242
+48221,"Hood County, Texas",B06011_001,33482,2262
+48223,"Hopkins County, Texas",B06011_001,27570,1616
+48225,"Houston County, Texas",B06011_001,22017,1316
+48227,"Howard County, Texas",B06011_001,26605,1194
+48229,"Hudspeth County, Texas",B06011_001,13723,1537
+48231,"Hunt County, Texas",B06011_001,27512,1012
+48233,"Hutchinson County, Texas",B06011_001,25849,1501
+48235,"Irion County, Texas",B06011_001,30313,6408
+48237,"Jack County, Texas",B06011_001,25497,2213
+48239,"Jackson County, Texas",B06011_001,28688,3380
+48241,"Jasper County, Texas",B06011_001,24183,2186
+48243,"Jeff Davis County, Texas",B06011_001,24635,14180
+48245,"Jefferson County, Texas",B06011_001,28213,1007
+48247,"Jim Hogg County, Texas",B06011_001,20258,3666
+48249,"Jim Wells County, Texas",B06011_001,24171,1609
+48251,"Johnson County, Texas",B06011_001,32867,1007
+48253,"Jones County, Texas",B06011_001,24238,1809
+48255,"Karnes County, Texas",B06011_001,26227,3047
+48257,"Kaufman County, Texas",B06011_001,32609,1189
+48259,"Kendall County, Texas",B06011_001,37427,2219
+48261,"Kenedy County, Texas",B06011_001,23571,13964
+48263,"Kent County, Texas",B06011_001,39375,12108
+48265,"Kerr County, Texas",B06011_001,29466,1512
+48267,"Kimble County, Texas",B06011_001,26678,5140
+48269,"King County, Texas",B06011_001,31250,9778
+48271,"Kinney County, Texas",B06011_001,22180,14802
+48273,"Kleberg County, Texas",B06011_001,24193,1884
+48275,"Knox County, Texas",B06011_001,27044,3883
+48277,"Lamar County, Texas",B06011_001,25634,871
+48279,"Lamb County, Texas",B06011_001,24764,1760
+48281,"Lampasas County, Texas",B06011_001,29154,1662
+48283,"La Salle County, Texas",B06011_001,17251,3327
+48285,"Lavaca County, Texas",B06011_001,30061,1926
+48287,"Lee County, Texas",B06011_001,30327,2787
+48289,"Leon County, Texas",B06011_001,25401,1840
+48291,"Liberty County, Texas",B06011_001,27634,1595
+48293,"Limestone County, Texas",B06011_001,24545,1216
+48295,"Lipscomb County, Texas",B06011_001,31058,2796
+48297,"Live Oak County, Texas",B06011_001,22418,3444
+48299,"Llano County, Texas",B06011_001,27890,2665
+48301,"Loving County, Texas",B06011_001,42829,23256
+48303,"Lubbock County, Texas",B06011_001,27162,525
+48305,"Lynn County, Texas",B06011_001,24794,2006
+48307,"McCulloch County, Texas",B06011_001,24857,2623
+48309,"McLennan County, Texas",B06011_001,26247,524
+48311,"McMullen County, Texas",B06011_001,35350,6492
+48313,"Madison County, Texas",B06011_001,26777,3096
+48315,"Marion County, Texas",B06011_001,21915,2143
+48317,"Martin County, Texas",B06011_001,32893,3942
+48319,"Mason County, Texas",B06011_001,31007,3196
+48321,"Matagorda County, Texas",B06011_001,26031,1381
+48323,"Maverick County, Texas",B06011_001,20643,876
+48325,"Medina County, Texas",B06011_001,27020,1678
+48327,"Menard County, Texas",B06011_001,26337,2127
+48329,"Midland County, Texas",B06011_001,40719,1368
+48331,"Milam County, Texas",B06011_001,26918,1610
+48333,"Mills County, Texas",B06011_001,24149,3729
+48335,"Mitchell County, Texas",B06011_001,26803,5977
+48337,"Montague County, Texas",B06011_001,28408,2801
+48339,"Montgomery County, Texas",B06011_001,38454,1094
+48341,"Moore County, Texas",B06011_001,30909,1839
+48343,"Morris County, Texas",B06011_001,24266,2391
+48345,"Motley County, Texas",B06011_001,22875,3817
+48347,"Nacogdoches County, Texas",B06011_001,21516,846
+48349,"Navarro County, Texas",B06011_001,25059,1231
+48351,"Newton County, Texas",B06011_001,20362,2000
+48353,"Nolan County, Texas",B06011_001,22951,1748
+48355,"Nueces County, Texas",B06011_001,28295,959
+48357,"Ochiltree County, Texas",B06011_001,25841,3535
+48359,"Oldham County, Texas",B06011_001,28578,4936
+48361,"Orange County, Texas",B06011_001,32943,1828
+48363,"Palo Pinto County, Texas",B06011_001,27386,2160
+48365,"Panola County, Texas",B06011_001,25509,1090
+48367,"Parker County, Texas",B06011_001,33410,1578
+48369,"Parmer County, Texas",B06011_001,32805,5014
+48371,"Pecos County, Texas",B06011_001,30068,2744
+48373,"Polk County, Texas",B06011_001,26196,742
+48375,"Potter County, Texas",B06011_001,26421,487
+48377,"Presidio County, Texas",B06011_001,15806,1440
+48379,"Rains County, Texas",B06011_001,26936,1581
+48381,"Randall County, Texas",B06011_001,34218,1219
+48383,"Reagan County, Texas",B06011_001,35684,5936
+48385,"Real County, Texas",B06011_001,20659,2485
+48387,"Red River County, Texas",B06011_001,24321,2267
+48389,"Reeves County, Texas",B06011_001,25357,4054
+48391,"Refugio County, Texas",B06011_001,23973,2415
+48393,"Roberts County, Texas",B06011_001,28500,4337
+48395,"Robertson County, Texas",B06011_001,24423,3076
+48397,"Rockwall County, Texas",B06011_001,48540,1856
+48399,"Runnels County, Texas",B06011_001,24935,1279
+48401,"Rusk County, Texas",B06011_001,28070,1977
+48403,"Sabine County, Texas",B06011_001,21936,2780
+48405,"San Augustine County, Texas",B06011_001,22342,2104
+48407,"San Jacinto County, Texas",B06011_001,24332,3162
+48409,"San Patricio County, Texas",B06011_001,25963,1044
+48411,"San Saba County, Texas",B06011_001,23925,2653
+48413,"Schleicher County, Texas",B06011_001,25281,5543
+48415,"Scurry County, Texas",B06011_001,27831,2574
+48417,"Shackelford County, Texas",B06011_001,28106,4605
+48419,"Shelby County, Texas",B06011_001,22585,1496
+48421,"Sherman County, Texas",B06011_001,33109,3458
+48423,"Smith County, Texas",B06011_001,28628,1090
+48425,"Somervell County, Texas",B06011_001,35078,6178
+48427,"Starr County, Texas",B06011_001,15776,830
+48429,"Stephens County, Texas",B06011_001,22635,3527
+48431,"Sterling County, Texas",B06011_001,29737,5782
+48433,"Stonewall County, Texas",B06011_001,24495,3417
+48435,"Sutton County, Texas",B06011_001,29491,6107
+48437,"Swisher County, Texas",B06011_001,19877,2606
+48439,"Tarrant County, Texas",B06011_001,34639,375
+48441,"Taylor County, Texas",B06011_001,26905,587
+48443,"Terrell County, Texas",B06011_001,25852,7294
+48445,"Terry County, Texas",B06011_001,22226,3374
+48447,"Throckmorton County, Texas",B06011_001,25400,3085
+48449,"Titus County, Texas",B06011_001,26155,858
+48451,"Tom Green County, Texas",B06011_001,28385,1035
+48453,"Travis County, Texas",B06011_001,41776,382
+48455,"Trinity County, Texas",B06011_001,25279,1988
+48457,"Tyler County, Texas",B06011_001,22924,2099
+48459,"Upshur County, Texas",B06011_001,27126,1105
+48461,"Upton County, Texas",B06011_001,30966,2794
+48463,"Uvalde County, Texas",B06011_001,19394,1799
+48465,"Val Verde County, Texas",B06011_001,22205,1248
+48467,"Van Zandt County, Texas",B06011_001,27559,1559
+48469,"Victoria County, Texas",B06011_001,27733,1308
+48471,"Walker County, Texas",B06011_001,25880,1554
+48473,"Waller County, Texas",B06011_001,30083,3232
+48475,"Ward County, Texas",B06011_001,30368,4579
+48477,"Washington County, Texas",B06011_001,30073,1857
+48479,"Webb County, Texas",B06011_001,22800,659
+48481,"Wharton County, Texas",B06011_001,28175,1716
+48483,"Wheeler County, Texas",B06011_001,27150,2586
+48485,"Wichita County, Texas",B06011_001,25704,640
+48487,"Wilbarger County, Texas",B06011_001,23873,2288
+48489,"Willacy County, Texas",B06011_001,19092,3337
+48491,"Williamson County, Texas",B06011_001,40640,599
+48493,"Wilson County, Texas",B06011_001,33829,2102
+48495,"Winkler County, Texas",B06011_001,32742,6620
+48497,"Wise County, Texas",B06011_001,31631,1272
+48499,"Wood County, Texas",B06011_001,27115,1387
+48501,"Yoakum County, Texas",B06011_001,35214,5501
+48503,"Young County, Texas",B06011_001,29662,2387
+48505,"Zapata County, Texas",B06011_001,17897,2995
+48507,"Zavala County, Texas",B06011_001,16621,2141
+49001,"Beaver County, Utah",B06011_001,32859,4273
+49003,"Box Elder County, Utah",B06011_001,31094,747
+49005,"Cache County, Utah",B06011_001,24817,705
+49007,"Carbon County, Utah",B06011_001,24772,2033
+49009,"Daggett County, Utah",B06011_001,34083,8571
+49011,"Davis County, Utah",B06011_001,36129,761
+49013,"Duchesne County, Utah",B06011_001,31051,1035
+49015,"Emery County, Utah",B06011_001,29048,3819
+49017,"Garfield County, Utah",B06011_001,21537,1809
+49019,"Grand County, Utah",B06011_001,28298,2071
+49021,"Iron County, Utah",B06011_001,24551,1360
+49023,"Juab County, Utah",B06011_001,26565,2665
+49025,"Kane County, Utah",B06011_001,27658,3755
+49027,"Millard County, Utah",B06011_001,27757,2811
+49029,"Morgan County, Utah",B06011_001,36173,3582
+49031,"Piute County, Utah",B06011_001,13264,4772
+49033,"Rich County, Utah",B06011_001,27017,4276
+49035,"Salt Lake County, Utah",B06011_001,35081,315
+49037,"San Juan County, Utah",B06011_001,24625,2190
+49039,"Sanpete County, Utah",B06011_001,21291,1326
+49041,"Sevier County, Utah",B06011_001,26563,1275
+49043,"Summit County, Utah",B06011_001,42261,1792
+49045,"Tooele County, Utah",B06011_001,35930,1452
+49047,"Uintah County, Utah",B06011_001,24025,1547
+49049,"Utah County, Utah",B06011_001,27125,320
+49051,"Wasatch County, Utah",B06011_001,35726,2170
+49053,"Washington County, Utah",B06011_001,27835,1141
+49055,"Wayne County, Utah",B06011_001,23468,3852
+49057,"Weber County, Utah",B06011_001,33051,664
+50001,"Addison County, Vermont",B06011_001,32172,1040
+50003,"Bennington County, Vermont",B06011_001,30605,1222
+50005,"Caledonia County, Vermont",B06011_001,28748,1440
+50007,"Chittenden County, Vermont",B06011_001,36486,948
+50009,"Essex County, Vermont",B06011_001,25449,1273
+50011,"Franklin County, Vermont",B06011_001,33723,1782
+50013,"Grand Isle County, Vermont",B06011_001,40132,2903
+50015,"Lamoille County, Vermont",B06011_001,35109,1508
+50017,"Orange County, Vermont",B06011_001,34809,1214
+50019,"Orleans County, Vermont",B06011_001,28899,1510
+50021,"Rutland County, Vermont",B06011_001,30825,847
+50023,"Washington County, Vermont",B06011_001,35422,1234
+50025,"Windham County, Vermont",B06011_001,30486,1163
+50027,"Windsor County, Vermont",B06011_001,33035,1171
+51001,"Accomack County, Virginia",B06011_001,25041,1233
+51003,"Albemarle County, Virginia",B06011_001,40198,1376
+51005,"Alleghany County, Virginia",B06011_001,27532,1458
+51007,"Amelia County, Virginia",B06011_001,36093,2541
+51009,"Amherst County, Virginia",B06011_001,29277,1717
+51011,"Appomattox County, Virginia",B06011_001,27668,2449
+51013,"Arlington County, Virginia",B06011_001,71423,1421
+51015,"Augusta County, Virginia",B06011_001,31810,917
+51017,"Bath County, Virginia",B06011_001,32344,4852
+51019,"Bedford County, Virginia",B06011_001,33984,1552
+51021,"Bland County, Virginia",B06011_001,26447,3519
+51023,"Botetourt County, Virginia",B06011_001,34879,1627
+51025,"Brunswick County, Virginia",B06011_001,21796,2048
+51027,"Buchanan County, Virginia",B06011_001,19437,1335
+51029,"Buckingham County, Virginia",B06011_001,25134,2863
+51031,"Campbell County, Virginia",B06011_001,28870,1304
+51033,"Caroline County, Virginia",B06011_001,36102,2432
+51035,"Carroll County, Virginia",B06011_001,23137,1254
+51036,"Charles City County, Virginia",B06011_001,30957,2282
+51037,"Charlotte County, Virginia",B06011_001,25066,3070
+51041,"Chesterfield County, Virginia",B06011_001,40898,655
+51043,"Clarke County, Virginia",B06011_001,39553,4126
+51045,"Craig County, Virginia",B06011_001,30150,4675
+51047,"Culpeper County, Virginia",B06011_001,35941,2367
+51049,"Cumberland County, Virginia",B06011_001,26426,3239
+51051,"Dickenson County, Virginia",B06011_001,20122,1399
+51053,"Dinwiddie County, Virginia",B06011_001,33431,2372
+51057,"Essex County, Virginia",B06011_001,26230,1842
+51059,"Fairfax County, Virginia",B06011_001,54708,704
+51061,"Fauquier County, Virginia",B06011_001,45793,1808
+51063,"Floyd County, Virginia",B06011_001,30317,2729
+51065,"Fluvanna County, Virginia",B06011_001,40183,2222
+51067,"Franklin County, Virginia",B06011_001,28782,1384
+51069,"Frederick County, Virginia",B06011_001,38901,1524
+51071,"Giles County, Virginia",B06011_001,31143,2464
+51073,"Gloucester County, Virginia",B06011_001,36256,2284
+51075,"Goochland County, Virginia",B06011_001,41037,3023
+51077,"Grayson County, Virginia",B06011_001,21911,1470
+51079,"Greene County, Virginia",B06011_001,35367,2632
+51081,"Greensville County, Virginia",B06011_001,19285,3641
+51083,"Halifax County, Virginia",B06011_001,24302,1608
+51085,"Hanover County, Virginia",B06011_001,40600,1087
+51087,"Henrico County, Virginia",B06011_001,38360,707
+51089,"Henry County, Virginia",B06011_001,22293,894
+51091,"Highland County, Virginia",B06011_001,26250,3917
+51093,"Isle of Wight County, Virginia",B06011_001,36028,2145
+51095,"James City County, Virginia",B06011_001,40529,1912
+51097,"King and Queen County, Virginia",B06011_001,36776,2980
+51099,"King George County, Virginia",B06011_001,40020,2315
+51101,"King William County, Virginia",B06011_001,37660,2517
+51103,"Lancaster County, Virginia",B06011_001,35231,4469
+51105,"Lee County, Virginia",B06011_001,18226,1933
+51107,"Loudoun County, Virginia",B06011_001,62137,1065
+51109,"Louisa County, Virginia",B06011_001,31994,2163
+51111,"Lunenburg County, Virginia",B06011_001,24771,3260
+51113,"Madison County, Virginia",B06011_001,30468,4331
+51115,"Mathews County, Virginia",B06011_001,39717,5300
+51117,"Mecklenburg County, Virginia",B06011_001,28078,1530
+51119,"Middlesex County, Virginia",B06011_001,30446,2164
+51121,"Montgomery County, Virginia",B06011_001,26281,946
+51125,"Nelson County, Virginia",B06011_001,32635,2426
+51127,"New Kent County, Virginia",B06011_001,40328,3181
+51131,"Northampton County, Virginia",B06011_001,29013,3023
+51133,"Northumberland County, Virginia",B06011_001,32242,4101
+51135,"Nottoway County, Virginia",B06011_001,26558,2118
+51137,"Orange County, Virginia",B06011_001,34038,1749
+51139,"Page County, Virginia",B06011_001,26798,1971
+51141,"Patrick County, Virginia",B06011_001,25272,1872
+51143,"Pittsylvania County, Virginia",B06011_001,25733,981
+51145,"Powhatan County, Virginia",B06011_001,42834,2933
+51147,"Prince Edward County, Virginia",B06011_001,17255,2693
+51149,"Prince George County, Virginia",B06011_001,35441,2058
+51153,"Prince William County, Virginia",B06011_001,45000,803
+51155,"Pulaski County, Virginia",B06011_001,27375,1577
+51157,"Rappahannock County, Virginia",B06011_001,41894,6487
+51159,"Richmond County, Virginia",B06011_001,28738,4101
+51161,"Roanoke County, Virginia",B06011_001,36924,1246
+51163,"Rockbridge County, Virginia",B06011_001,27713,2328
+51165,"Rockingham County, Virginia",B06011_001,32117,747
+51167,"Russell County, Virginia",B06011_001,21225,1629
+51169,"Scott County, Virginia",B06011_001,23284,1640
+51171,"Shenandoah County, Virginia",B06011_001,29268,1615
+51173,"Smyth County, Virginia",B06011_001,23486,1269
+51175,"Southampton County, Virginia",B06011_001,28818,2623
+51177,"Spotsylvania County, Virginia",B06011_001,39244,1231
+51179,"Stafford County, Virginia",B06011_001,46500,1258
+51181,"Surry County, Virginia",B06011_001,32459,3988
+51183,"Sussex County, Virginia",B06011_001,26266,1449
+51185,"Tazewell County, Virginia",B06011_001,23681,1213
+51187,"Warren County, Virginia",B06011_001,33375,1652
+51191,"Washington County, Virginia",B06011_001,27093,1057
+51193,"Westmoreland County, Virginia",B06011_001,30847,2967
+51195,"Wise County, Virginia",B06011_001,21132,1031
+51197,"Wythe County, Virginia",B06011_001,26625,1786
+51199,"York County, Virginia",B06011_001,43993,1878
+51510,"Alexandria city, Virginia",B06011_001,62153,1210
+51520,"Bristol city, Virginia",B06011_001,24268,2495
+51530,"Buena Vista city, Virginia",B06011_001,17023,2514
+51540,"Charlottesville city, Virginia",B06011_001,31161,1262
+51550,"Chesapeake city, Virginia",B06011_001,38651,1183
+51570,"Colonial Heights city, Virginia",B06011_001,32454,2253
+51580,"Covington city, Virginia",B06011_001,25389,3394
+51590,"Danville city, Virginia",B06011_001,22910,1336
+51595,"Emporia city, Virginia",B06011_001,21610,3154
+51600,"Fairfax city, Virginia",B06011_001,49924,4444
+51610,"Falls Church city, Virginia",B06011_001,76901,7252
+51620,"Franklin city, Virginia",B06011_001,31527,4048
+51630,"Fredericksburg city, Virginia",B06011_001,34162,2572
+51640,"Galax city, Virginia",B06011_001,19813,4488
+51650,"Hampton city, Virginia",B06011_001,30530,775
+51660,"Harrisonburg city, Virginia",B06011_001,19251,1180
+51670,"Hopewell city, Virginia",B06011_001,26794,1508
+51678,"Lexington city, Virginia",B06011_001,9023,3905
+51680,"Lynchburg city, Virginia",B06011_001,21966,884
+51683,"Manassas city, Virginia",B06011_001,39069,1860
+51685,"Manassas Park city, Virginia",B06011_001,38535,7174
+51690,"Martinsville city, Virginia",B06011_001,22172,1635
+51700,"Newport News city, Virginia",B06011_001,31071,637
+51710,"Norfolk city, Virginia",B06011_001,27093,430
+51720,"Norton city, Virginia",B06011_001,17765,6236
+51730,"Petersburg city, Virginia",B06011_001,25818,1029
+51735,"Poquoson city, Virginia",B06011_001,46186,2012
+51740,"Portsmouth city, Virginia",B06011_001,28402,1450
+51750,"Radford city, Virginia",B06011_001,13724,1102
+51760,"Richmond city, Virginia",B06011_001,28458,1011
+51770,"Roanoke city, Virginia",B06011_001,25806,851
+51775,"Salem city, Virginia",B06011_001,30199,2031
+51790,"Staunton city, Virginia",B06011_001,29139,2836
+51800,"Suffolk city, Virginia",B06011_001,38427,1359
+51810,"Virginia Beach city, Virginia",B06011_001,39356,637
+51820,"Waynesboro city, Virginia",B06011_001,29628,2504
+51830,"Williamsburg city, Virginia",B06011_001,20061,1836
+51840,"Winchester city, Virginia",B06011_001,29627,1512
+53001,"Adams County, Washington",B06011_001,25140,1446
+53003,"Asotin County, Washington",B06011_001,27438,1911
+53005,"Benton County, Washington",B06011_001,35676,806
+53007,"Chelan County, Washington",B06011_001,30424,903
+53009,"Clallam County, Washington",B06011_001,29134,1348
+53011,"Clark County, Washington",B06011_001,37704,569
+53013,"Columbia County, Washington",B06011_001,32046,3415
+53015,"Cowlitz County, Washington",B06011_001,29266,983
+53017,"Douglas County, Washington",B06011_001,31531,975
+53019,"Ferry County, Washington",B06011_001,23028,2348
+53021,"Franklin County, Washington",B06011_001,30030,992
+53023,"Garfield County, Washington",B06011_001,30484,2078
+53025,"Grant County, Washington",B06011_001,27767,1158
+53027,"Grays Harbor County, Washington",B06011_001,27373,1018
+53029,"Island County, Washington",B06011_001,35565,1014
+53031,"Jefferson County, Washington",B06011_001,30174,2035
+53033,"King County, Washington",B06011_001,47817,497
+53035,"Kitsap County, Washington",B06011_001,38761,763
+53037,"Kittitas County, Washington",B06011_001,27400,1845
+53039,"Klickitat County, Washington",B06011_001,27441,2321
+53041,"Lewis County, Washington",B06011_001,26904,885
+53043,"Lincoln County, Washington",B06011_001,30650,1973
+53045,"Mason County, Washington",B06011_001,29926,1434
+53047,"Okanogan County, Washington",B06011_001,25660,811
+53049,"Pacific County, Washington",B06011_001,25752,1315
+53051,"Pend Oreille County, Washington",B06011_001,29469,2203
+53053,"Pierce County, Washington",B06011_001,38012,394
+53055,"San Juan County, Washington",B06011_001,35646,1195
+53057,"Skagit County, Washington",B06011_001,34295,985
+53059,"Skamania County, Washington",B06011_001,32108,2037
+53061,"Snohomish County, Washington",B06011_001,41898,449
+53063,"Spokane County, Washington",B06011_001,31612,354
+53065,"Stevens County, Washington",B06011_001,27068,982
+53067,"Thurston County, Washington",B06011_001,38156,923
+53069,"Wahkiakum County, Washington",B06011_001,27939,4885
+53071,"Walla Walla County, Washington",B06011_001,29261,1655
+53073,"Whatcom County, Washington",B06011_001,31858,543
+53075,"Whitman County, Washington",B06011_001,18275,1463
+53077,"Yakima County, Washington",B06011_001,26829,438
+54001,"Barbour County, West Virginia",B06011_001,22437,1862
+54003,"Berkeley County, West Virginia",B06011_001,32887,1211
+54005,"Boone County, West Virginia",B06011_001,24285,2005
+54007,"Braxton County, West Virginia",B06011_001,24732,1819
+54009,"Brooke County, West Virginia",B06011_001,28543,2904
+54011,"Cabell County, West Virginia",B06011_001,23393,1294
+54013,"Calhoun County, West Virginia",B06011_001,20696,1638
+54015,"Clay County, West Virginia",B06011_001,20059,2390
+54017,"Doddridge County, West Virginia",B06011_001,26009,7857
+54019,"Fayette County, West Virginia",B06011_001,23019,1215
+54021,"Gilmer County, West Virginia",B06011_001,19005,3281
+54023,"Grant County, West Virginia",B06011_001,24627,2758
+54025,"Greenbrier County, West Virginia",B06011_001,23825,1185
+54027,"Hampshire County, West Virginia",B06011_001,26221,1550
+54029,"Hancock County, West Virginia",B06011_001,27515,1635
+54031,"Hardy County, West Virginia",B06011_001,24870,1998
+54033,"Harrison County, West Virginia",B06011_001,28190,1293
+54035,"Jackson County, West Virginia",B06011_001,28581,2530
+54037,"Jefferson County, West Virginia",B06011_001,35567,1791
+54039,"Kanawha County, West Virginia",B06011_001,27231,588
+54041,"Lewis County, West Virginia",B06011_001,24185,1895
+54043,"Lincoln County, West Virginia",B06011_001,23496,2527
+54045,"Logan County, West Virginia",B06011_001,23048,2288
+54047,"McDowell County, West Virginia",B06011_001,17021,1664
+54049,"Marion County, West Virginia",B06011_001,27717,1290
+54051,"Marshall County, West Virginia",B06011_001,26779,1565
+54053,"Mason County, West Virginia",B06011_001,26900,1962
+54055,"Mercer County, West Virginia",B06011_001,23142,1347
+54057,"Mineral County, West Virginia",B06011_001,26827,1188
+54059,"Mingo County, West Virginia",B06011_001,21328,1278
+54061,"Monongalia County, West Virginia",B06011_001,25856,1013
+54063,"Monroe County, West Virginia",B06011_001,24069,1974
+54065,"Morgan County, West Virginia",B06011_001,30589,2646
+54067,"Nicholas County, West Virginia",B06011_001,23078,1202
+54069,"Ohio County, West Virginia",B06011_001,26242,847
+54071,"Pendleton County, West Virginia",B06011_001,24441,3414
+54073,"Pleasants County, West Virginia",B06011_001,26917,1175
+54075,"Pocahontas County, West Virginia",B06011_001,23029,1763
+54077,"Preston County, West Virginia",B06011_001,26293,1009
+54079,"Putnam County, West Virginia",B06011_001,33002,2010
+54081,"Raleigh County, West Virginia",B06011_001,23687,1485
+54083,"Randolph County, West Virginia",B06011_001,25967,1393
+54085,"Ritchie County, West Virginia",B06011_001,25166,1712
+54087,"Roane County, West Virginia",B06011_001,21843,1115
+54089,"Summers County, West Virginia",B06011_001,22083,1484
+54091,"Taylor County, West Virginia",B06011_001,27249,1451
+54093,"Tucker County, West Virginia",B06011_001,26303,1285
+54095,"Tyler County, West Virginia",B06011_001,25713,2699
+54097,"Upshur County, West Virginia",B06011_001,23904,2067
+54099,"Wayne County, West Virginia",B06011_001,22858,1560
+54101,"Webster County, West Virginia",B06011_001,19347,1774
+54103,"Wetzel County, West Virginia",B06011_001,23897,1896
+54105,"Wirt County, West Virginia",B06011_001,24672,2674
+54107,"Wood County, West Virginia",B06011_001,28015,1271
+54109,"Wyoming County, West Virginia",B06011_001,24333,1630
+55001,"Adams County, Wisconsin",B06011_001,26265,1029
+55003,"Ashland County, Wisconsin",B06011_001,26202,1459
+55005,"Barron County, Wisconsin",B06011_001,27863,1170
+55007,"Bayfield County, Wisconsin",B06011_001,30844,829
+55009,"Brown County, Wisconsin",B06011_001,33806,702
+55011,"Buffalo County, Wisconsin",B06011_001,32406,1398
+55013,"Burnett County, Wisconsin",B06011_001,27799,1163
+55015,"Calumet County, Wisconsin",B06011_001,39487,1318
+55017,"Chippewa County, Wisconsin",B06011_001,31980,994
+55019,"Clark County, Wisconsin",B06011_001,30283,520
+55021,"Columbia County, Wisconsin",B06011_001,37544,831
+55023,"Crawford County, Wisconsin",B06011_001,28585,1922
+55025,"Dane County, Wisconsin",B06011_001,40013,500
+55027,"Dodge County, Wisconsin",B06011_001,33255,801
+55029,"Door County, Wisconsin",B06011_001,34180,1539
+55031,"Douglas County, Wisconsin",B06011_001,31502,931
+55033,"Dunn County, Wisconsin",B06011_001,26902,874
+55035,"Eau Claire County, Wisconsin",B06011_001,30842,793
+55037,"Florence County, Wisconsin",B06011_001,26990,2774
+55039,"Fond du Lac County, Wisconsin",B06011_001,33601,925
+55041,"Forest County, Wisconsin",B06011_001,26844,1581
+55043,"Grant County, Wisconsin",B06011_001,27202,837
+55045,"Green County, Wisconsin",B06011_001,33920,921
+55047,"Green Lake County, Wisconsin",B06011_001,30888,1094
+55049,"Iowa County, Wisconsin",B06011_001,36654,1204
+55051,"Iron County, Wisconsin",B06011_001,26186,1389
+55053,"Jackson County, Wisconsin",B06011_001,28597,1482
+55055,"Jefferson County, Wisconsin",B06011_001,32749,815
+55057,"Juneau County, Wisconsin",B06011_001,29764,1327
+55059,"Kenosha County, Wisconsin",B06011_001,32933,767
+55061,"Kewaunee County, Wisconsin",B06011_001,33792,1534
+55063,"La Crosse County, Wisconsin",B06011_001,31325,637
+55065,"Lafayette County, Wisconsin",B06011_001,32136,801
+55067,"Langlade County, Wisconsin",B06011_001,29207,1334
+55069,"Lincoln County, Wisconsin",B06011_001,31921,962
+55071,"Manitowoc County, Wisconsin",B06011_001,31587,752
+55073,"Marathon County, Wisconsin",B06011_001,32541,753
+55075,"Marinette County, Wisconsin",B06011_001,28489,1493
+55077,"Marquette County, Wisconsin",B06011_001,29801,1337
+55078,"Menominee County, Wisconsin",B06011_001,25040,3344
+55079,"Milwaukee County, Wisconsin",B06011_001,30767,266
+55081,"Monroe County, Wisconsin",B06011_001,32439,1089
+55083,"Oconto County, Wisconsin",B06011_001,33460,1229
+55085,"Oneida County, Wisconsin",B06011_001,30078,1129
+55087,"Outagamie County, Wisconsin",B06011_001,35361,676
+55089,"Ozaukee County, Wisconsin",B06011_001,41139,1067
+55091,"Pepin County, Wisconsin",B06011_001,31495,1161
+55093,"Pierce County, Wisconsin",B06011_001,32507,964
+55095,"Polk County, Wisconsin",B06011_001,32416,777
+55097,"Portage County, Wisconsin",B06011_001,30889,711
+55099,"Price County, Wisconsin",B06011_001,27895,2404
+55101,"Racine County, Wisconsin",B06011_001,32139,519
+55103,"Richland County, Wisconsin",B06011_001,29953,1336
+55105,"Rock County, Wisconsin",B06011_001,31692,667
+55107,"Rusk County, Wisconsin",B06011_001,27405,894
+55109,"St. Croix County, Wisconsin",B06011_001,41976,929
+55111,"Sauk County, Wisconsin",B06011_001,31721,519
+55113,"Sawyer County, Wisconsin",B06011_001,28771,1714
+55115,"Shawano County, Wisconsin",B06011_001,29959,750
+55117,"Sheboygan County, Wisconsin",B06011_001,34336,923
+55119,"Taylor County, Wisconsin",B06011_001,30942,857
+55121,"Trempealeau County, Wisconsin",B06011_001,33307,815
+55123,"Vernon County, Wisconsin",B06011_001,30086,941
+55125,"Vilas County, Wisconsin",B06011_001,28983,1627
+55127,"Walworth County, Wisconsin",B06011_001,31390,720
+55129,"Washburn County, Wisconsin",B06011_001,28355,1431
+55131,"Washington County, Wisconsin",B06011_001,40522,646
+55133,"Waukesha County, Wisconsin",B06011_001,42100,564
+55135,"Waupaca County, Wisconsin",B06011_001,32265,776
+55137,"Waushara County, Wisconsin",B06011_001,29514,984
+55139,"Winnebago County, Wisconsin",B06011_001,32300,630
+55141,"Wood County, Wisconsin",B06011_001,31969,808
+56001,"Albany County, Wyoming",B06011_001,24512,1605
+56003,"Big Horn County, Wyoming",B06011_001,27376,2534
+56005,"Campbell County, Wyoming",B06011_001,41063,2781
+56007,"Carbon County, Wyoming",B06011_001,33086,2266
+56009,"Converse County, Wyoming",B06011_001,34080,3087
+56011,"Crook County, Wyoming",B06011_001,33152,2736
+56013,"Fremont County, Wyoming",B06011_001,27664,1271
+56015,"Goshen County, Wyoming",B06011_001,27444,1982
+56017,"Hot Springs County, Wyoming",B06011_001,29453,4439
+56019,"Johnson County, Wyoming",B06011_001,31230,4136
+56021,"Laramie County, Wyoming",B06011_001,35183,1185
+56023,"Lincoln County, Wyoming",B06011_001,33740,2714
+56025,"Natrona County, Wyoming",B06011_001,34122,1463
+56027,"Niobrara County, Wyoming",B06011_001,24583,4677
+56029,"Park County, Wyoming",B06011_001,32019,1864
+56031,"Platte County, Wyoming",B06011_001,27251,2831
+56033,"Sheridan County, Wyoming",B06011_001,33561,2156
+56035,"Sublette County, Wyoming",B06011_001,38395,9007
+56037,"Sweetwater County, Wyoming",B06011_001,37211,2377
+56039,"Teton County, Wyoming",B06011_001,43858,2129
+56041,"Uinta County, Wyoming",B06011_001,32711,1747
+56043,"Washakie County, Wyoming",B06011_001,31738,1899
+56045,"Weston County, Wyoming",B06011_001,26203,3779
+72001,"Adjuntas Municipio, Puerto Rico",B06011_001,NA,NA
+72003,"Aguada Municipio, Puerto Rico",B06011_001,NA,NA
+72005,"Aguadilla Municipio, Puerto Rico",B06011_001,NA,NA
+72007,"Aguas Buenas Municipio, Puerto Rico",B06011_001,NA,NA
+72009,"Aibonito Municipio, Puerto Rico",B06011_001,NA,NA
+72011,"Añasco Municipio, Puerto Rico",B06011_001,NA,NA
+72013,"Arecibo Municipio, Puerto Rico",B06011_001,NA,NA
+72015,"Arroyo Municipio, Puerto Rico",B06011_001,NA,NA
+72017,"Barceloneta Municipio, Puerto Rico",B06011_001,NA,NA
+72019,"Barranquitas Municipio, Puerto Rico",B06011_001,NA,NA
+72021,"Bayamón Municipio, Puerto Rico",B06011_001,NA,NA
+72023,"Cabo Rojo Municipio, Puerto Rico",B06011_001,NA,NA
+72025,"Caguas Municipio, Puerto Rico",B06011_001,NA,NA
+72027,"Camuy Municipio, Puerto Rico",B06011_001,NA,NA
+72029,"Canóvanas Municipio, Puerto Rico",B06011_001,NA,NA
+72031,"Carolina Municipio, Puerto Rico",B06011_001,NA,NA
+72033,"Cataño Municipio, Puerto Rico",B06011_001,NA,NA
+72035,"Cayey Municipio, Puerto Rico",B06011_001,NA,NA
+72037,"Ceiba Municipio, Puerto Rico",B06011_001,NA,NA
+72039,"Ciales Municipio, Puerto Rico",B06011_001,NA,NA
+72041,"Cidra Municipio, Puerto Rico",B06011_001,NA,NA
+72043,"Coamo Municipio, Puerto Rico",B06011_001,NA,NA
+72045,"Comerío Municipio, Puerto Rico",B06011_001,NA,NA
+72047,"Corozal Municipio, Puerto Rico",B06011_001,NA,NA
+72049,"Culebra Municipio, Puerto Rico",B06011_001,NA,NA
+72051,"Dorado Municipio, Puerto Rico",B06011_001,NA,NA
+72053,"Fajardo Municipio, Puerto Rico",B06011_001,NA,NA
+72054,"Florida Municipio, Puerto Rico",B06011_001,NA,NA
+72055,"Guánica Municipio, Puerto Rico",B06011_001,NA,NA
+72057,"Guayama Municipio, Puerto Rico",B06011_001,NA,NA
+72059,"Guayanilla Municipio, Puerto Rico",B06011_001,NA,NA
+72061,"Guaynabo Municipio, Puerto Rico",B06011_001,NA,NA
+72063,"Gurabo Municipio, Puerto Rico",B06011_001,NA,NA
+72065,"Hatillo Municipio, Puerto Rico",B06011_001,NA,NA
+72067,"Hormigueros Municipio, Puerto Rico",B06011_001,NA,NA
+72069,"Humacao Municipio, Puerto Rico",B06011_001,NA,NA
+72071,"Isabela Municipio, Puerto Rico",B06011_001,NA,NA
+72073,"Jayuya Municipio, Puerto Rico",B06011_001,NA,NA
+72075,"Juana Díaz Municipio, Puerto Rico",B06011_001,NA,NA
+72077,"Juncos Municipio, Puerto Rico",B06011_001,NA,NA
+72079,"Lajas Municipio, Puerto Rico",B06011_001,NA,NA
+72081,"Lares Municipio, Puerto Rico",B06011_001,NA,NA
+72083,"Las Marías Municipio, Puerto Rico",B06011_001,NA,NA
+72085,"Las Piedras Municipio, Puerto Rico",B06011_001,NA,NA
+72087,"Loíza Municipio, Puerto Rico",B06011_001,NA,NA
+72089,"Luquillo Municipio, Puerto Rico",B06011_001,NA,NA
+72091,"Manatí Municipio, Puerto Rico",B06011_001,NA,NA
+72093,"Maricao Municipio, Puerto Rico",B06011_001,NA,NA
+72095,"Maunabo Municipio, Puerto Rico",B06011_001,NA,NA
+72097,"Mayagüez Municipio, Puerto Rico",B06011_001,NA,NA
+72099,"Moca Municipio, Puerto Rico",B06011_001,NA,NA
+72101,"Morovis Municipio, Puerto Rico",B06011_001,NA,NA
+72103,"Naguabo Municipio, Puerto Rico",B06011_001,NA,NA
+72105,"Naranjito Municipio, Puerto Rico",B06011_001,NA,NA
+72107,"Orocovis Municipio, Puerto Rico",B06011_001,NA,NA
+72109,"Patillas Municipio, Puerto Rico",B06011_001,NA,NA
+72111,"Peñuelas Municipio, Puerto Rico",B06011_001,NA,NA
+72113,"Ponce Municipio, Puerto Rico",B06011_001,NA,NA
+72115,"Quebradillas Municipio, Puerto Rico",B06011_001,NA,NA
+72117,"Rincón Municipio, Puerto Rico",B06011_001,NA,NA
+72119,"Río Grande Municipio, Puerto Rico",B06011_001,NA,NA
+72121,"Sabana Grande Municipio, Puerto Rico",B06011_001,NA,NA
+72123,"Salinas Municipio, Puerto Rico",B06011_001,NA,NA
+72125,"San Germán Municipio, Puerto Rico",B06011_001,NA,NA
+72127,"San Juan Municipio, Puerto Rico",B06011_001,NA,NA
+72129,"San Lorenzo Municipio, Puerto Rico",B06011_001,NA,NA
+72131,"San Sebastián Municipio, Puerto Rico",B06011_001,NA,NA
+72133,"Santa Isabel Municipio, Puerto Rico",B06011_001,NA,NA
+72135,"Toa Alta Municipio, Puerto Rico",B06011_001,NA,NA
+72137,"Toa Baja Municipio, Puerto Rico",B06011_001,NA,NA
+72139,"Trujillo Alto Municipio, Puerto Rico",B06011_001,NA,NA
+72141,"Utuado Municipio, Puerto Rico",B06011_001,NA,NA
+72143,"Vega Alta Municipio, Puerto Rico",B06011_001,NA,NA
+72145,"Vega Baja Municipio, Puerto Rico",B06011_001,NA,NA
+72147,"Vieques Municipio, Puerto Rico",B06011_001,NA,NA
+72149,"Villalba Municipio, Puerto Rico",B06011_001,NA,NA
+72151,"Yabucoa Municipio, Puerto Rico",B06011_001,NA,NA
+72153,"Yauco Municipio, Puerto Rico",B06011_001,NA,NA
