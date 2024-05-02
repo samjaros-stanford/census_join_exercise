@@ -5,6 +5,6 @@
 
 secrets.txt
 *.nb.html
-*.pdf
 
 dev
+complete_versions
